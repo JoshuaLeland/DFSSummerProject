@@ -1,0 +1,181 @@
+,Date,Home/Away,Opp,Win Prob,Win/Loss,TeamRuns,Opp Runs,StarterID,StarterName,OppStarterID,OppStarterName
+0,"Apr 3, 2017",Home,SEA,59.8,W,3.0,0.0,9434,Dallas Keuchel,4772,Felix Hernandez
+1,"Apr 4, 2017",Home,SEA,62.9,W,2.0,1.0,14120,Lance McCullers Jr.,13048,Hisashi Iwakuma
+2,"Apr 5, 2017",Home,SEA,54.9,W,5.0,3.0,4676,Charlie Morton,11828,James Paxton
+3,"Apr 6, 2017",Home,SEA,59.3,L,2.0,4.0,12970,Joe Musgrove,17526,Ariel Miranda
+4,"Apr 7, 2017",Home,KCR,62.8,L,1.0,5.0,7754,Mike Fiers,8044,Jason Vargas
+5,"Apr 8, 2017",Home,KCR,63.9,L,3.0,7.0,9434,Dallas Keuchel,3542,Danny Duffy
+6,"Apr 9, 2017",Home,KCR,66.4,W,5.0,4.0,14120,Lance McCullers Jr.,12638,Nathan Karns
+7,"Apr 10, 2017",Away,SEA,46.9,L,0.0,6.0,4676,Charlie Morton,11828,James Paxton
+8,"Apr 11, 2017",Away,SEA,52.5,W,7.0,5.0,12970,Joe Musgrove,17526,Ariel Miranda
+9,"Apr 12, 2017",Away,SEA,53.7,W,10.0,5.0,7754,Mike Fiers,8173,Yovani Gallardo
+10,"Apr 14, 2017",Away,OAK,57.0,W,7.0,2.0,9434,Dallas Keuchel,15514,Kendall Graveman
+11,"Apr 15, 2017",Away,OAK,53.9,W,10.0,6.0,14120,Lance McCullers Jr.,15873,Sean Manaea
+12,"Apr 17, 2017",Home,LAA,58.9,W,3.0,0.0,4676,Charlie Morton,5448,Jesse Chavez
+13,"Apr 18, 2017",Home,LAA,58.4,L,2.0,5.0,12970,Joe Musgrove,3830,Ricky Nolasco
+14,"Apr 19, 2017",Home,LAA,64.2,W,5.0,1.0,9434,Dallas Keuchel,8302,JC Ramirez
+15,"Apr 20, 2017",Home,LAA,60.5,W,2.0,1.0,14120,Lance McCullers Jr.,4776,Matt Shoemaker
+16,"Apr 21, 2017",Away,TBR,50.2,W,6.0,3.0,7754,Mike Fiers,6562,Alex Cobb
+17,"Apr 22, 2017",Away,TBR,49.5,L,3.0,6.0,4676,Charlie Morton,13543,Blake Snell
+18,"Apr 23, 2017",Away,TBR,49.4,W,6.0,4.0,12970,Joe Musgrove,12022,Matt Andriese
+19,"Apr 25, 2017",Away,CLE,52.5,W,4.0,2.0,9434,Dallas Keuchel,9388,Josh Tomlin
+20,"Apr 26, 2017",Away,CLE,49.3,L,6.0,7.0,14120,Lance McCullers Jr.,12703,Trevor Bauer
+21,"Apr 27, 2017",Away,CLE,35.8,L,3.0,4.0,7754,Mike Fiers,2429,Corey Kluber
+22,"Apr 28, 2017",Home,OAK,60.4,W,9.0,4.0,4676,Charlie Morton,13654,Jharel Cotton
+23,"Apr 29, 2017",Home,OAK,58.6,L,1.0,2.0,12970,Joe Musgrove,13533,Andrew Triggs
+24,"Apr 30, 2017",Home,OAK,66.8,W,7.0,2.0,9434,Dallas Keuchel,13287,Jesse Hahn
+25,"May 1, 2017",Home,TEX,68.3,W,6.0,2.0,14120,Lance McCullers Jr.,8782,Andrew Cashner
+26,"May 2, 2017",Home,TEX,54.6,W,8.0,7.0,7754,Mike Fiers,12890,Alex Claudio
+27,"May 3, 2017",Home,TEX,64.6,W,10.0,1.0,4676,Charlie Morton,12730,Nick Martinez
+28,"May 4, 2017",Home,TEX,62.9,L,4.0,10.0,12970,Joe Musgrove,11132,A.J. Griffin
+29,"May 5, 2017",Away,LAA,55.7,W,7.0,6.0,9434,Dallas Keuchel,5448,Jesse Chavez
+30,"May 6, 2017",Away,LAA,54.9,L,1.0,2.0,14120,Lance McCullers Jr.,8302,JC Ramirez
+31,"May 7, 2017",Away,LAA,48.1,W,5.0,3.0,7754,Mike Fiers,4776,Matt Shoemaker
+32,"May 9, 2017",Home,ATL,63.5,W,8.0,3.0,4676,Charlie Morton,375,Bartolo Colon
+33,"May 10, 2017",Home,ATL,59.2,W,4.0,2.0,12970,Joe Musgrove,8137,Jaime Garcia
+34,"May 11, 2017",Away,NYY,47.1,W,3.0,2.0,9434,Dallas Keuchel,5372,Michael Pineda
+35,"May 12, 2017",Away,NYY,54.5,W,5.0,1.0,14120,Lance McCullers Jr.,16511,Jordan Montgomery
+36,"May 14, 2017",Away,NYY,42.9,L,6.0,11.0,7754,Mike Fiers,15890,Luis Severino
+37,"May 14, 2017",Away,NYY,47.4,W,10.0,7.0,4676,Charlie Morton,15764,Masahiro Tanaka
+38,"May 15, 2017",Away,MIA,48.5,W,7.0,2.0,12970,Joe Musgrove,9460,Dan Straily
+39,"May 16, 2017",Away,MIA,56.7,W,12.0,2.0,9434,Dallas Keuchel,6570,Tom Koehler
+40,"May 17, 2017",Away,MIA,55.4,W,3.0,0.0,14120,Lance McCullers Jr.,11589,Jose Urena
+41,"May 19, 2017",Home,CLE,57.2,L,3.0,5.0,4676,Charlie Morton,12703,Trevor Bauer
+42,"May 20, 2017",Home,CLE,52.7,L,0.0,3.0,7754,Mike Fiers,12808,Mike Clevinger
+43,"May 21, 2017",Home,CLE,50.8,L,6.0,8.0,12970,Joe Musgrove,5867,Danny Salazar
+44,"May 22, 2017",Home,DET,53.8,W,1.0,0.0,5401,Brad Peacock,13218,Michael Fulmer
+45,"May 23, 2017",Home,DET,64.5,W,6.0,2.0,14120,Lance McCullers Jr.,4505,Jordan Zimmermann
+46,"May 24, 2017",Home,DET,60.4,L,3.0,6.0,4676,Charlie Morton,13475,Daniel Norris
+47,"May 25, 2017",Home,DET,49.9,W,7.0,6.0,7754,Mike Fiers,8700,Justin Verlander
+48,"May 26, 2017",Home,BAL,55.1,W,2.0,0.0,12970,Joe Musgrove,14107,Kevin Gausman
+49,"May 27, 2017",Home,BAL,63.9,W,5.0,2.0,9434,Dallas Keuchel,8779,Wade Miley
+50,"May 28, 2017",Home,BAL,66.6,W,8.0,4.0,14120,Lance McCullers Jr.,13560,Alec Asher
+51,"May 29, 2017",Away,MIN,53.0,W,16.0,8.0,5401,Brad Peacock,3200,Ervin Santana
+52,"May 30, 2017",Away,MIN,48.3,W,7.0,2.0,7754,Mike Fiers,14168,Jose Berrios
+53,"May 31, 2017",Away,MIN,57.8,W,17.0,6.0,17418,David Paulino,4026,Hector Santiago
+54,"Jun 2, 2017",Away,TEX,52.6,W,7.0,1.0,9434,Dallas Keuchel,13074,Yu Darvish
+55,"Jun 3, 2017",Away,TEX,61.2,W,6.0,5.0,14120,Lance McCullers Jr.,8782,Andrew Cashner
+56,"Jun 4, 2017",Away,TEX,52.3,W,7.0,2.0,5401,Brad Peacock,6902,Martin Perez
+57,"Jun 5, 2017",Away,KCR,52.3,W,7.0,3.0,7754,Mike Fiers,6986,Ian Kennedy
+58,"Jun 6, 2017",Away,KCR,55.3,L,7.0,9.0,17418,David Paulino,13619,Jakob Junis
+59,"Jun 7, 2017",Away,KCR,58.7,L,5.0,7.0,11543,Dayan Diaz,8044,Jason Vargas
+60,"Jun 8, 2017",Away,KCR,61.9,W,6.0,1.0,14120,Lance McCullers Jr.,4538,Jason Hammel
+61,"Jun 9, 2017",Home,LAA,60.3,L,4.0,9.0,5401,Brad Peacock,4776,Matt Shoemaker
+62,"Jun 10, 2017",Home,LAA,60.7,W,3.0,1.0,7754,Mike Fiers,3830,Ricky Nolasco
+63,"Jun 11, 2017",Home,LAA,62.3,L,6.0,12.0,17418,David Paulino,5448,Jesse Chavez
+64,"Jun 12, 2017",Home,TEX,54.6,L,1.0,6.0,12970,Joe Musgrove,13074,Yu Darvish
+65,"Jun 13, 2017",Home,TEX,64.3,L,2.0,4.0,5401,Brad Peacock,12730,Nick Martinez
+66,"Jun 14, 2017",Home,TEX,61.7,W,13.0,2.0,17303,Francis Martes,8782,Andrew Cashner
+67,"Jun 16, 2017",Home,BOS,50.2,L,1.0,2.0,7754,Mike Fiers,11426,Drew Pomeranz
+68,"Jun 17, 2017",Home,BOS,52.2,W,7.0,1.0,17418,David Paulino,2717,Rick Porcello
+69,"Jun 18, 2017",Home,BOS,50.9,L,5.0,6.0,12970,Joe Musgrove,3184,David Price
+70,"Jun 19, 2017",Away,OAK,56.1,W,4.0,1.0,5401,Brad Peacock,16164,Daniel Gossett
+71,"Jun 20, 2017",Away,OAK,48.3,W,8.0,4.0,17303,Francis Martes,12768,Sonny Gray
+72,"Jun 21, 2017",Away,OAK,47.5,W,5.0,1.0,7754,Mike Fiers,15873,Sean Manaea
+73,"Jun 22, 2017",Away,OAK,52.0,W,12.0,9.0,17418,David Paulino,13287,Jesse Hahn
+74,"Jun 23, 2017",Away,SEA,47.0,L,3.0,13.0,12970,Joe Musgrove,4772,Felix Hernandez
+75,"Jun 24, 2017",Away,SEA,61.3,W,5.0,2.0,14120,Lance McCullers Jr.,12778,Sam Gaviglio
+76,"Jun 25, 2017",Away,SEA,50.8,W,8.0,2.0,17303,Francis Martes,17526,Ariel Miranda
+77,"Jun 27, 2017",Home,OAK,55.5,L,4.0,6.0,7754,Mike Fiers,15873,Sean Manaea
+78,"Jun 28, 2017",Home,OAK,61.4,W,11.0,8.0,17418,David Paulino,13287,Jesse Hahn
+79,"Jun 29, 2017",Home,OAK,65.7,W,6.0,1.0,5401,Brad Peacock,16164,Daniel Gossett
+80,"Jun 30, 2017",Home,NYY,63.6,L,4.0,13.0,14120,Lance McCullers Jr.,5372,Michael Pineda
+81,"Jul 1, 2017",Home,NYY,57.3,W,7.0,6.0,17303,Francis Martes,16511,Jordan Montgomery
+82,"Jul 2, 2017",Home,NYY,51.8,W,8.0,1.0,7754,Mike Fiers,15890,Luis Severino
+83,"Jul 4, 2017",Away,ATL,53.5,W,16.0,4.0,5401,Brad Peacock,16943,Sean Newcomb
+84,"Jul 5, 2017",Away,ATL,51.3,W,10.0,4.0,12970,Joe Musgrove,8137,Jaime Garcia
+85,"Jul 6, 2017",Away,TOR,56.5,L,4.0,7.0,14120,Lance McCullers Jr.,3201,Francisco Liriano
+86,"Jul 7, 2017",Away,TOR,48.8,W,12.0,2.0,4676,Charlie Morton,11490,Aaron Sanchez
+87,"Jul 8, 2017",Away,TOR,44.3,L,2.0,7.0,7754,Mike Fiers,13431,Marcus Stroman
+88,"Jul 9, 2017",Away,TOR,48.9,W,19.0,1.0,5401,Brad Peacock,7410,J.A. Happ
+89,"Jul 14, 2017",Home,MIN,63.9,W,10.0,5.0,4676,Charlie Morton,14168,Jose Berrios
+90,"Jul 15, 2017",Home,MIN,64.5,L,2.0,4.0,12970,Joe Musgrove,3200,Ervin Santana
+91,"Jul 16, 2017",Home,MIN,63.0,W,5.0,3.0,7754,Mike Fiers,10123,Kyle Gibson
+92,"Jul 17, 2017",Home,SEA,69.0,L,7.0,9.0,14120,Lance McCullers Jr.,17526,Ariel Miranda
+93,"Jul 18, 2017",Home,SEA,63.9,W,6.0,2.0,5401,Brad Peacock,12778,Sam Gaviglio
+94,"Jul 19, 2017",Home,SEA,53.9,L,1.0,4.0,4676,Charlie Morton,11828,James Paxton
+95,"Jul 21, 2017",Away,BAL,51.8,W,8.0,7.0,7754,Mike Fiers,3374,Ubaldo Jimenez
+96,"Jul 22, 2017",Away,BAL,50.9,W,8.0,4.0,7531,Collin McHugh,5279,Chris Tillman
+97,"Jul 23, 2017",Away,BAL,57.5,L,7.0,9.0,14120,Lance McCullers Jr.,12917,Dylan Bundy
+98,"Jul 24, 2017",Away,PHI,54.9,W,13.0,4.0,5401,Brad Peacock,11189,Vince Velasquez
+99,"Jul 25, 2017",Away,PHI,57.4,W,5.0,0.0,4676,Charlie Morton,15454,Nick Pivetta
+100,"Jul 26, 2017",Away,PHI,45.7,L,0.0,9.0,7754,Mike Fiers,16149,Aaron Nola
+101,"Jul 28, 2017",Away,DET,60.2,W,6.0,5.0,9434,Dallas Keuchel,4505,Jordan Zimmermann
+102,"Jul 29, 2017",Away,DET,54.0,L,3.0,5.0,7531,Collin McHugh,15440,Matt Boyd
+103,"Jul 30, 2017",Away,DET,54.8,L,1.0,13.0,14120,Lance McCullers Jr.,8700,Justin Verlander
+104,"Jul 31, 2017",Home,TBR,58.7,W,14.0,7.0,4676,Charlie Morton,6562,Alex Cobb
+105,"Aug 1, 2017",Home,TBR,50.3,L,4.0,6.0,7754,Mike Fiers,6345,Chris Archer
+106,"Aug 2, 2017",Home,TBR,62.8,L,0.0,3.0,9434,Dallas Keuchel,15290,Austin Pruitt
+107,"Aug 3, 2017",Home,TBR,56.3,L,3.0,5.0,7531,Collin McHugh,13543,Blake Snell
+108,"Aug 4, 2017",Home,TOR,56.3,W,16.0,7.0,5401,Brad Peacock,9013,Cesar Valdez
+109,"Aug 5, 2017",Home,TOR,57.3,L,3.0,4.0,4676,Charlie Morton,1118,Marco Estrada
+110,"Aug 6, 2017",Home,TOR,50.8,W,7.0,6.0,7754,Mike Fiers,13431,Marcus Stroman
+111,"Aug 8, 2017",Away,CHW,69.9,L,5.0,8.0,9434,Dallas Keuchel,4141,Derek Holland
+112,"Aug 9, 2017",Away,CHW,65.1,L,1.0,7.0,7531,Collin McHugh,7024,Miguel Gonzalez
+113,"Aug 10, 2017",Away,CHW,58.3,L,2.0,3.0,5401,Brad Peacock,16137,Carlos Rodon
+114,"Aug 11, 2017",Away,TEX,51.5,L,4.0,6.0,4676,Charlie Morton,4972,Cole Hamels
+115,"Aug 12, 2017",Away,TEX,50.2,L,3.0,8.0,7754,Mike Fiers,7872,Tyson Ross
+116,"Aug 13, 2017",Away,TEX,59.9,W,2.0,1.0,9434,Dallas Keuchel,8782,Andrew Cashner
+117,"Aug 14, 2017",Away,ARI,42.9,L,0.0,2.0,7531,Collin McHugh,1943,Zack Greinke
+118,"Aug 15, 2017",Away,ARI,46.5,W,9.0,4.0,5401,Brad Peacock,14706,Anthony Banda
+119,"Aug 16, 2017",Home,ARI,56.8,W,9.0,5.0,4676,Charlie Morton,11836,Taijuan Walker
+120,"Aug 17, 2017",Home,ARI,52.6,L,0.0,4.0,7754,Mike Fiers,9323,Patrick Corbin
+121,"Aug 18, 2017",Home,OAK,62.8,W,3.0,1.0,9434,Dallas Keuchel,15873,Sean Manaea
+122,"Aug 19, 2017",Home,OAK,61.2,W,3.0,0.0,7531,Collin McHugh,15514,Kendall Graveman
+123,"Aug 20, 2017",Home,OAK,63.4,L,2.0,3.0,5401,Brad Peacock,13654,Jharel Cotton
+124,"Aug 22, 2017",Home,WSN,56.4,L,3.0,4.0,4676,Charlie Morton,8753,Tanner Roark
+125,"Aug 23, 2017",Home,WSN,57.5,W,6.0,1.0,7754,Mike Fiers,1841,Edwin Jackson
+126,"Aug 24, 2017",Home,WSN,53.9,L,4.0,5.0,9434,Dallas Keuchel,10131,Stephen Strasburg
+127,"Aug 25, 2017",Away,LAA,56.4,W,2.0,1.0,7531,Collin McHugh,11502,Parker Bridwell
+128,"Aug 26, 2017",Away,LAA,49.9,L,6.0,7.0,5401,Brad Peacock,10190,Tyler Skaggs
+129,"Aug 27, 2017",Away,LAA,56.0,W,7.0,5.0,4676,Charlie Morton,3830,Ricky Nolasco
+130,"Aug 29, 2017",Home,TEX,58.3,L,2.0,12.0,7754,Mike Fiers,6902,Martin Perez
+131,"Aug 30, 2017",Home,TEX,68.8,L,1.0,8.0,9434,Dallas Keuchel,8782,Andrew Cashner
+132,"Aug 31, 2017",Home,TEX,58.8,W,5.0,1.0,7531,Collin McHugh,12730,Nick Martinez
+133,"Sep 2, 2017",Home,NYM,65.9,W,12.0,8.0,4676,Charlie Morton,11713,Matt Harvey
+134,"Sep 2, 2017",Home,NYM,68.0,W,4.0,1.0,5401,Brad Peacock,12447,Seth Lugo
+135,"Sep 3, 2017",Home,NYM,66.8,W,8.0,6.0,7754,Mike Fiers,13896,Chris Flexen
+136,"Sep 4, 2017",Away,SEA,59.3,W,6.0,2.0,9434,Dallas Keuchel,10314,Erasmo Ramirez
+137,"Sep 5, 2017",Away,SEA,59.3,W,3.0,1.0,8700,Justin Verlander,17526,Ariel Miranda
+138,"Sep 6, 2017",Away,SEA,60.5,W,5.0,3.0,14120,Lance McCullers Jr.,17553,Andrew Moore
+139,"Sep 8, 2017",Away,OAK,56.3,L,8.0,9.0,7531,Collin McHugh,13654,Jharel Cotton
+140,"Sep 9, 2017",Away,OAK,57.5,L,1.0,11.0,4676,Charlie Morton,16164,Daniel Gossett
+141,"Sep 9, 2017",Away,OAK,57.1,L,4.0,11.0,5401,Brad Peacock,16980,Daniel Mengden
+142,"Sep 10, 2017",Away,OAK,59.4,L,2.0,10.0,9434,Dallas Keuchel,15514,Kendall Graveman
+143,"Sep 12, 2017",Away,LAA,49.3,W,1.0,0.0,8700,Justin Verlander,9784,Garrett Richards
+144,"Sep 13, 2017",Away,LAA,53.1,L,1.0,9.0,7754,Mike Fiers,10190,Tyler Skaggs
+145,"Sep 14, 2017",Away,LAA,54.0,W,5.0,2.0,5401,Brad Peacock,3830,Ricky Nolasco
+146,"Sep 15, 2017",Home,SEA,55.8,W,5.0,2.0,4676,Charlie Morton,11828,James Paxton
+147,"Sep 16, 2017",Home,SEA,65.8,W,8.0,6.0,9434,Dallas Keuchel,10314,Erasmo Ramirez
+148,"Sep 17, 2017",Home,SEA,67.5,W,7.0,1.0,8700,Justin Verlander,17553,Andrew Moore
+149,"Sep 19, 2017",Home,CHW,71.5,W,3.0,1.0,7531,Collin McHugh,15474,Lucas Giolito
+150,"Sep 20, 2017",Home,CHW,75.3,W,4.0,3.0,5401,Brad Peacock,7059,James Shields
+151,"Sep 21, 2017",Home,CHW,83.9,L,1.0,3.0,9434,Dallas Keuchel,18311,Carson Fulmer
+152,"Sep 22, 2017",Home,LAA,56.8,W,3.0,0.0,8700,Justin Verlander,9784,Garrett Richards
+153,"Sep 23, 2017",Home,LAA,57.5,W,6.0,2.0,4676,Charlie Morton,9492,Bud Norris
+154,"Sep 24, 2017",Home,LAA,62.6,L,5.0,7.0,14120,Lance McCullers Jr.,10190,Tyler Skaggs
+155,"Sep 25, 2017",Away,TEX,57.5,W,11.0,2.0,7531,Collin McHugh,8782,Andrew Cashner
+156,"Sep 26, 2017",Away,TEX,55.8,W,14.0,3.0,9434,Dallas Keuchel,4972,Cole Hamels
+157,"Sep 27, 2017",Away,TEX,64.1,W,12.0,2.0,8700,Justin Verlander,12730,Nick Martinez
+158,"Sep 28, 2017",Away,BOS,49.2,W,12.0,2.0,5401,Brad Peacock,13164,Eduardo Rodriguez
+159,"Sep 29, 2017",Away,BOS,54.1,W,3.0,2.0,4676,Charlie Morton,9425,Doug Fister
+160,"Sep 30, 2017",Away,BOS,55.4,L,3.0,6.0,14120,Lance McCullers Jr.,11426,Drew Pomeranz
+161,"Oct 1, 2017",Away,BOS,46.5,W,4.0,3.0,7531,Collin McHugh,19341,Hector Velazquez
+162,"Oct 5, 2017",Home,BOS,50.4,W,8.0,2.0,8700,Justin Verlander,10603,Chris Sale
+163,"Oct 6, 2017",Home,BOS,60.5,W,8.0,2.0,9434,Dallas Keuchel,11426,Drew Pomeranz
+164,"Oct 8, 2017",Away,BOS,50.2,L,3.0,10.0,5401,Brad Peacock,9425,Doug Fister
+165,"Oct 9, 2017",Away,BOS,51.8,W,5.0,4.0,4676,Charlie Morton,2717,Rick Porcello
+166,"Oct 13, 2017",Home,NYY,57.2,W,2.0,1.0,9434,Dallas Keuchel,15764,Masahiro Tanaka
+167,"Oct 14, 2017",Home,NYY,54.8,W,2.0,1.0,8700,Justin Verlander,15890,Luis Severino
+168,"Oct 16, 2017",Away,NYY,53.8,L,1.0,8.0,4676,Charlie Morton,404,CC Sabathia
+169,"Oct 17, 2017",Away,NYY,47.2,L,4.0,6.0,14120,Lance McCullers Jr.,12768,Sonny Gray
+170,"Oct 18, 2017",Away,NYY,48.9,L,0.0,5.0,9434,Dallas Keuchel,15764,Masahiro Tanaka
+171,"Oct 20, 2017",Home,NYY,54.3,W,7.0,1.0,8700,Justin Verlander,15890,Luis Severino
+172,"Oct 21, 2017",Home,NYY,61.0,W,4.0,0.0,4676,Charlie Morton,404,CC Sabathia
+173,"Oct 24, 2017",Away,LAD,38.6,L,1.0,3.0,9434,Dallas Keuchel,2036,Clayton Kershaw
+174,"Oct 25, 2017",Away,LAD,45.4,W,7.0,6.0,8700,Justin Verlander,4806,Rich Hill
+175,"Oct 27, 2017",Home,LAD,58.3,W,5.0,3.0,14120,Lance McCullers Jr.,13074,Yu Darvish
+176,"Oct 28, 2017",Home,LAD,50.8,L,2.0,6.0,4676,Charlie Morton,13781,Alex Wood
+177,"Oct 29, 2017",Home,LAD,47.8,W,13.0,12.0,9434,Dallas Keuchel,2036,Clayton Kershaw
+178,"Oct 31, 2017",Away,LAD,45.4,L,1.0,3.0,8700,Justin Verlander,4806,Rich Hill
+179,"Nov 1, 2017",Away,LAD,50.2,W,5.0,1.0,14120,Lance McCullers Jr.,13074,Yu Darvish

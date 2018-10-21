@@ -1,0 +1,619 @@
+,Name,Team,ID,Link,G,AB,PA,H,1B,2B,3B,HR,R,RBI,BB,IBB,SO,HBP,SF,SH,GDP,SB,CS,AVG
+0,J.D. Martinez,Red Sox,6184,statsd.aspx?playerid=6184&position=OF&type=1&gds=&gde=&season=all,126,483,548,163,88,36,1,38,99,111,57,9,127,4,4,0,16,5,1,.337
+1,Xander Bogaerts,Red Sox,12161,statsd.aspx?playerid=12161&position=SS&type=1&gds=&gde=&season=all,112,430,484,122,61,39,3,19,64,86,43,4,83,6,5,0,13,5,2,.284
+2,Steve Pearce,Red Sox,9957,statsd.aspx?playerid=9957&position=1B/OF&type=1&gds=&gde=&season=all,33,90,109,25,13,6,0,6,16,15,14,0,20,4,1,0,0,0,0,.278
+3,Eduardo Nunez,Red Sox,6848,statsd.aspx?playerid=6848&position=3B/SS&type=1&gds=&gde=&season=all,112,428,446,114,82,20,3,9,52,41,13,0,66,2,2,1,16,7,2,.266
+4,Mitch Moreland,Red Sox,3086,statsd.aspx?playerid=3086&position=1B&type=1&gds=&gde=&season=all,105,352,395,89,50,20,4,15,53,66,38,1,85,0,5,0,11,2,0,.253
+5,Rafael Devers,Red Sox,17350,statsd.aspx?playerid=17350&position=3B&type=1&gds=&gde=&season=all,102,389,423,94,56,22,0,16,47,55,32,4,105,0,2,0,6,5,2,.242
+6,Blake Swihart,Red Sox,13176,statsd.aspx?playerid=13176&position=C&type=1&gds=&gde=&season=all,61,141,151,32,23,8,0,1,18,11,10,0,38,0,0,0,3,3,1,.227
+7,Sandy Leon,Red Sox,5273,statsd.aspx?playerid=5273&position=C&type=1&gds=&gde=&season=all,74,227,248,45,29,11,0,5,29,21,15,0,60,2,1,3,5,1,0,.198
+8,Tzu-Wei Lin,Red Sox,14678,statsd.aspx?playerid=14678&position=2B/SS&type=1&gds=&gde=&season=all,20,44,49,8,6,2,0,0,3,1,5,0,13,0,0,0,0,0,1,.182
+9,Dustin Pedroia,Red Sox,8370,statsd.aspx?playerid=8370&position=2B&type=1&gds=&gde=&season=all,3,11,13,1,1,0,0,0,1,0,2,0,1,0,0,0,0,0,0,.091
+10,Mookie Betts,Red Sox,13611,statsd.aspx?playerid=13611&position=OF&type=1&gds=&gde=&season=all,114,444,520,151,80,38,5,28,108,68,66,8,72,6,4,0,4,26,4,.340
+11,Andrew Benintendi,Red Sox,17901,statsd.aspx?playerid=17901&position=OF&type=1&gds=&gde=&season=all,125,484,558,141,84,36,6,15,91,75,65,1,93,2,6,1,9,20,2,.291
+12,Ian Kinsler,Red Sox,6195,statsd.aspx?playerid=6195&position=2B&type=1&gds=&gde=&season=all,14,46,49,13,11,2,0,0,7,6,3,0,8,0,0,0,0,2,2,.283
+13,Brock Holt,Red Sox,9345,statsd.aspx?playerid=9345&position=2B/OF&type=1&gds=&gde=&season=all,87,269,305,72,52,15,2,3,29,33,29,2,54,5,2,0,6,6,6,.268
+14,Hanley Ramirez,Red Sox,8001,statsd.aspx?playerid=8001&position=SS&type=1&gds=&gde=&season=all,44,177,195,45,32,7,0,6,25,29,14,0,35,2,2,0,9,4,1,.254
+15,Jackie Bradley Jr.,Red Sox,12984,statsd.aspx?playerid=12984&position=OF&type=1&gds=&gde=&season=all,119,396,446,91,51,26,3,11,64,52,37,2,114,10,3,0,6,13,1,.230
+16,Christian Vazquez,Red Sox,9774,statsd.aspx?playerid=9774&position=C&type=1&gds=&gde=&season=all,60,207,218,44,32,9,0,3,18,14,7,0,33,3,0,1,4,2,1,.213
+17,Sam Travis,Red Sox,16263,statsd.aspx?playerid=16263&position=1B&type=1&gds=&gde=&season=all,5,16,18,3,2,1,0,0,1,3,2,0,4,0,0,0,0,0,0,.188
+18,Dan Butler,Red Sox,9968,statsd.aspx?playerid=9968&position=C&type=1&gds=&gde=&season=all,2,6,7,1,1,0,0,0,0,1,0,0,2,0,1,0,0,0,0,.167
+19,Daniel Murphy,Cubs,4316,statsd.aspx?playerid=4316&position=2B&type=1&gds=&gde=&season=all,7,31,33,11,7,2,0,2,6,5,2,0,5,0,0,0,0,1,0,.355
+20,Ben Zobrist,Cubs,7435,statsd.aspx?playerid=7435&position=2B/OF&type=1&gds=&gde=&season=all,110,356,412,111,78,22,2,9,58,50,48,1,51,2,6,0,6,2,4,.312
+21,Albert Almora Jr.,Cubs,14109,statsd.aspx?playerid=14109&position=OF&type=1&gds=&gde=&season=all,124,373,404,110,81,23,1,5,57,32,23,1,72,3,3,2,9,1,2,.295
+22,Kris Bryant,Cubs,15429,statsd.aspx?playerid=15429&position=3B&type=1&gds=&gde=&season=all,76,304,358,84,49,21,3,11,46,44,39,5,75,13,2,0,3,2,4,.276
+23,David Bote,Cubs,14593,statsd.aspx?playerid=14593&position=3B&type=1&gds=&gde=&season=all,48,120,139,32,20,5,1,6,17,25,13,1,35,3,3,0,1,3,4,.267
+24,Tommy La Stella,Cubs,12371,statsd.aspx?playerid=12371&position=2B/3B&type=1&gds=&gde=&season=all,103,148,168,39,33,6,0,0,18,17,15,0,23,1,0,0,4,0,1,.264
+25,Victor Caratini,Cubs,14968,statsd.aspx?playerid=14968&position=C/1B&type=1&gds=&gde=&season=all,55,130,144,33,26,6,0,1,16,14,10,0,29,2,1,1,3,0,0,.254
+26,Kyle Schwarber,Cubs,16478,statsd.aspx?playerid=16478&position=OF&type=1&gds=&gde=&season=all,118,383,456,91,54,12,1,24,58,54,69,18,123,1,2,1,4,4,3,.238
+27,Mark Zagunis,Cubs,16565,statsd.aspx?playerid=16565&position=OF&type=1&gds=&gde=&season=all,5,5,6,2,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,.400
+28,Javier Baez,Cubs,12979,statsd.aspx?playerid=12979&position=2B/SS&type=1&gds=&gde=&season=all,129,489,520,145,74,35,8,28,81,97,21,7,125,5,4,1,10,21,7,.297
+29,Anthony Rizzo,Cubs,3473,statsd.aspx?playerid=3473&position=1B&type=1&gds=&gde=&season=all,122,461,542,130,83,24,1,22,58,86,57,12,66,17,7,0,10,6,4,.282
+30,Jason Heyward,Cubs,4940,statsd.aspx?playerid=4940&position=OF&type=1&gds=&gde=&season=all,113,402,448,111,79,21,4,7,64,52,40,1,52,1,2,2,6,1,1,.276
+31,Willson Contreras,Cubs,11609,statsd.aspx?playerid=11609&position=C&type=1&gds=&gde=&season=all,114,402,464,107,70,23,5,9,46,44,46,2,103,12,2,2,12,4,1,.266
+32,Addison Russell,Cubs,14106,statsd.aspx?playerid=14106&position=SS&type=1&gds=&gde=&season=all,112,382,424,99,72,21,1,5,51,37,37,2,87,2,2,1,7,4,0,.259
+33,Ian Happ,Cubs,17919,statsd.aspx?playerid=17919&position=OF&type=1&gds=&gde=&season=all,118,327,390,78,49,15,1,13,51,36,59,8,141,2,2,0,5,6,2,.239
+34,Efren Navarro,Cubs,9854,statsd.aspx?playerid=9854&position=1B/OF&type=1&gds=&gde=&season=all,4,6,6,1,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,.167
+35,Chris Gimenez,Cubs,7324,statsd.aspx?playerid=7324&position=C&type=1&gds=&gde=&season=all,12,28,32,4,4,0,0,0,1,1,3,0,7,0,1,0,1,1,0,.143
+36,Luke Voit,Yankees,14811,statsd.aspx?playerid=14811&position=1B&type=1&gds=&gde=&season=all,13,38,41,13,10,0,0,3,6,9,3,0,11,0,0,0,1,0,0,.342
+37,Jace Peterson,Yankees,12325,statsd.aspx?playerid=12325&position=2B&type=1&gds=&gde=&season=all,3,10,11,3,3,0,0,0,0,0,1,0,3,0,0,0,0,0,1,.300
+38,Aaron Judge,Yankees,15640,statsd.aspx?playerid=15640&position=OF&type=1&gds=&gde=&season=all,99,372,447,106,60,20,0,26,70,61,68,3,137,4,3,0,8,6,3,.285
+39,Gleyber Torres,Yankees,16997,statsd.aspx?playerid=16997&position=2B&type=1&gds=&gde=&season=all,95,333,375,91,58,12,1,20,44,58,35,3,94,3,3,1,7,5,2,.273
+40,Clint Frazier,Yankees,15983,statsd.aspx?playerid=15983&position=OF&type=1&gds=&gde=&season=all,15,34,41,9,6,3,0,0,9,1,5,0,13,2,0,0,3,0,0,.265
+41,Billy McKinney,Yankees,15654,statsd.aspx?playerid=15654&position=OF&type=1&gds=&gde=&season=all,2,4,4,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,.250
+42,Brett Gardner,Yankees,9927,statsd.aspx?playerid=9927&position=OF&type=1&gds=&gde=&season=all,118,455,526,108,75,17,5,11,80,38,59,0,86,5,4,3,6,13,1,.237
+43,Tyler Austin,Yankees,11850,statsd.aspx?playerid=11850&position=1B&type=1&gds=&gde=&season=all,34,121,132,27,13,6,0,8,16,23,8,0,53,2,1,0,2,1,1,.223
+44,Gary Sanchez,Yankees,11442,statsd.aspx?playerid=11442&position=C&type=1&gds=&gde=&season=all,66,245,279,46,18,14,0,14,37,42,31,0,67,2,1,0,6,0,0,.188
+45,Kyle Higashioka,Yankees,5517,statsd.aspx?playerid=5517&position=C&type=1&gds=&gde=&season=all,23,66,72,12,7,2,0,3,5,6,5,0,14,1,0,0,2,0,0,.182
+46,Shane Robinson,Yankees,4249,statsd.aspx?playerid=4249&position=OF&type=1&gds=&gde=&season=all,23,45,50,7,5,1,0,1,8,2,4,0,4,0,0,1,1,1,0,.156
+47,Ronald Torreyes,Yankees,11400,statsd.aspx?playerid=11400&position=2B/3B/SS&type=1&gds=&gde=&season=all,34,93,95,28,20,7,1,0,8,7,2,0,15,0,0,0,3,0,0,.301
+48,Miguel Andujar,Yankees,15878,statsd.aspx?playerid=15878&position=3B&type=1&gds=&gde=&season=all,122,470,496,141,80,37,2,22,69,74,20,2,84,3,3,0,7,2,1,.300
+49,Giancarlo Stanton,Yankees,4949,statsd.aspx?playerid=4949&position=OF&type=1&gds=&gde=&season=all,132,516,588,142,82,27,1,32,85,82,55,4,176,8,9,0,15,5,0,.275
+50,Didi Gregorius,Yankees,6012,statsd.aspx?playerid=6012&position=SS&type=1&gds=&gde=&season=all,118,452,508,122,74,22,4,22,76,74,43,3,64,4,8,1,7,10,6,.270
+51,Austin Romine,Yankees,5491,statsd.aspx?playerid=5491&position=C&type=1&gds=&gde=&season=all,69,216,239,55,34,12,0,9,28,37,17,0,57,2,3,1,8,1,0,.255
+52,Aaron Hicks,Yankees,5297,statsd.aspx?playerid=5297&position=OF&type=1&gds=&gde=&season=all,112,394,476,98,58,16,2,22,72,63,72,1,91,3,5,2,1,10,2,.249
+53,Neil Walker,Yankees,7539,statsd.aspx?playerid=7539&position=2B&type=1&gds=&gde=&season=all,94,298,339,67,47,11,0,9,42,38,33,2,73,4,4,0,3,0,0,.225
+54,Greg Bird,Yankees,14131,statsd.aspx?playerid=14131&position=1B&type=1&gds=&gde=&season=all,75,258,295,51,25,14,1,11,22,35,28,1,74,5,4,0,4,0,0,.198
+55,Tyler Wade,Yankees,15730,statsd.aspx?playerid=15730&position=2B&type=1&gds=&gde=&season=all,25,59,63,11,6,4,0,1,6,5,4,0,20,0,0,0,1,0,0,.186
+56,Brandon Drury,Yankees,11615,statsd.aspx?playerid=11615&position=2B/OF&type=1&gds=&gde=&season=all,18,51,57,9,6,2,0,1,2,7,5,0,12,1,0,0,4,0,0,.176
+57,Matt Chapman,Athletics,16505,statsd.aspx?playerid=16505&position=3B&type=1&gds=&gde=&season=all,118,439,500,124,65,32,6,21,83,52,50,0,116,9,2,0,13,1,2,.282
+58,Marcus Semien,Athletics,12533,statsd.aspx?playerid=12533&position=SS&type=1&gds=&gde=&season=all,131,534,590,138,96,29,2,11,76,48,48,1,110,1,5,2,11,13,6,.258
+59,Stephen Piscotty,Athletics,13367,statsd.aspx?playerid=13367&position=OF&type=1&gds=&gde=&season=all,124,455,498,117,63,36,0,18,56,61,32,0,92,8,3,0,18,2,0,.257
+60,Jonathan Lucroy,Athletics,7870,statsd.aspx?playerid=7870&position=C&type=1&gds=&gde=&season=all,102,347,380,86,63,19,1,3,33,45,26,1,52,2,4,1,9,0,0,.248
+61,Franklin Barreto,Athletics,15519,statsd.aspx?playerid=15519&position=2B/SS&type=1&gds=&gde=&season=all,23,61,63,15,7,4,0,4,8,13,1,0,25,1,0,0,1,0,0,.246
+62,Dustin Fowler,Athletics,17098,statsd.aspx?playerid=17098&position=OF&type=1&gds=&gde=&season=all,59,182,192,42,31,3,2,6,18,21,7,0,43,1,2,0,1,6,4,.231
+63,Matt Joyce,Athletics,3353,statsd.aspx?playerid=3353&position=OF&type=1&gds=&gde=&season=all,63,192,226,39,23,9,0,7,30,13,30,1,51,1,2,1,2,0,2,.203
+64,Bruce Maxwell,Athletics,13866,statsd.aspx?playerid=13866&position=C&type=1&gds=&gde=&season=all,18,55,58,10,5,4,0,1,5,6,2,0,13,0,1,0,3,0,0,.182
+65,Trayce Thompson,Athletics,9952,statsd.aspx?playerid=9952&position=OF&type=1&gds=&gde=&season=all,3,7,7,1,1,0,0,0,1,0,0,0,4,0,0,0,0,0,0,.143
+66,Ramon Laureano,Athletics,17128,statsd.aspx?playerid=17128&position=OF&type=1&gds=&gde=&season=all,21,59,64,18,12,3,0,3,9,10,5,0,19,0,0,0,0,4,0,.305
+67,Jed Lowrie,Athletics,4418,statsd.aspx?playerid=4418&position=2B/SS&type=1&gds=&gde=&season=all,130,496,564,136,80,34,1,21,60,83,63,1,109,3,2,0,6,0,0,.274
+68,Nick Martini,Athletics,12005,statsd.aspx?playerid=12005&position=OF&type=1&gds=&gde=&season=all,39,101,119,26,17,7,2,0,14,12,13,1,24,4,1,0,0,0,0,.257
+69,Chad Pinder,Athletics,15191,statsd.aspx?playerid=15191&position=OF&type=1&gds=&gde=&season=all,88,248,280,63,43,9,1,10,35,24,24,1,71,6,0,2,4,0,1,.254
+70,Khris Davis,Athletics,9112,statsd.aspx?playerid=9112&position=DH/OF&type=1&gds=&gde=&season=all,124,476,541,119,55,24,1,39,76,103,46,2,141,12,7,0,12,0,0,.250
+71,Mark Canha,Athletics,11445,statsd.aspx?playerid=11445&position=1B/OF&type=1&gds=&gde=&season=all,103,328,367,81,48,19,0,14,52,42,30,3,82,7,2,0,9,1,2,.247
+72,Matt Olson,Athletics,14344,statsd.aspx?playerid=14344&position=1B&type=1&gds=&gde=&season=all,134,487,551,116,63,29,0,24,67,64,54,3,134,8,2,0,12,2,1,.238
+73,Josh Phegley,Athletics,9308,statsd.aspx?playerid=9308&position=C&type=1&gds=&gde=&season=all,27,72,79,15,6,7,0,2,9,14,4,0,21,1,2,0,2,0,0,.208
+74,Boog Powell,Athletics,15103,statsd.aspx?playerid=15103&position=OF&type=1&gds=&gde=&season=all,7,24,25,4,2,1,1,0,3,0,1,0,6,0,0,0,1,1,1,.167
+75,Jake Smolinski,Athletics,5408,statsd.aspx?playerid=5408&position=OF&type=1&gds=&gde=&season=all,20,39,41,5,3,1,1,0,2,2,1,0,10,1,0,0,4,1,0,.128
+76,Leonys Martin,Indians,11846,statsd.aspx?playerid=11846&position=OF&type=1&gds=&gde=&season=all,6,15,17,5,3,0,0,2,3,4,1,0,2,0,1,0,1,0,1,.333
+77,Yandy Diaz,Indians,16578,statsd.aspx?playerid=16578&position=3B/DH&type=1&gds=&gde=&season=all,17,50,52,16,13,2,1,0,6,8,2,0,9,0,0,0,3,0,0,.320
+78,Jose Ramirez,Indians,13510,statsd.aspx?playerid=13510&position=3B&type=1&gds=&gde=&season=all,130,480,575,140,67,33,3,37,90,94,86,14,62,5,4,0,2,28,5,.292
+79,Erik Gonzalez,Indians,13369,statsd.aspx?playerid=13369&position=2B&type=1&gds=&gde=&season=all,66,116,122,33,22,9,1,1,16,15,5,0,31,1,0,0,0,3,0,.284
+80,Tyler Naquin,Indians,13359,statsd.aspx?playerid=13359&position=OF&type=1&gds=&gde=&season=all,61,174,183,46,36,7,0,3,22,23,6,1,42,2,1,0,1,1,1,.264
+81,Yonder Alonso,Indians,2530,statsd.aspx?playerid=2530&position=1B&type=1&gds=&gde=&season=all,120,434,482,107,67,18,0,22,55,75,42,1,104,1,5,0,9,0,0,.247
+82,Greg Allen,Indians,16623,statsd.aspx?playerid=16623&position=OF&type=1&gds=&gde=&season=all,66,213,229,52,42,6,2,2,27,15,8,1,46,3,1,4,5,13,1,.244
+83,Jason Kipnis,Indians,9776,statsd.aspx?playerid=9776&position=2B&type=1&gds=&gde=&season=all,122,446,506,101,65,23,1,12,54,53,53,1,94,5,1,1,4,6,1,.226
+84,Brandon Guyer,Indians,2636,statsd.aspx?playerid=2636&position=OF&type=1&gds=&gde=&season=all,83,153,173,29,15,8,0,6,19,22,12,0,38,8,0,0,4,1,0,.190
+85,Lonnie Chisenhall,Indians,7571,statsd.aspx?playerid=7571&position=3B/OF&type=1&gds=&gde=&season=all,29,84,95,27,19,6,1,1,11,9,8,1,12,2,0,1,2,1,0,.321
+86,Michael Brantley,Indians,4106,statsd.aspx?playerid=4106&position=OF&type=1&gds=&gde=&season=all,119,477,528,144,97,31,2,14,74,69,41,0,43,3,5,1,12,8,3,.302
+87,Francisco Lindor,Indians,12916,statsd.aspx?playerid=12916&position=SS&type=1&gds=&gde=&season=all,130,538,610,156,86,40,1,29,109,78,60,5,90,6,3,3,5,20,8,.290
+88,Melky Cabrera,Indians,4022,statsd.aspx?playerid=4022&position=OF&type=1&gds=&gde=&season=all,52,167,187,47,31,10,0,6,22,28,14,0,28,2,4,0,7,0,0,.281
+89,Yan Gomes,Indians,9627,statsd.aspx?playerid=9627&position=C&type=1&gds=&gde=&season=all,94,335,364,87,54,21,0,12,44,40,19,2,98,7,3,0,4,0,0,.260
+90,Rajai Davis,Indians,3708,statsd.aspx?playerid=3708&position=OF&type=1&gds=&gde=&season=all,81,175,191,43,35,6,1,1,30,6,9,0,41,3,1,3,2,16,5,.246
+91,Edwin Encarnacion,Indians,2151,statsd.aspx?playerid=2151&position=3B/DH&type=1&gds=&gde=&season=all,111,409,470,96,53,15,0,28,61,90,49,2,103,6,5,0,11,2,0,.235
+92,Bradley Zimmer,Indians,16221,statsd.aspx?playerid=16221&position=OF&type=1&gds=&gde=&season=all,34,106,114,24,17,5,0,2,14,9,7,0,44,1,0,0,1,4,1,.226
+93,Roberto Perez,Indians,2900,statsd.aspx?playerid=2900&position=C&type=1&gds=&gde=&season=all,51,149,174,23,15,6,1,1,13,8,17,0,61,1,1,6,6,1,0,.154
+94,Matt Kemp,Dodgers,5631,statsd.aspx?playerid=5631&position=OF&type=1&gds=&gde=&season=all,125,402,445,113,74,21,0,18,55,69,35,2,100,1,7,0,10,0,0,.281
+95,Manny Machado,Dodgers,11493,statsd.aspx?playerid=11493&position=3B&type=1&gds=&gde=&season=all,37,151,170,41,26,6,1,8,20,22,16,4,37,2,1,0,4,5,1,.272
+96,Yasiel Puig,Dodgers,14225,statsd.aspx?playerid=14225&position=OF&type=1&gds=&gde=&season=all,100,333,365,88,53,19,1,15,47,47,29,2,74,1,2,0,12,13,4,.264
+97,Andrew Toles,Dodgers,13414,statsd.aspx?playerid=13414&position=OF&type=1&gds=&gde=&season=all,7,23,24,6,4,2,0,0,4,4,1,1,4,0,0,0,1,0,0,.261
+98,Joc Pederson,Dodgers,11899,statsd.aspx?playerid=11899&position=OF&type=1&gds=&gde=&season=all,122,324,366,79,35,22,3,19,53,47,35,2,60,3,3,1,4,1,4,.244
+99,Chase Utley,Dodgers,1679,statsd.aspx?playerid=1679&position=2B&type=1&gds=&gde=&season=all,69,146,165,35,23,10,1,1,17,14,14,2,28,4,1,0,3,2,1,.240
+100,Brian Dozier,Dodgers,9810,statsd.aspx?playerid=9810&position=2B&type=1&gds=&gde=&season=all,25,90,110,21,11,6,0,4,12,15,19,0,17,0,1,0,3,3,0,.233
+101,Tim Locastro,Dodgers,15124,statsd.aspx?playerid=15124&position=OF&type=1&gds=&gde=&season=all,8,11,14,2,1,1,0,0,1,0,2,0,5,1,0,0,0,1,0,.182
+102,Justin Turner,Dodgers,5235,statsd.aspx?playerid=5235&position=3B&type=1&gds=&gde=&season=all,73,257,298,79,49,19,1,10,42,39,31,1,36,9,1,0,8,2,1,.307
+103,Alex Verdugo,Dodgers,17027,statsd.aspx?playerid=17027&position=OF&type=1&gds=&gde=&season=all,14,50,56,14,8,5,0,1,7,3,5,0,7,0,0,1,3,0,0,.280
+104,Corey Seager,Dodgers,13624,statsd.aspx?playerid=13624&position=SS&type=1&gds=&gde=&season=all,26,101,115,27,19,5,1,2,13,13,11,1,17,2,1,0,2,0,0,.267
+105,Cody Bellinger,Dodgers,15998,statsd.aspx?playerid=15998&position=1B/OF&type=1&gds=&gde=&season=all,132,471,534,123,71,25,6,21,74,63,58,6,130,2,3,0,7,10,0,.261
+106,Max Muncy,Dodgers,13301,statsd.aspx?playerid=13301&position=1B/3B&type=1&gds=&gde=&season=all,108,324,392,84,38,15,1,30,58,59,62,5,107,4,2,0,3,3,0,.259
+107,Chris Taylor,Dodgers,13757,statsd.aspx?playerid=13757&position=SS/OF&type=1&gds=&gde=&season=all,129,474,533,116,64,30,8,14,69,54,46,0,154,9,4,0,5,9,6,.245
+108,Yasmani Grandal,Dodgers,11368,statsd.aspx?playerid=11368&position=C&type=1&gds=&gde=&season=all,112,364,428,88,48,17,1,22,58,60,59,1,99,3,2,0,12,2,1,.242
+109,Kyle Farmer,Dodgers,14813,statsd.aspx?playerid=14813&position=3B&type=1&gds=&gde=&season=all,32,63,71,15,11,4,0,0,1,8,5,1,13,2,1,0,1,0,0,.238
+110,Enrique Hernandez,Dodgers,10472,statsd.aspx?playerid=10472&position=OF&type=1&gds=&gde=&season=all,118,327,374,76,43,14,1,18,49,44,38,3,67,1,5,3,2,2,0,.232
+111,Logan Forsythe,Dodgers,7185,statsd.aspx?playerid=7185&position=2B&type=1&gds=&gde=&season=all,70,193,211,40,28,10,0,2,18,13,17,1,43,0,1,0,5,2,0,.207
+112,Austin Barnes,Dodgers,12158,statsd.aspx?playerid=12158&position=C/2B&type=1&gds=&gde=&season=all,86,172,209,34,28,5,0,1,26,8,30,4,57,6,0,1,7,3,2,.198
+113,Breyvic Valera,Dodgers,12758,statsd.aspx?playerid=12758&position=2B&type=1&gds=&gde=&season=all,20,29,34,5,5,0,0,0,4,4,4,0,4,0,0,1,0,0,0,.172
+114,Nick Markakis,Braves,5930,statsd.aspx?playerid=5930&position=OF&type=1&gds=&gde=&season=all,132,516,581,160,105,39,2,14,71,83,56,10,64,1,8,0,16,1,1,.310
+115,Charlie Culberson,Braves,3298,statsd.aspx?playerid=3298&position=OF&type=1&gds=&gde=&season=all,92,241,257,70,40,18,2,10,39,37,14,2,65,2,0,0,4,4,2,.290
+116,Ozzie Albies,Braves,16556,statsd.aspx?playerid=16556&position=2B&type=1&gds=&gde=&season=all,128,530,565,146,88,34,3,21,90,62,26,0,95,5,3,1,8,12,3,.275
+117,Kurt Suzuki,Braves,8259,statsd.aspx?playerid=8259&position=C&type=1&gds=&gde=&season=all,85,291,325,76,47,20,0,9,39,39,19,0,33,11,4,0,5,0,0,.261
+118,Preston Tucker,Braves,13633,statsd.aspx?playerid=13633&position=OF&type=1&gds=&gde=&season=all,62,117,127,30,16,10,0,4,14,22,7,0,33,2,1,0,2,0,0,.256
+119,Lane Adams,Braves,10767,statsd.aspx?playerid=10767&position=OF&type=1&gds=&gde=&season=all,15,17,21,4,3,0,0,1,5,4,4,0,4,0,0,0,1,0,0,.235
+120,Ryan Flaherty,Braves,7888,statsd.aspx?playerid=7888&position=2B/3B&type=1&gds=&gde=&season=all,76,153,172,34,26,6,0,2,16,13,16,4,38,1,1,1,5,4,2,.222
+121,Danny Santana,Braves,10322,statsd.aspx?playerid=10322&position=SS/OF&type=1&gds=&gde=&season=all,15,28,32,5,2,3,0,0,4,2,3,0,11,1,0,0,0,1,1,.179
+122,Carlos Perez,Braves,10642,statsd.aspx?playerid=10642&position=C&type=1&gds=&gde=&season=all,8,21,22,3,3,0,0,0,0,0,1,0,6,0,0,0,1,0,0,.143
+123,Michael Reed,Braves,13228,statsd.aspx?playerid=13228&position=OF&type=1&gds=&gde=&season=all,6,6,6,2,2,0,0,0,1,0,0,0,2,0,0,0,0,0,0,.333
+124,Freddie Freeman,Braves,5361,statsd.aspx?playerid=5361&position=1B&type=1&gds=&gde=&season=all,132,510,587,158,100,35,3,20,81,78,67,9,105,6,4,0,9,8,3,.310
+125,Ronald Acuna,Braves,18401,statsd.aspx?playerid=18401&position=OF&type=1&gds=&gde=&season=all,81,315,351,90,47,21,1,21,55,47,29,0,90,5,2,0,3,11,3,.286
+126,Johan Camargo,Braves,14950,statsd.aspx?playerid=14950&position=3B&type=1&gds=&gde=&season=all,109,372,418,101,63,23,1,14,49,63,42,3,83,3,1,0,11,0,1,.272
+127,Ender Inciarte,Braves,4922,statsd.aspx?playerid=4922&position=OF&type=1&gds=&gde=&season=all,128,496,545,128,94,21,4,9,62,53,39,1,70,5,3,2,5,24,10,.258
+128,Dansby Swanson,Braves,18314,statsd.aspx?playerid=18314&position=SS&type=1&gds=&gde=&season=all,113,409,449,101,63,22,3,13,46,53,32,13,107,1,2,5,5,6,3,.247
+129,Tyler Flowers,Braves,9134,statsd.aspx?playerid=9134&position=C&type=1&gds=&gde=&season=all,63,195,235,45,33,6,0,6,28,22,32,0,54,8,0,0,5,0,0,.231
+130,Chris Stewart,Braves,3878,statsd.aspx?playerid=3878&position=C&type=1&gds=&gde=&season=all,5,14,16,3,3,0,0,0,3,3,1,0,1,0,1,0,2,0,0,.214
+131,Peter Bourjos,Braves,2578,statsd.aspx?playerid=2578&position=OF&type=1&gds=&gde=&season=all,36,44,47,9,5,2,1,1,5,4,2,0,15,0,0,1,0,0,0,.205
+132,Jose Bautista,Braves,1887,statsd.aspx?playerid=1887&position=OF&type=1&gds=&gde=&season=all,12,35,40,5,2,1,0,2,3,5,5,0,12,0,0,0,0,0,0,.143
+133,Adam Duvall,Braves,10950,statsd.aspx?playerid=10950&position=OF&type=1&gds=&gde=&season=all,22,34,37,4,4,0,0,0,6,0,3,0,9,0,0,0,1,0,0,.118
+134,Jose Altuve,Astros,5417,statsd.aspx?playerid=5417&position=2B&type=1&gds=&gde=&season=all,112,440,491,144,106,26,2,10,69,51,44,4,64,3,1,3,13,15,3,.327
+135,Alex Bregman,Astros,17678,statsd.aspx?playerid=17678&position=3B&type=1&gds=&gde=&season=all,130,499,588,146,77,43,1,25,89,86,77,0,68,9,3,0,13,10,4,.293
+136,Tony Kemp,Astros,14894,statsd.aspx?playerid=14894&position=OF&type=1&gds=&gde=&season=all,74,203,237,56,39,12,0,5,29,26,27,1,33,2,1,3,6,8,3,.276
+137,Marwin Gonzalez,Astros,5497,statsd.aspx?playerid=5497&position=SS&type=1&gds=&gde=&season=all,123,415,470,104,66,21,3,14,51,58,46,3,114,3,2,4,12,2,3,.251
+138,Josh Reddick,Astros,3892,statsd.aspx?playerid=3892&position=OF&type=1&gds=&gde=&season=all,109,366,410,90,63,12,2,13,54,41,39,3,67,0,2,1,7,6,2,.246
+139,Evan Gattis,Astros,11003,statsd.aspx?playerid=11003&position=C/DH&type=1&gds=&gde=&season=all,112,366,405,85,44,17,0,24,47,71,29,2,89,3,7,0,10,1,0,.232
+140,Jake Marisnick,Astros,11339,statsd.aspx?playerid=11339&position=OF&type=1&gds=&gde=&season=all,79,175,191,38,22,7,0,9,28,23,11,1,75,4,0,0,3,4,1,.217
+141,Tim Federowicz,Astros,8609,statsd.aspx?playerid=8609&position=C&type=1&gds=&gde=&season=all,10,34,35,7,4,3,0,0,4,2,1,0,13,0,0,0,1,0,0,.206
+142,J.D. Davis,Astros,16219,statsd.aspx?playerid=16219&position=1B/3B&type=1&gds=&gde=&season=all,30,85,93,15,12,2,0,1,9,5,8,0,23,0,0,0,3,0,0,.176
+143,Derek Fisher,Astros,16192,statsd.aspx?playerid=16192&position=OF&type=1&gds=&gde=&season=all,42,79,86,13,5,2,2,4,13,11,5,0,42,0,2,0,0,2,0,.165
+144,Tyler White,Astros,15564,statsd.aspx?playerid=15564&position=1B&type=1&gds=&gde=&season=all,39,119,135,37,20,5,2,10,17,25,16,0,28,0,0,0,1,0,1,.311
+145,Yulieski Gurriel,Astros,19198,statsd.aspx?playerid=19198&position=1B&type=1&gds=&gde=&season=all,111,440,471,123,85,29,1,8,56,64,20,0,51,5,6,0,21,5,1,.280
+146,George Springer,Astros,12856,statsd.aspx?playerid=12856&position=OF&type=1&gds=&gde=&season=all,116,448,513,113,71,23,0,19,78,61,55,0,99,5,3,0,11,6,4,.252
+147,Carlos Correa,Astros,14162,statsd.aspx?playerid=14162&position=SS&type=1&gds=&gde=&season=all,90,333,388,83,51,17,1,14,54,59,43,2,94,2,10,0,14,2,0,.249
+148,Max Stassi,Astros,10059,statsd.aspx?playerid=10059&position=C&type=1&gds=&gde=&season=all,78,214,242,50,29,13,0,8,28,27,23,0,71,5,0,0,5,0,0,.234
+149,Martin Maldonado,Astros,6887,statsd.aspx?playerid=6887&position=C&type=1&gds=&gde=&season=all,22,55,60,12,4,4,1,3,12,10,2,0,14,1,1,1,5,0,0,.218
+150,Brian McCann,Astros,4810,statsd.aspx?playerid=4810&position=C&type=1&gds=&gde=&season=all,50,155,173,32,24,3,0,5,17,17,13,0,34,4,1,0,4,0,0,.206
+151,Kyle Tucker,Astros,18345,statsd.aspx?playerid=18345&position=OF&type=1&gds=&gde=&season=all,20,52,59,8,6,1,1,0,9,3,5,0,11,2,0,0,1,1,1,.154
+152,Jose Martinez,Cardinals,7996,statsd.aspx?playerid=7996&position=1B/OF&type=1&gds=&gde=&season=all,125,434,479,134,94,24,0,16,49,75,40,0,76,2,3,0,15,0,3,.309
+153,Harrison Bader,Cardinals,18030,statsd.aspx?playerid=18030&position=OF&type=1&gds=&gde=&season=all,109,286,321,79,53,15,2,9,49,27,25,3,92,7,2,1,1,12,3,.276
+154,Yairo Munoz,Cardinals,16313,statsd.aspx?playerid=16313&position=SS&type=1&gds=&gde=&season=all,82,222,246,61,42,13,0,6,23,32,21,5,56,2,1,0,3,5,5,.275
+155,Yadier Molina,Cardinals,7007,statsd.aspx?playerid=7007&position=C&type=1&gds=&gde=&season=all,102,385,421,105,70,19,0,16,47,57,23,0,57,7,6,0,13,4,2,.273
+156,Jedd Gyorko,Cardinals,10816,statsd.aspx?playerid=10816&position=2B/3B&type=1&gds=&gde=&season=all,109,307,348,82,53,17,1,11,41,43,36,0,64,3,2,0,10,1,0,.267
+157,Kolten Wong,Cardinals,12532,statsd.aspx?playerid=12532&position=2B&type=1&gds=&gde=&season=all,110,303,349,74,49,15,2,8,37,32,25,3,51,13,3,5,4,6,4,.244
+158,Paul DeJong,Cardinals,18015,statsd.aspx?playerid=18015&position=SS&type=1&gds=&gde=&season=all,86,324,365,75,42,18,1,14,52,42,29,1,95,9,2,0,5,1,1,.231
+159,Francisco Pena,Cardinals,8298,statsd.aspx?playerid=8298&position=C&type=1&gds=&gde=&season=all,46,110,117,22,18,2,0,2,8,7,5,3,33,1,1,0,4,1,0,.200
+160,Luke Voit,Cardinals,14811,statsd.aspx?playerid=14811&position=1B&type=1&gds=&gde=&season=all,8,11,13,2,1,0,0,1,2,3,2,0,4,0,0,0,0,0,0,.182
+161,Matt Adams,Cardinals,9393,statsd.aspx?playerid=9393&position=1B&type=1&gds=&gde=&season=all,5,8,9,1,1,0,0,0,0,0,1,0,3,0,0,0,0,0,0,.125
+162,Carson Kelly,Cardinals,13620,statsd.aspx?playerid=13620&position=C&type=1&gds=&gde=&season=all,12,25,29,2,2,0,0,0,0,2,1,0,6,1,0,2,0,0,0,.080
+163,Patrick Wisdom,Cardinals,13602,statsd.aspx?playerid=13602&position=1B/3B&type=1&gds=&gde=&season=all,11,13,15,4,3,0,0,1,4,3,2,0,3,0,0,0,0,0,0,.308
+164,Marcell Ozuna,Cardinals,10324,statsd.aspx?playerid=10324&position=OF&type=1&gds=&gde=&season=all,123,484,521,133,102,13,2,16,52,69,31,2,90,2,3,0,9,2,0,.275
+165,Matt Carpenter,Cardinals,8090,statsd.aspx?playerid=8090&position=1B/3B&type=1&gds=&gde=&season=all,128,463,553,127,55,38,0,34,88,71,83,13,123,4,3,0,0,2,1,.274
+166,Tyler O'Neill,Cardinals,15711,statsd.aspx?playerid=15711&position=OF&type=1&gds=&gde=&season=all,37,93,100,25,15,3,0,7,20,17,3,0,40,2,2,0,0,2,0,.269
+167,Tommy Pham,Cardinals,2967,statsd.aspx?playerid=2967&position=OF&type=1&gds=&gde=&season=all,98,351,396,87,62,11,0,14,67,41,42,1,97,2,1,0,13,10,6,.248
+168,Greg Garcia,Cardinals,10951,statsd.aspx?playerid=10951&position=2B/3B/SS&type=1&gds=&gde=&season=all,97,161,184,36,27,6,0,3,14,13,16,0,33,4,2,1,3,2,1,.224
+169,Steven Baron,Cardinals,9787,statsd.aspx?playerid=9787&position=C&type=1&gds=&gde=&season=all,2,5,5,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,.200
+170,Dexter Fowler,Cardinals,4062,statsd.aspx?playerid=4062&position=OF&type=1&gds=&gde=&season=all,90,289,334,52,34,10,0,8,40,31,38,0,75,3,4,0,2,5,2,.180
+171,Jose Adolis Garcia,Cardinals,19287,statsd.aspx?playerid=19287&position=OF&type=1&gds=&gde=&season=all,6,12,12,1,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,.083
+172,Juan Graterol,Angels,5398,statsd.aspx?playerid=5398&position=C&type=1&gds=&gde=&season=all,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000
+173,Andrelton Simmons,Angels,10847,statsd.aspx?playerid=10847&position=SS&type=1&gds=&gde=&season=all,120,454,496,133,98,23,4,8,57,60,31,2,31,5,5,1,15,8,2,.293
+174,Francisco Arcia,Angels,10286,statsd.aspx?playerid=10286&position=C&type=1&gds=&gde=&season=all,21,50,53,14,8,3,0,3,7,15,1,0,13,2,0,0,1,1,0,.280
+175,David Fletcher,Angels,17992,statsd.aspx?playerid=17992&position=2B/3B&type=1&gds=&gde=&season=all,63,216,235,60,44,13,2,1,26,22,12,0,31,2,2,3,6,1,0,.278
+176,Justin Upton,Angels,5222,statsd.aspx?playerid=5222&position=OF&type=1&gds=&gde=&season=all,122,454,522,121,79,16,0,26,69,74,56,1,143,7,5,0,10,7,1,.267
+177,Rene Rivera,Angels,3648,statsd.aspx?playerid=3648&position=C&type=1&gds=&gde=&season=all,30,82,87,20,12,4,0,4,8,11,4,0,32,1,0,0,3,0,0,.244
+178,Eric Young Jr.,Angels,7158,statsd.aspx?playerid=7158&position=OF&type=1&gds=&gde=&season=all,26,84,90,20,13,4,2,1,11,8,4,0,21,1,1,0,4,4,1,.238
+179,Martin Maldonado,Angels,6887,statsd.aspx?playerid=6887&position=C&type=1&gds=&gde=&season=all,78,265,290,59,40,14,0,5,24,32,13,0,73,10,1,1,3,0,1,.223
+180,Jefry Marte,Angels,5107,statsd.aspx?playerid=5107&position=1B&type=1&gds=&gde=&season=all,73,150,159,31,20,5,1,5,22,17,8,0,32,1,0,0,5,1,0,.207
+181,Luis Valbuena,Angels,4969,statsd.aspx?playerid=4969&position=3B&type=1&gds=&gde=&season=all,96,266,288,53,35,9,0,9,23,33,19,3,100,1,2,0,2,3,0,.199
+182,Chris Young,Angels,3882,statsd.aspx?playerid=3882&position=OF&type=1&gds=&gde=&season=all,56,113,128,19,10,2,1,6,17,13,11,0,37,2,1,1,1,2,0,.168
+183,Kaleb Cowart,Angels,11494,statsd.aspx?playerid=11494&position=2B/3B&type=1&gds=&gde=&season=all,24,55,63,8,3,5,0,0,6,2,7,0,20,1,0,0,2,1,0,.145
+184,Jabari Blash,Angels,11247,statsd.aspx?playerid=11247&position=OF&type=1&gds=&gde=&season=all,15,26,30,3,2,1,0,0,2,1,3,0,16,0,1,0,0,0,1,.115
+185,Mike Trout,Angels,10155,statsd.aspx?playerid=10155&position=OF&type=1&gds=&gde=&season=all,114,389,503,121,65,21,4,31,87,62,103,20,102,7,3,0,5,21,1,.311
+186,Jose Briceno,Angels,13151,statsd.aspx?playerid=13151&position=C&type=1&gds=&gde=&season=all,30,79,85,23,18,2,0,3,9,8,4,0,21,1,0,1,2,0,1,.291
+187,Jose  Miguel Fernandez,Angels,19254,statsd.aspx?playerid=19254&position=1B&type=1&gds=&gde=&season=all,14,43,43,12,9,3,0,0,1,4,0,0,5,0,0,0,0,0,0,.279
+188,Shohei Ohtani,Angels,19755,statsd.aspx?playerid=19755&position=DH&type=1&gds=&gde=&season=all,87,233,262,64,32,16,1,15,38,43,26,2,76,2,0,0,2,6,1,.275
+189,Albert Pujols,Angels,1177,statsd.aspx?playerid=1177&position=1B&type=1&gds=&gde=&season=all,117,465,498,114,75,20,0,19,50,64,28,3,65,2,3,0,12,1,0,.245
+190,Ian Kinsler,Angels,6195,statsd.aspx?playerid=6195&position=2B&type=1&gds=&gde=&season=all,91,355,391,85,52,20,0,13,49,32,30,0,40,4,2,0,10,9,4,.239
+191,Kole Calhoun,Angels,11200,statsd.aspx?playerid=11200&position=OF&type=1&gds=&gde=&season=all,110,395,435,89,56,14,2,17,59,51,34,1,101,1,5,0,9,6,2,.225
+192,Zack Cozart,Angels,2616,statsd.aspx?playerid=2616&position=SS&type=1&gds=&gde=&season=all,58,224,253,49,29,13,2,5,29,18,19,0,42,7,3,0,7,0,0,.219
+193,Ryan Schimpf,Angels,9953,statsd.aspx?playerid=9953&position=2B/3B&type=1&gds=&gde=&season=all,5,5,7,1,0,0,0,1,2,2,2,0,3,0,0,0,0,0,0,.200
+194,Taylor Ward,Angels,17548,statsd.aspx?playerid=17548&position=3B&type=1&gds=&gde=&season=all,13,44,48,8,5,1,0,2,4,6,4,0,15,0,0,0,0,0,0,.182
+195,Michael Hermosillo,Angels,16285,statsd.aspx?playerid=16285&position=OF&type=1&gds=&gde=&season=all,17,39,42,6,4,2,0,0,3,0,1,0,11,2,0,0,0,0,1,.154
+196,Nolan Fontana,Angels,13267,statsd.aspx?playerid=13267&position=2B&type=1&gds=&gde=&season=all,8,11,12,1,0,0,0,1,1,1,1,0,6,0,0,0,0,0,0,.091
+197,Lorenzo Cain,Brewers,9077,statsd.aspx?playerid=9077&position=OF&type=1&gds=&gde=&season=all,115,440,508,136,102,23,2,9,71,33,60,0,78,7,1,0,6,24,7,.309
+198,Mike Moustakas,Brewers,4892,statsd.aspx?playerid=4892&position=3B&type=1&gds=&gde=&season=all,28,102,114,29,17,7,0,5,9,19,10,0,21,1,1,0,1,0,0,.284
+199,Erik Kratz,Brewers,4403,statsd.aspx?playerid=4403&position=C&type=1&gds=&gde=&season=all,45,144,153,38,30,4,0,4,15,18,3,0,28,4,1,1,5,1,0,.264
+200,Jonathan Villar,Brewers,10071,statsd.aspx?playerid=10071&position=2B/SS&type=1&gds=&gde=&season=all,87,257,279,67,50,10,1,6,26,22,19,0,80,2,1,0,9,14,2,.261
+201,Ryan Braun,Brewers,3410,statsd.aspx?playerid=3410&position=OF&type=1&gds=&gde=&season=all,100,328,358,85,49,21,1,14,47,49,23,2,67,1,3,0,6,10,4,.259
+202,Travis Shaw,Brewers,11982,statsd.aspx?playerid=11982&position=3B&type=1&gds=&gde=&season=all,126,430,498,106,57,23,0,26,62,74,59,4,87,3,5,1,7,2,2,.247
+203,Ji-Man Choi,Brewers,5452,statsd.aspx?playerid=5452&position=1B/DH&type=1&gds=&gde=&season=all,12,30,32,7,3,2,0,2,4,5,2,1,14,0,0,0,1,0,0,.233
+204,Eric Thames,Brewers,3711,statsd.aspx?playerid=3711&position=1B/OF&type=1&gds=&gde=&season=all,76,227,253,50,23,9,2,16,38,37,24,4,87,2,0,0,2,7,0,.220
+205,Jonathan Schoop,Brewers,11265,statsd.aspx?playerid=11265&position=2B&type=1&gds=&gde=&season=all,24,70,73,15,10,2,0,3,11,7,3,0,21,0,0,0,3,0,0,.214
+206,Keon Broxton,Brewers,9253,statsd.aspx?playerid=9253&position=OF&type=1&gds=&gde=&season=all,31,61,72,12,6,2,2,2,11,7,11,0,19,0,0,0,0,5,1,.197
+207,Jett Bandy,Brewers,12508,statsd.aspx?playerid=12508&position=C&type=1&gds=&gde=&season=all,24,64,71,12,9,2,0,1,5,1,3,0,23,4,0,0,0,0,0,.188
+208,Christian Yelich,Brewers,11477,statsd.aspx?playerid=11477&position=OF&type=1&gds=&gde=&season=all,118,474,524,151,92,28,5,26,93,75,43,1,119,5,2,0,12,14,3,.319
+209,Jesus Aguilar,Brewers,11342,statsd.aspx?playerid=11342&position=1B&type=1&gds=&gde=&season=all,121,390,452,108,58,20,0,30,67,92,50,3,115,4,8,0,14,0,0,.277
+210,Hernan Perez,Brewers,5751,statsd.aspx?playerid=5751&position=3B/OF&type=1&gds=&gde=&season=all,110,270,286,71,49,11,2,9,31,29,15,1,58,0,1,0,6,10,3,.263
+211,Tyler Saladino,Brewers,10807,statsd.aspx?playerid=10807&position=2B/3B/SS&type=1&gds=&gde=&season=all,37,104,116,27,20,3,0,4,10,15,9,0,33,1,1,1,3,2,2,.260
+212,Manny Pina,Brewers,2829,statsd.aspx?playerid=2829&position=C&type=1&gds=&gde=&season=all,84,267,295,68,48,11,2,7,34,22,19,3,55,5,3,1,12,2,0,.255
+213,Domingo Santana,Brewers,10348,statsd.aspx?playerid=10348&position=OF&type=1&gds=&gde=&season=all,62,189,211,47,33,11,0,3,15,17,18,1,69,1,3,0,3,1,1,.249
+214,Brad Miller,Brewers,12775,statsd.aspx?playerid=12775&position=SS&type=1&gds=&gde=&season=all,27,74,80,17,11,3,1,2,5,8,6,1,31,0,0,0,2,0,0,.230
+215,Orlando Arcia,Brewers,13185,statsd.aspx?playerid=13185&position=SS&type=1&gds=&gde=&season=all,91,275,288,59,48,8,0,3,19,22,12,0,76,0,0,1,9,5,3,.215
+216,Jacob Nottingham,Brewers,16448,statsd.aspx?playerid=16448&position=C&type=1&gds=&gde=&season=all,7,20,24,4,3,1,0,0,2,0,4,0,8,0,0,0,0,0,0,.200
+217,Brett Phillips,Brewers,14735,statsd.aspx?playerid=14735&position=OF&type=1&gds=&gde=&season=all,15,22,24,4,3,0,1,0,2,4,2,0,11,0,0,0,1,0,0,.182
+218,Eric Sogard,Brewers,7927,statsd.aspx?playerid=7927&position=2B&type=1&gds=&gde=&season=all,55,97,113,13,10,3,0,0,7,2,12,1,23,2,1,1,3,3,0,.134
+219,Howie Kendrick,Nationals,4229,statsd.aspx?playerid=4229&position=2B&type=1&gds=&gde=&season=all,40,152,160,46,28,14,0,4,17,12,5,1,29,2,1,0,6,1,1,.303
+220,Adam Eaton,Nationals,11205,statsd.aspx?playerid=11205&position=OF&type=1&gds=&gde=&season=all,72,250,285,75,56,13,1,5,41,26,24,0,48,9,0,2,2,6,1,.300
+221,Juan Soto,Nationals,20123,statsd.aspx?playerid=20123&position=OF&type=1&gds=&gde=&season=all,89,312,375,91,55,19,1,16,62,50,62,7,77,0,0,1,5,2,2,.292
+222,Ryan Zimmerman,Nationals,4220,statsd.aspx?playerid=4220&position=1B/3B&type=1&gds=&gde=&season=all,62,214,239,57,28,15,2,12,23,39,21,0,44,3,1,0,7,1,0,.266
+223,Andrew Stevenson,Nationals,17932,statsd.aspx?playerid=17932&position=OF&type=1&gds=&gde=&season=all,33,54,63,14,11,2,0,1,8,12,4,0,15,1,3,1,0,1,1,.259
+224,Mark Reynolds,Nationals,7619,statsd.aspx?playerid=7619&position=1B/3B&type=1&gds=&gde=&season=all,66,156,180,40,24,4,0,12,23,34,20,1,47,1,3,0,6,0,0,.256
+225,Wilmer Difo,Nationals,14320,statsd.aspx?playerid=14320&position=2B/SS&type=1&gds=&gde=&season=all,123,336,371,81,58,11,7,5,47,33,27,3,68,2,3,3,6,7,2,.241
+226,Michael A. Taylor,Nationals,11489,statsd.aspx?playerid=11489&position=OF&type=1&gds=&gde=&season=all,118,337,368,77,47,21,3,6,43,27,28,2,110,1,0,2,9,24,5,.228
+227,Brian Goodwin,Nationals,12858,statsd.aspx?playerid=12858&position=OF&type=1&gds=&gde=&season=all,48,65,79,13,9,1,0,3,9,12,10,0,26,2,1,1,0,3,1,.200
+228,Adrian Sanchez,Nationals,11338,statsd.aspx?playerid=11338&position=2B/3B/SS&type=1&gds=&gde=&season=all,15,23,23,4,3,1,0,0,2,1,0,0,4,0,0,0,0,0,0,.174
+229,Moises Sierra,Nationals,6050,statsd.aspx?playerid=6050&position=OF&type=1&gds=&gde=&season=all,27,54,60,9,7,2,0,0,4,4,2,0,20,2,2,0,2,1,1,.167
+230,Matt Reynolds,Nationals,13788,statsd.aspx?playerid=13788&position=3B/SS&type=1&gds=&gde=&season=all,12,13,14,2,2,0,0,0,1,1,1,0,4,0,0,0,0,0,0,.154
+231,Daniel Murphy,Nationals,4316,statsd.aspx?playerid=4316&position=2B&type=1&gds=&gde=&season=all,56,190,205,57,42,9,0,6,17,29,13,2,17,0,2,0,4,1,0,.300
+232,Anthony Rendon,Nationals,12861,statsd.aspx?playerid=12861&position=3B&type=1&gds=&gde=&season=all,108,419,469,125,74,32,1,18,64,65,41,4,69,2,7,0,3,1,1,.298
+233,Trea Turner,Nationals,16252,statsd.aspx?playerid=16252&position=SS&type=1&gds=&gde=&season=all,134,545,602,145,105,19,5,16,81,55,51,3,110,4,0,2,2,33,8,.266
+234,Matt Adams,Nationals,9393,statsd.aspx?playerid=9393&position=1B&type=1&gds=&gde=&season=all,94,249,277,64,37,9,0,18,37,48,24,2,55,4,0,0,6,0,0,.257
+235,Bryce Harper,Nationals,11579,statsd.aspx?playerid=11579&position=OF&type=1&gds=&gde=&season=all,131,457,565,113,57,26,0,30,84,84,95,13,141,6,7,0,5,11,2,.247
+236,Matt Wieters,Nationals,4298,statsd.aspx?playerid=4298&position=C&type=1&gds=&gde=&season=all,59,186,212,43,31,6,0,6,18,22,21,3,35,2,2,1,5,0,1,.231
+237,Spencer Kieboom,Nationals,13300,statsd.aspx?playerid=13300&position=C&type=1&gds=&gde=&season=all,37,88,100,17,12,5,0,0,9,6,10,0,22,1,1,0,2,0,0,.193
+238,Pedro Severino,Nationals,14523,statsd.aspx?playerid=14523&position=C&type=1&gds=&gde=&season=all,63,181,203,31,20,9,0,2,13,15,17,4,46,4,1,0,3,1,0,.171
+239,Curt Casali,Reds,12510,statsd.aspx?playerid=12510&position=C&type=1&gds=&gde=&season=all,38,99,114,32,21,7,0,4,13,16,11,1,22,2,1,1,5,0,2,.323
+240,Jesse Winker,Reds,13590,statsd.aspx?playerid=13590&position=OF&type=1&gds=&gde=&season=all,89,281,334,84,61,16,0,7,38,43,49,4,46,2,1,1,6,0,0,.299
+241,Phillip Ervin,Reds,14738,statsd.aspx?playerid=14738&position=OF&type=1&gds=&gde=&season=all,53,136,158,40,27,8,1,4,19,24,15,0,33,3,4,0,1,4,1,.294
+242,Joey Votto,Reds,4314,statsd.aspx?playerid=4314&position=1B&type=1&gds=&gde=&season=all,118,408,509,116,81,24,2,9,58,55,91,6,81,8,2,0,14,1,0,.284
+243,Tucker Barnhart,Reds,10200,statsd.aspx?playerid=10200&position=C&type=1&gds=&gde=&season=all,114,389,448,97,66,20,2,9,46,40,51,2,76,2,3,3,10,0,4,.249
+244,Alex Blandino,Reds,16271,statsd.aspx?playerid=16271&position=2B/3B&type=1&gds=&gde=&season=all,69,128,147,30,25,4,0,1,14,8,13,1,41,4,0,2,4,0,0,.234
+245,Adam Duvall,Reds,10950,statsd.aspx?playerid=10950&position=OF&type=1&gds=&gde=&season=all,105,331,370,68,34,19,0,15,40,61,34,3,100,4,1,0,8,2,2,.205
+246,Preston Tucker,Reds,13633,statsd.aspx?playerid=13633&position=OF&type=1&gds=&gde=&season=all,17,37,42,7,4,1,0,2,4,5,4,0,9,1,0,0,0,0,0,.189
+247,Rosell Herrera,Reds,11611,statsd.aspx?playerid=11611&position=OF&type=1&gds=&gde=&season=all,11,13,13,2,2,0,0,0,0,0,0,0,5,0,0,0,0,0,1,.154
+248,Phil Gosselin,Reds,10953,statsd.aspx?playerid=10953&position=2B&type=1&gds=&gde=&season=all,20,24,28,3,2,0,0,1,5,2,4,1,8,0,0,0,1,0,0,.125
+249,Scooter Gennett,Reds,10339,statsd.aspx?playerid=10339&position=2B&type=1&gds=&gde=&season=all,129,491,539,154,105,28,2,19,77,79,36,3,108,4,5,3,13,4,2,.314
+250,Eugenio Suarez,Reds,12552,statsd.aspx?playerid=12552&position=3B/SS&type=1&gds=&gde=&season=all,115,434,501,128,75,21,2,30,71,95,53,5,113,8,6,0,16,1,0,.295
+251,Jose Peraza,Reds,13593,statsd.aspx?playerid=13593&position=2B/SS&type=1&gds=&gde=&season=all,130,520,564,151,112,26,4,9,71,44,28,4,61,6,3,7,11,20,6,.290
+252,Mason Williams,Reds,11859,statsd.aspx?playerid=11859&position=OF&type=1&gds=&gde=&season=all,27,78,83,22,16,4,1,1,7,5,3,0,19,0,0,2,4,1,0,.282
+253,Scott Schebler,Reds,12225,statsd.aspx?playerid=12225&position=OF&type=1&gds=&gde=&season=all,80,283,317,75,48,15,0,12,42,38,25,1,71,7,2,0,4,3,1,.265
+254,Billy Hamilton,Reds,10199,statsd.aspx?playerid=10199&position=OF&type=1&gds=&gde=&season=all,126,420,463,102,81,10,7,4,66,28,38,0,112,1,3,1,1,29,8,.243
+255,Devin Mesoraco,Reds,5666,statsd.aspx?playerid=5666&position=C&type=1&gds=&gde=&season=all,18,41,45,9,6,2,0,1,1,3,2,0,10,2,0,0,2,0,0,.220
+256,Brandon Dixon,Reds,15214,statsd.aspx?playerid=15214&position=1B/OF&type=1&gds=&gde=&season=all,57,91,94,18,9,6,0,3,10,7,3,0,32,0,0,0,1,0,0,.198
+257,Dilson Herrera,Reds,14335,statsd.aspx?playerid=14335&position=2B&type=1&gds=&gde=&season=all,34,53,61,10,5,2,0,3,8,6,7,0,22,1,0,0,0,0,0,.189
+258,Tony Cruz,Reds,2802,statsd.aspx?playerid=2802&position=C&type=1&gds=&gde=&season=all,9,26,26,4,2,1,0,1,2,2,0,0,11,0,0,0,4,0,0,.154
+259,Cliff Pennington,Reds,3395,statsd.aspx?playerid=3395&position=2B/SS&type=1&gds=&gde=&season=all,16,29,34,4,4,0,0,0,1,0,5,0,13,0,0,0,1,0,0,.138
+260,Matt Duffy,Rays,13836,statsd.aspx?playerid=13836&position=3B&type=1&gds=&gde=&season=all,112,436,478,130,107,18,1,4,48,35,34,1,79,6,2,0,12,10,6,.298
+261,Joey Wendle,Rays,13853,statsd.aspx?playerid=13853&position=2B&type=1&gds=&gde=&season=all,113,389,432,115,84,19,5,7,46,48,26,1,82,8,8,1,10,12,4,.296
+262,Michael Perez,Rays,12977,statsd.aspx?playerid=12977&position=C&type=1&gds=&gde=&season=all,24,74,80,21,15,5,0,1,9,11,3,0,19,0,2,1,0,0,0,.284
+263,Christian Arroyo,Rays,16434,statsd.aspx?playerid=16434&position=3B&type=1&gds=&gde=&season=all,20,53,59,14,10,2,1,1,5,6,6,0,16,0,0,0,0,0,0,.264
+264,Adeiny Hechavarria,Rays,10459,statsd.aspx?playerid=10459&position=SS&type=1&gds=&gde=&season=all,61,217,237,56,46,7,0,3,29,26,12,1,37,0,6,2,4,1,0,.258
+265,Brad Miller,Rays,12775,statsd.aspx?playerid=12775&position=SS&type=1&gds=&gde=&season=all,48,156,174,40,24,10,1,5,16,21,16,0,51,0,2,0,2,0,0,.256
+266,Denard Span,Rays,8347,statsd.aspx?playerid=8347&position=OF&type=1&gds=&gde=&season=all,43,143,173,34,22,7,1,4,27,28,28,0,24,1,1,0,5,6,2,.238
+267,Johnny Field,Rays,15048,statsd.aspx?playerid=15048&position=OF&type=1&gds=&gde=&season=all,63,169,179,36,21,9,0,6,20,14,7,0,58,2,0,1,3,4,0,.213
+268,Jesus Sucre,Rays,5942,statsd.aspx?playerid=5942&position=C&type=1&gds=&gde=&season=all,55,142,155,29,25,4,0,0,6,16,8,2,25,0,2,3,4,1,0,.204
+269,Kevin Kiermaier,Rays,11038,statsd.aspx?playerid=11038&position=OF&type=1&gds=&gde=&season=all,69,267,294,53,34,9,6,4,32,20,21,2,76,3,1,2,5,9,3,.199
+270,Brandon Snyder,Rays,9856,statsd.aspx?playerid=9856&position=1B/3B&type=1&gds=&gde=&season=all,2,6,6,1,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,.167
+271,Mallex Smith,Rays,13608,statsd.aspx?playerid=13608&position=OF&type=1&gds=&gde=&season=all,116,374,426,115,81,23,9,2,50,31,38,0,77,5,2,7,9,27,9,.307
+272,Wilson Ramos,Rays,1433,statsd.aspx?playerid=1433&position=C&type=1&gds=&gde=&season=all,78,293,315,87,59,14,0,14,30,53,22,1,61,0,0,0,17,0,0,.297
+273,Tommy Pham,Rays,2967,statsd.aspx?playerid=2967&position=OF&type=1&gds=&gde=&season=all,12,45,53,13,9,2,0,2,9,6,6,0,12,2,0,0,0,0,0,.289
+274,Ji-Man Choi,Rays,5452,statsd.aspx?playerid=5452&position=1B/DH&type=1&gds=&gde=&season=all,28,94,108,26,15,7,1,3,9,12,12,0,25,1,1,0,0,2,0,.277
+275,Daniel Robertson,Rays,14145,statsd.aspx?playerid=14145&position=2B/SS&type=1&gds=&gde=&season=all,88,282,340,74,49,16,0,9,46,34,43,0,77,13,2,0,7,2,2,.262
+276,C.J. Cron,Rays,12546,statsd.aspx?playerid=12546&position=1B/DH&type=1&gds=&gde=&season=all,117,429,478,110,61,24,0,25,58,60,29,1,124,16,4,0,9,1,2,.256
+277,Willy Adames,Rays,15986,statsd.aspx?playerid=15986&position=SS&type=1&gds=&gde=&season=all,59,200,222,51,38,5,0,8,30,23,18,1,67,1,2,1,3,6,3,.255
+278,Carlos Gomez,Rays,4881,statsd.aspx?playerid=4881&position=OF&type=1&gds=&gde=&season=all,104,331,376,73,48,15,2,8,39,31,23,0,92,20,0,2,6,11,3,.221
+279,Brandon Lowe,Rays,18882,statsd.aspx?playerid=18882&position=2B/OF&type=1&gds=&gde=&season=all,16,47,58,10,8,1,0,1,5,8,10,0,15,1,0,0,0,2,0,.213
+280,Jake Bauers,Rays,15194,statsd.aspx?playerid=15194&position=1B&type=1&gds=&gde=&season=all,71,246,295,50,23,16,2,9,38,36,42,0,78,2,4,1,2,4,4,.203
+281,Adam Moore,Rays,9362,statsd.aspx?playerid=9362&position=C&type=1&gds=&gde=&season=all,2,6,6,1,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,.167
+282,Rob Refsnyder,Rays,13770,statsd.aspx?playerid=13770&position=2B/OF&type=1&gds=&gde=&season=all,40,84,103,14,9,3,0,2,10,5,18,0,26,0,0,0,5,0,2,.167
+283,Kristopher Negron,Diamondbacks,5306,statsd.aspx?playerid=5306&position=3B/OF&type=1&gds=&gde=&season=all,2,3,3,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,.333
+284,Paul Goldschmidt,Diamondbacks,9218,statsd.aspx?playerid=9218&position=1B&type=1&gds=&gde=&season=all,131,496,582,144,83,27,4,30,82,76,80,7,146,6,0,0,5,5,3,.290
+285,A.J. Pollock,Diamondbacks,9256,statsd.aspx?playerid=9256&position=OF&type=1&gds=&gde=&season=all,86,315,350,85,46,20,3,16,46,54,24,2,76,5,5,1,6,10,2,.270
+286,Ketel Marte,Diamondbacks,13613,statsd.aspx?playerid=13613&position=2B/SS&type=1&gds=&gde=&season=all,127,440,489,110,67,23,10,10,59,45,46,3,62,2,1,0,8,4,0,.250
+287,Steven Souza Jr.,Diamondbacks,5667,statsd.aspx?playerid=5667&position=OF&type=1&gds=&gde=&season=all,52,186,206,45,25,14,2,4,14,27,18,0,52,2,0,0,4,5,1,.242
+288,Jake Lamb,Diamondbacks,13329,statsd.aspx?playerid=13329&position=3B&type=1&gds=&gde=&season=all,56,207,238,46,32,8,0,6,34,31,26,0,65,1,4,0,4,1,2,.222
+289,Chris Owings,Diamondbacks,10030,statsd.aspx?playerid=10030&position=2B/SS&type=1&gds=&gde=&season=all,90,247,273,49,33,13,0,3,30,19,22,4,69,2,2,0,3,9,4,.198
+290,Christian Walker,Diamondbacks,13419,statsd.aspx?playerid=13419&position=1B&type=1&gds=&gde=&season=all,22,26,29,5,3,1,0,1,3,2,3,0,14,0,0,0,1,1,0,.192
+291,Deven Marrero,Diamondbacks,13325,statsd.aspx?playerid=13325&position=3B&type=1&gds=&gde=&season=all,49,78,85,13,11,1,1,0,11,7,6,0,23,0,1,0,5,3,0,.167
+292,Socrates Brito,Diamondbacks,12944,statsd.aspx?playerid=12944&position=OF&type=1&gds=&gde=&season=all,8,17,17,2,2,0,0,0,1,1,0,0,3,0,0,0,0,0,0,.118
+293,David Peralta,Diamondbacks,2136,statsd.aspx?playerid=2136&position=OF&type=1&gds=&gde=&season=all,120,468,512,142,88,24,5,25,65,71,39,3,103,4,1,0,10,2,0,.303
+294,Eduardo Escobar,Diamondbacks,6153,statsd.aspx?playerid=6153&position=3B/SS&type=1&gds=&gde=&season=all,27,97,110,27,16,7,0,4,17,13,10,1,16,0,3,0,3,1,0,.278
+295,Jon Jay,Diamondbacks,5227,statsd.aspx?playerid=5227&position=OF&type=1&gds=&gde=&season=all,62,230,258,58,43,9,4,2,43,19,11,0,41,15,1,1,5,1,1,.252
+296,Daniel Descalso,Diamondbacks,8392,statsd.aspx?playerid=8392&position=2B/3B&type=1&gds=&gde=&season=all,117,295,361,73,40,18,4,11,46,50,57,1,93,2,7,0,2,0,1,.247
+297,Nick Ahmed,Diamondbacks,12147,statsd.aspx?playerid=12147&position=SS&type=1&gds=&gde=&season=all,125,425,463,104,58,26,4,16,55,59,32,1,91,2,3,1,11,4,4,.245
+298,Jeff Mathis,Diamondbacks,3448,statsd.aspx?playerid=3448&position=C&type=1&gds=&gde=&season=all,53,157,177,35,26,8,1,0,13,18,17,1,47,0,2,1,6,0,0,.223
+299,John Ryan Murphy,Diamondbacks,10346,statsd.aspx?playerid=10346&position=C&type=1&gds=&gde=&season=all,75,189,203,40,24,7,0,9,19,24,10,1,60,1,1,2,1,0,0,.212
+300,Jarrod Dyson,Diamondbacks,4866,statsd.aspx?playerid=4866&position=OF&type=1&gds=&gde=&season=all,67,206,237,39,31,4,2,2,29,12,27,2,34,0,1,3,3,16,3,.189
+301,Alex Avila,Diamondbacks,7476,statsd.aspx?playerid=7476&position=C&type=1&gds=&gde=&season=all,69,168,201,27,16,5,0,6,11,18,31,1,81,1,1,0,4,0,0,.161
+302,Shin-Soo Choo,Rangers,3174,statsd.aspx?playerid=3174&position=OF&type=1&gds=&gde=&season=all,124,483,574,135,85,28,1,21,75,60,81,2,133,7,2,1,9,4,1,.280
+303,Adrian Beltre,Rangers,639,statsd.aspx?playerid=639&position=3B&type=1&gds=&gde=&season=all,94,343,383,94,71,15,1,7,34,46,28,2,81,5,7,0,10,1,0,.274
+304,Rougned Odor,Rangers,12282,statsd.aspx?playerid=12282&position=2B&type=1&gds=&gde=&season=all,103,375,427,100,60,21,2,17,66,59,37,1,101,9,4,2,3,10,11,.267
+305,Nomar Mazara,Rangers,14553,statsd.aspx?playerid=14553&position=OF&type=1&gds=&gde=&season=all,103,398,438,105,70,18,1,16,51,61,34,2,94,4,2,0,12,1,0,.264
+306,Jose Trevino,Rangers,16725,statsd.aspx?playerid=16725&position=C&type=1&gds=&gde=&season=all,3,8,8,2,2,0,0,0,0,3,0,0,1,0,0,0,1,0,0,.250
+307,Robinson Chirinos,Rangers,3142,statsd.aspx?playerid=3142&position=C&type=1&gds=&gde=&season=all,95,311,368,68,37,14,1,16,43,56,42,0,127,13,2,0,6,2,0,.219
+308,Delino DeShields,Rangers,11379,statsd.aspx?playerid=11379&position=OF&type=1&gds=&gde=&season=all,85,294,348,60,45,12,1,2,47,22,39,0,75,3,1,11,1,18,3,.204
+309,Ryan Rua,Rangers,12409,statsd.aspx?playerid=12409&position=1B/OF&type=1&gds=&gde=&season=all,56,124,132,24,15,2,1,6,16,12,5,0,44,0,1,2,2,3,1,.194
+310,Renato Nunez,Rangers,14503,statsd.aspx?playerid=14503&position=3B&type=1&gds=&gde=&season=all,13,36,41,6,4,1,0,1,2,2,3,0,12,1,1,0,0,0,0,.167
+311,Juan Centeno,Rangers,7168,statsd.aspx?playerid=7168&position=C&type=1&gds=&gde=&season=all,10,37,38,6,4,1,0,1,3,3,1,0,7,0,0,0,2,0,0,.162
+312,Willie Calhoun,Rangers,17838,statsd.aspx?playerid=17838&position=OF&type=1&gds=&gde=&season=all,22,69,77,19,13,5,0,1,7,9,5,0,17,1,2,0,1,0,0,.275
+313,Isiah Kiner-Falefa,Rangers,16512,statsd.aspx?playerid=16512&position=C/3B&type=1&gds=&gde=&season=all,94,311,347,83,60,17,2,4,42,32,26,1,57,4,1,5,12,7,5,.267
+314,Elvis Andrus,Rangers,8709,statsd.aspx?playerid=8709&position=SS&type=1&gds=&gde=&season=all,72,304,329,81,57,17,3,4,40,28,21,0,47,2,2,0,7,4,3,.266
+315,Jurickson Profar,Rangers,10815,statsd.aspx?playerid=10815&position=SS&type=1&gds=&gde=&season=all,119,427,487,108,59,29,6,14,68,65,44,1,67,12,4,0,8,9,0,.253
+316,Ronald Guzman,Rangers,14388,statsd.aspx?playerid=14388&position=1B&type=1&gds=&gde=&season=all,102,325,362,76,47,14,2,13,39,49,30,2,104,6,1,0,7,1,0,.234
+317,Joey Gallo,Rangers,14128,statsd.aspx?playerid=14128&position=1B/3B/OF&type=1&gds=&gde=&season=all,126,428,498,90,35,20,1,34,73,78,67,4,173,3,0,0,3,3,4,.210
+318,Carlos Tocci,Rangers,14558,statsd.aspx?playerid=14558&position=OF&type=1&gds=&gde=&season=all,58,103,116,21,18,2,1,0,8,4,6,0,36,1,0,6,2,0,3,.204
+319,Drew Robinson,Rangers,11761,statsd.aspx?playerid=11761&position=3B/OF&type=1&gds=&gde=&season=all,38,95,108,17,13,3,0,1,16,5,13,0,52,0,0,0,0,2,1,.179
+320,Carlos Perez,Rangers,10642,statsd.aspx?playerid=10642&position=C&type=1&gds=&gde=&season=all,17,43,47,7,4,2,0,1,1,3,1,0,10,1,0,2,3,1,0,.163
+321,Hanser Alberto,Rangers,11902,statsd.aspx?playerid=11902&position=2B&type=1&gds=&gde=&season=all,6,12,13,1,1,0,0,0,0,0,1,0,2,0,0,0,0,0,1,.083
+322,Austin Meadows,Pirates,15672,statsd.aspx?playerid=15672&position=OF&type=1&gds=&gde=&season=all,49,154,165,45,30,8,2,5,16,13,8,2,35,1,2,0,1,4,1,.292
+323,David Freese,Pirates,9549,statsd.aspx?playerid=9549&position=3B&type=1&gds=&gde=&season=all,93,237,261,67,47,10,1,9,29,41,18,1,56,3,3,0,10,0,0,.283
+324,Colin Moran,Pirates,16909,statsd.aspx?playerid=16909&position=3B&type=1&gds=&gde=&season=all,119,357,397,99,75,15,1,8,43,48,32,3,70,3,5,0,6,0,2,.277
+325,Francisco Cervelli,Pirates,5275,statsd.aspx?playerid=5275&position=C&type=1&gds=&gde=&season=all,86,274,338,72,46,12,3,11,36,49,47,1,73,13,3,1,6,1,2,.263
+326,Josh Bell,Pirates,13145,statsd.aspx?playerid=13145&position=1B&type=1&gds=&gde=&season=all,122,413,475,108,71,25,4,8,62,54,57,1,84,0,5,0,12,0,3,.262
+327,Gregory Polanco,Pirates,12907,statsd.aspx?playerid=12907&position=OF&type=1&gds=&gde=&season=all,122,431,502,107,50,30,6,21,71,74,59,5,112,3,7,0,10,9,2,.248
+328,Kevin Newman,Pirates,17696,statsd.aspx?playerid=17696&position=2B/SS&type=1&gds=&gde=&season=all,9,16,19,3,2,1,0,0,1,0,3,1,5,0,0,0,0,0,0,.188
+329,Jordan Luplow,Pirates,16424,statsd.aspx?playerid=16424&position=OF&type=1&gds=&gde=&season=all,22,46,51,8,5,0,1,2,10,3,5,0,8,0,0,0,4,1,0,.174
+330,Corey Dickerson,Pirates,10762,statsd.aspx?playerid=10762&position=OF&type=1&gds=&gde=&season=all,114,431,456,128,85,26,6,11,53,46,17,3,65,4,4,0,13,7,3,.297
+331,Elias Diaz,Pirates,11680,statsd.aspx?playerid=11680&position=C&type=1&gds=&gde=&season=all,75,231,252,66,45,12,0,9,31,29,18,1,32,1,2,0,4,0,1,.286
+332,Adam Frazier,Pirates,15223,statsd.aspx?playerid=15223&position=2B/OF&type=1&gds=&gde=&season=all,86,228,254,64,40,15,2,7,37,25,21,1,37,3,1,1,3,0,2,.281
+333,Starling Marte,Pirates,9241,statsd.aspx?playerid=9241&position=OF&type=1&gds=&gde=&season=all,118,453,490,124,80,23,4,17,67,59,27,2,94,6,3,1,8,29,11,.274
+334,Jordy Mercer,Pirates,6547,statsd.aspx?playerid=6547&position=SS&type=1&gds=&gde=&season=all,107,359,400,94,59,27,2,6,41,37,31,9,82,6,3,1,10,2,0,.262
+335,Josh Harrison,Pirates,8202,statsd.aspx?playerid=8202&position=2B/3B&type=1&gds=&gde=&season=all,88,316,345,81,62,11,1,7,39,33,17,1,59,5,5,2,8,3,0,.256
+336,Adeiny Hechavarria,Pirates,10459,statsd.aspx?playerid=10459&position=SS&type=1&gds=&gde=&season=all,15,43,47,10,5,4,0,1,2,3,3,1,11,0,1,0,3,0,0,.233
+337,Jose Osuna,Pirates,12937,statsd.aspx?playerid=12937&position=1B/OF&type=1&gds=&gde=&season=all,30,63,64,12,7,3,0,2,4,8,1,0,14,0,0,0,1,0,0,.190
+338,Max Moroff,Pirates,14556,statsd.aspx?playerid=14556&position=2B/SS&type=1&gds=&gde=&season=all,26,59,67,11,7,1,0,3,7,9,7,1,24,1,0,0,0,0,0,.186
+339,Sean Rodriguez,Pirates,6589,statsd.aspx?playerid=6589&position=2B&type=1&gds=&gde=&season=all,66,150,173,25,14,5,1,5,21,19,22,1,60,1,0,0,1,1,0,.167
+340,Jacob Stallings,Pirates,13723,statsd.aspx?playerid=13723&position=C&type=1&gds=&gde=&season=all,6,13,14,2,2,0,0,0,1,0,1,0,4,0,0,0,0,0,0,.154
+341,Zach Vincej,Mariners,13269,statsd.aspx?playerid=13269&position=SS&type=1&gds=&gde=&season=all,1,4,4,2,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,.500
+342,Jean Segura,Mariners,5933,statsd.aspx?playerid=5933&position=SS&type=1&gds=&gde=&season=all,122,501,537,159,119,28,3,9,81,58,24,2,65,3,6,3,16,20,10,.317
+343,Ben Gamel,Mariners,12160,statsd.aspx?playerid=12160&position=OF&type=1&gds=&gde=&season=all,80,217,243,63,46,12,4,1,30,13,22,1,49,4,0,0,4,6,3,.290
+344,Robinson Cano,Mariners,3269,statsd.aspx?playerid=3269&position=2B&type=1&gds=&gde=&season=all,52,201,230,56,38,13,0,5,28,28,24,2,33,3,2,0,6,0,0,.279
+345,Taylor Motter,Mariners,12399,statsd.aspx?playerid=12399&position=SS/OF&type=1&gds=&gde=&season=all,8,15,17,4,3,0,0,1,2,1,2,0,5,0,0,0,0,0,0,.267
+346,Ryon Healy,Mariners,15447,statsd.aspx?playerid=15447&position=1B/3B&type=1&gds=&gde=&season=all,110,411,431,100,64,13,0,23,44,62,17,0,93,2,1,0,18,0,0,.243
+347,Gordon Beckham,Mariners,9015,statsd.aspx?playerid=9015&position=2B&type=1&gds=&gde=&season=all,14,36,41,8,7,1,0,0,1,1,3,0,7,0,0,2,1,1,0,.222
+348,Guillermo Heredia,Mariners,18721,statsd.aspx?playerid=18721&position=OF&type=1&gds=&gde=&season=all,106,263,301,57,42,10,1,4,22,14,26,0,51,4,2,6,3,1,3,.217
+349,Andrew Romine,Mariners,1159,statsd.aspx?playerid=1159&position=3B/SS&type=1&gds=&gde=&season=all,68,110,122,23,21,2,0,0,15,1,7,0,37,1,0,4,2,1,0,.209
+350,Cameron Maybin,Mariners,5223,statsd.aspx?playerid=5223&position=OF&type=1&gds=&gde=&season=all,19,65,70,13,12,0,0,1,8,3,5,0,15,0,0,0,2,1,0,.200
+351,Mike Zunino,Mariners,13265,statsd.aspx?playerid=13265&position=C&type=1&gds=&gde=&season=all,91,300,327,58,29,11,0,18,30,40,19,0,125,6,2,0,7,0,0,.193
+352,Mike Marjama,Mariners,12594,statsd.aspx?playerid=12594&position=C&type=1&gds=&gde=&season=all,10,27,29,3,0,3,0,0,1,0,2,0,6,0,0,0,2,0,1,.111
+353,Denard Span,Mariners,8347,statsd.aspx?playerid=8347&position=OF&type=1&gds=&gde=&season=all,70,224,248,68,45,12,5,6,27,26,15,0,35,3,6,0,4,1,1,.304
+354,Mitch Haniger,Mariners,14274,statsd.aspx?playerid=14274&position=OF&type=1&gds=&gde=&season=all,130,486,560,136,83,29,2,22,70,83,60,4,124,9,5,0,6,7,2,.280
+355,Dee Gordon,Mariners,8203,statsd.aspx?playerid=8203&position=2B&type=1&gds=&gde=&season=all,119,482,512,132,109,16,5,2,57,25,8,0,72,9,4,9,8,29,10,.274
+356,Nelson Cruz,Mariners,2434,statsd.aspx?playerid=2434&position=DH/OF&type=1&gds=&gde=&season=all,116,417,474,111,63,15,1,32,56,81,42,5,93,13,2,0,13,1,0,.266
+357,Chris Herrmann,Mariners,9284,statsd.aspx?playerid=9284&position=C/OF&type=1&gds=&gde=&season=all,30,62,72,15,8,4,2,1,5,4,9,0,19,0,1,0,0,0,0,.242
+358,Kyle Seager,Mariners,9785,statsd.aspx?playerid=9785&position=3B&type=1&gds=&gde=&season=all,129,497,534,109,58,31,0,20,52,72,30,2,114,4,3,0,9,2,2,.219
+359,Dan Vogelbach,Mariners,14130,statsd.aspx?playerid=14130&position=1B&type=1&gds=&gde=&season=all,25,66,79,14,10,2,0,2,6,7,11,0,24,2,0,0,3,0,0,.212
+360,Ichiro Suzuki,Mariners,1101,statsd.aspx?playerid=1101&position=OF&type=1&gds=&gde=&season=all,15,44,47,9,9,0,0,0,5,0,3,0,7,0,0,0,0,0,0,.205
+361,John Andreoli,Mariners,13012,statsd.aspx?playerid=13012&position=OF&type=1&gds=&gde=&season=all,3,5,6,1,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,.200
+362,David Freitas,Mariners,10619,statsd.aspx?playerid=10619&position=C&type=1&gds=&gde=&season=all,29,78,90,15,10,4,0,1,8,4,8,0,21,0,0,1,2,0,0,.192
+363,Jeff McNeil,Mets,15362,statsd.aspx?playerid=15362&position=2B&type=1&gds=&gde=&season=all,35,116,130,37,27,5,3,2,17,10,9,1,11,3,0,2,1,3,1,.319
+364,Jack Reinheimer,Mets,14938,statsd.aspx?playerid=14938&position=3B/SS/OF&type=1&gds=&gde=&season=all,5,14,15,4,4,0,0,0,3,0,1,0,5,0,0,0,0,0,0,.286
+365,Wilmer Flores,Mets,5827,statsd.aspx?playerid=5827&position=3B/SS&type=1&gds=&gde=&season=all,114,354,394,97,62,24,0,11,39,48,28,1,35,4,8,0,7,0,0,.274
+366,Yoenis Cespedes,Mets,13110,statsd.aspx?playerid=13110&position=OF&type=1&gds=&gde=&season=all,38,141,157,37,22,6,0,9,20,29,13,2,50,1,2,0,1,3,0,.262
+367,Adrian Gonzalez,Mets,1908,statsd.aspx?playerid=1908&position=1B&type=1&gds=&gde=&season=all,54,169,187,40,29,5,0,6,15,26,15,3,34,1,2,0,5,0,0,.237
+368,Michael Conforto,Mets,16376,statsd.aspx?playerid=16376&position=OF&type=1&gds=&gde=&season=all,124,430,511,100,64,17,0,19,61,53,71,7,135,6,4,0,7,2,4,.233
+369,Jay Bruce,Mets,9892,statsd.aspx?playerid=9892&position=OF&type=1&gds=&gde=&season=all,68,231,256,51,32,14,1,4,18,19,25,3,53,0,0,0,2,2,1,.221
+370,Luis Guillorme,Mets,16451,statsd.aspx?playerid=16451&position=2B/3B&type=1&gds=&gde=&season=all,35,67,74,14,12,2,0,0,4,5,7,0,3,0,0,0,1,1,0,.209
+371,Jose Reyes,Mets,1736,statsd.aspx?playerid=1736&position=SS&type=1&gds=&gde=&season=all,95,199,218,40,23,10,3,4,27,15,19,1,31,0,0,0,5,5,2,.201
+372,Dominic Smith,Mets,15653,statsd.aspx?playerid=15653&position=1B&type=1&gds=&gde=&season=all,31,77,80,15,6,6,1,2,7,3,1,0,27,2,0,0,1,0,0,.195
+373,Jose Lobaton,Mets,4243,statsd.aspx?playerid=4243&position=C&type=1&gds=&gde=&season=all,19,46,53,7,4,2,1,0,3,3,7,0,14,0,0,0,2,0,0,.152
+374,Tomas Nido,Mets,13755,statsd.aspx?playerid=13755&position=C&type=1&gds=&gde=&season=all,23,49,53,7,6,1,0,0,5,3,3,0,16,0,1,0,3,0,0,.143
+375,Juan Lagares,Mets,5384,statsd.aspx?playerid=5384&position=OF&type=1&gds=&gde=&season=all,30,59,64,20,18,1,1,0,9,6,3,1,9,1,1,0,2,3,1,.339
+376,Austin Jackson,Mets,9848,statsd.aspx?playerid=9848&position=OF&type=1&gds=&gde=&season=all,32,116,125,37,28,6,1,2,14,13,9,0,36,0,0,0,2,1,2,.319
+377,Asdrubal Cabrera,Mets,4962,statsd.aspx?playerid=4962&position=SS&type=1&gds=&gde=&season=all,98,375,407,104,62,23,1,18,48,58,29,1,81,1,2,0,12,0,0,.277
+378,Brandon Nimmo,Mets,12927,statsd.aspx?playerid=12927&position=OF&type=1&gds=&gde=&season=all,112,354,423,95,51,21,8,15,65,40,51,1,122,18,0,0,6,8,5,.268
+379,Amed Rosario,Mets,15518,statsd.aspx?playerid=15518&position=SS&type=1&gds=&gde=&season=all,126,441,472,110,76,21,6,7,60,43,24,4,96,2,2,3,8,16,10,.249
+380,Kevin Plawecki,Mets,13807,statsd.aspx?playerid=13807&position=C&type=1&gds=&gde=&season=all,60,187,217,44,26,11,2,5,28,25,22,1,50,7,1,0,11,0,1,.235
+381,Todd Frazier,Mets,785,statsd.aspx?playerid=785&position=3B&type=1&gds=&gde=&season=all,88,324,369,75,46,13,0,16,46,52,34,1,83,5,6,0,10,8,1,.231
+382,Devin Mesoraco,Mets,5666,statsd.aspx?playerid=5666&position=C&type=1&gds=&gde=&season=all,60,189,214,40,25,6,0,9,22,26,22,3,37,2,1,0,7,0,0,.212
+383,Jose Bautista,Mets,1887,statsd.aspx?playerid=1887&position=OF&type=1&gds=&gde=&season=all,83,245,302,50,28,13,0,9,37,37,51,2,84,5,1,0,2,2,2,.204
+384,Travis d'Arnaud,Mets,7739,statsd.aspx?playerid=7739&position=C&type=1&gds=&gde=&season=all,4,15,16,3,2,0,0,1,1,3,1,0,5,0,0,0,0,0,0,.200
+385,Phillip Evans,Mets,12950,statsd.aspx?playerid=12950&position=2B/3B&type=1&gds=&gde=&season=all,15,21,23,3,3,0,0,0,1,1,2,0,8,0,0,0,1,1,0,.143
+386,Jose Bautista,Phillies,1887,statsd.aspx?playerid=1887&position=OF&type=1&gds=&gde=&season=all,2,2,5,1,1,0,0,0,1,1,2,0,1,1,0,0,0,0,0,.500
+387,Roman Quinn,Phillies,13546,statsd.aspx?playerid=13546&position=OF&type=1&gds=&gde=&season=all,27,65,67,24,16,4,3,1,10,7,2,0,10,0,0,0,0,6,2,.369
+388,Maikel Franco,Phillies,12179,statsd.aspx?playerid=12179&position=3B&type=1&gds=&gde=&season=all,121,413,444,112,72,17,1,22,47,66,28,7,60,0,3,0,13,1,0,.271
+389,Pedro Florimon,Phillies,8385,statsd.aspx?playerid=8385&position=SS&type=1&gds=&gde=&season=all,33,57,62,15,7,5,1,2,11,5,5,0,20,0,0,0,0,1,1,.263
+390,Cesar Hernandez,Phillies,10556,statsd.aspx?playerid=10556&position=2B&type=1&gds=&gde=&season=all,133,503,590,128,100,15,2,11,82,41,83,3,127,2,1,1,11,17,5,.254
+391,Jorge Alfaro,Phillies,12180,statsd.aspx?playerid=12180&position=C&type=1&gds=&gde=&season=all,95,314,341,79,54,15,1,9,32,32,16,6,126,10,1,0,2,2,0,.252
+392,Justin Bour,Phillies,9744,statsd.aspx?playerid=9744&position=1B&type=1&gds=&gde=&season=all,9,20,22,5,3,1,0,1,3,2,2,0,6,0,0,0,0,0,0,.250
+393,Carlos Santana,Phillies,2396,statsd.aspx?playerid=2396&position=C/1B&type=1&gds=&gde=&season=all,132,459,559,102,57,23,2,20,68,77,92,5,81,1,7,0,9,2,1,.222
+394,Andrew Knapp,Phillies,14942,statsd.aspx?playerid=14942&position=C&type=1&gds=&gde=&season=all,69,162,185,35,23,6,2,4,19,15,20,1,63,2,1,0,1,1,0,.216
+395,J.P. Crawford,Phillies,15491,statsd.aspx?playerid=15491&position=3B/SS&type=1&gds=&gde=&season=all,34,93,112,18,10,5,1,2,14,8,12,0,33,4,0,2,2,2,0,.194
+396,Aaron Altherr,Phillies,11270,statsd.aspx?playerid=11270&position=OF&type=1&gds=&gde=&season=all,89,210,248,36,21,8,1,6,22,33,33,0,81,3,2,0,12,1,2,.171
+397,Dylan Cozens,Phillies,15115,statsd.aspx?playerid=15115&position=OF&type=1&gds=&gde=&season=all,14,20,23,2,1,0,0,1,1,2,3,0,14,0,0,0,0,0,0,.100
+398,Wilson Ramos,Phillies,1433,statsd.aspx?playerid=1433&position=C&type=1&gds=&gde=&season=all,9,33,36,14,6,6,1,1,5,9,2,0,7,0,1,0,1,0,0,.424
+399,Odubel Herrera,Phillies,11476,statsd.aspx?playerid=11476&position=OF&type=1&gds=&gde=&season=all,123,478,519,128,87,17,3,21,57,65,34,1,103,5,1,1,8,5,2,.268
+400,Nick Williams,Phillies,14330,statsd.aspx?playerid=14330&position=OF&type=1&gds=&gde=&season=all,124,372,411,97,66,11,3,17,48,49,31,2,101,8,0,0,3,3,2,.261
+401,Rhys Hoskins,Phillies,16472,statsd.aspx?playerid=16472&position=OF&type=1&gds=&gde=&season=all,124,452,538,115,58,30,0,27,76,83,73,2,124,7,5,0,7,5,3,.254
+402,Trevor Plouffe,Phillies,7462,statsd.aspx?playerid=7462&position=3B&type=1&gds=&gde=&season=all,7,12,12,3,2,0,0,1,1,3,0,0,6,0,0,0,0,0,0,.250
+403,Scott Kingery,Phillies,17975,statsd.aspx?playerid=17975&position=SS&type=1&gds=&gde=&season=all,123,391,420,90,62,20,1,7,49,33,22,0,107,2,5,0,2,10,3,.230
+404,Asdrubal Cabrera,Phillies,4962,statsd.aspx?playerid=4962&position=SS&type=1&gds=&gde=&season=all,29,110,116,24,14,8,0,2,13,9,5,0,27,1,0,0,4,0,0,.218
+405,Jesmuel Valentin,Phillies,14548,statsd.aspx?playerid=14548&position=2B/3B&type=1&gds=&gde=&season=all,46,79,89,14,7,5,1,1,8,6,8,0,24,1,1,0,1,0,0,.177
+406,Gregorio Petit,Twins,3812,statsd.aspx?playerid=3812&position=2B/SS&type=1&gds=&gde=&season=all,12,26,30,8,8,0,0,0,4,2,4,0,6,0,0,0,0,1,1,.308
+407,Tyler Austin,Twins,11850,statsd.aspx?playerid=11850&position=1B&type=1&gds=&gde=&season=all,14,49,55,14,7,1,0,6,7,9,5,0,16,0,1,0,0,0,1,.286
+408,Jorge Polanco,Twins,13152,statsd.aspx?playerid=13152&position=SS&type=1&gds=&gde=&season=all,49,185,206,51,35,11,2,3,23,26,17,0,41,1,1,2,2,4,2,.276
+409,Willians Astudillo,Twins,15608,statsd.aspx?playerid=15608&position=3B&type=1&gds=&gde=&season=all,11,26,27,7,5,0,1,1,2,4,0,0,2,1,0,0,1,0,0,.269
+410,Ryan LaMarre,Twins,10700,statsd.aspx?playerid=10700&position=OF&type=1&gds=&gde=&season=all,43,99,109,26,21,5,0,0,7,8,8,0,33,1,1,0,3,1,1,.263
+411,Robbie Grossman,Twins,5254,statsd.aspx?playerid=5254&position=OF&type=1&gds=&gde=&season=all,99,297,341,76,53,18,1,4,32,37,36,0,69,2,4,2,1,0,1,.256
+412,Max Kepler,Twins,12144,statsd.aspx?playerid=12144&position=OF&type=1&gds=&gde=&season=all,128,441,502,101,53,26,4,18,65,47,55,2,81,4,2,0,8,3,5,.229
+413,Miguel Sano,Twins,12164,statsd.aspx?playerid=12164&position=3B/DH&type=1&gds=&gde=&season=all,65,247,277,51,25,14,0,12,31,39,28,0,105,0,2,0,7,0,0,.206
+414,Bobby Wilson,Twins,6564,statsd.aspx?playerid=6564&position=C&type=1&gds=&gde=&season=all,47,135,151,24,14,8,0,2,12,16,12,0,37,0,2,2,6,0,0,.178
+415,Jason Castro,Twins,8722,statsd.aspx?playerid=8722&position=C&type=1&gds=&gde=&season=all,19,63,74,9,5,3,0,1,4,3,9,0,26,1,1,0,2,0,0,.143
+416,Taylor Motter,Twins,12399,statsd.aspx?playerid=12399&position=SS/OF&type=1&gds=&gde=&season=all,9,19,21,1,1,0,0,0,0,1,2,0,3,0,0,0,0,1,0,.053
+417,Logan Forsythe,Twins,7185,statsd.aspx?playerid=7185&position=2B&type=1&gds=&gde=&season=all,25,88,102,28,24,4,0,0,10,9,11,0,18,3,0,0,3,1,0,.318
+418,Eddie Rosario,Twins,12155,statsd.aspx?playerid=12155&position=OF&type=1&gds=&gde=&season=all,129,525,558,153,98,31,2,22,83,74,30,5,100,0,2,1,4,8,2,.291
+419,Joe Mauer,Twins,1857,statsd.aspx?playerid=1857&position=C/1B&type=1&gds=&gde=&season=all,100,383,431,106,79,21,1,5,46,39,43,3,63,2,2,1,6,0,0,.277
+420,Eduardo Escobar,Twins,6153,statsd.aspx?playerid=6153&position=3B/SS&type=1&gds=&gde=&season=all,97,368,408,101,46,37,3,15,45,63,34,6,91,3,3,0,7,1,3,.274
+421,Jake Cave,Twins,14477,statsd.aspx?playerid=14477&position=OF&type=1&gds=&gde=&season=all,62,175,191,46,27,10,2,7,32,26,12,2,60,1,2,1,2,1,0,.263
+422,Mitch Garver,Twins,15161,statsd.aspx?playerid=15161&position=C&type=1&gds=&gde=&season=all,89,262,292,68,44,15,2,7,31,32,26,2,66,2,1,1,7,0,0,.260
+423,Ehire Adrianza,Twins,8418,statsd.aspx?playerid=8418&position=SS&type=1&gds=&gde=&season=all,91,253,279,63,42,15,1,5,31,24,20,2,71,1,1,4,4,4,1,.249
+424,Brian Dozier,Twins,9810,statsd.aspx?playerid=9810&position=2B&type=1&gds=&gde=&season=all,104,410,462,93,54,21,2,16,65,52,46,1,96,3,3,0,7,8,3,.227
+425,Logan Morrison,Twins,9205,statsd.aspx?playerid=9205&position=1B/OF&type=1&gds=&gde=&season=all,95,318,359,59,31,13,0,15,41,39,34,0,80,6,1,0,3,1,0,.186
+426,Byron Buxton,Twins,14161,statsd.aspx?playerid=14161&position=OF&type=1&gds=&gde=&season=all,28,90,94,14,10,4,0,0,8,4,3,0,28,0,0,1,1,5,0,.156
+427,Johnny Field,Twins,15048,statsd.aspx?playerid=15048&position=OF&type=1&gds=&gde=&season=all,8,16,18,1,1,0,0,0,2,1,0,0,6,1,1,0,0,0,0,.063
+428,Lourdes Gurriel,Blue Jays,19238,statsd.aspx?playerid=19238&position=2B/SS&type=1&gds=&gde=&season=all,43,163,169,48,36,5,0,7,18,23,5,0,35,1,0,0,0,1,1,.294
+429,Richard Urena,Blue Jays,16411,statsd.aspx?playerid=16411&position=SS&type=1&gds=&gde=&season=all,20,44,49,12,8,3,0,1,5,4,4,0,13,0,0,1,2,0,0,.273
+430,Kevin Pillar,Blue Jays,12434,statsd.aspx?playerid=12434&position=OF&type=1&gds=&gde=&season=all,116,430,455,110,62,35,2,11,54,51,16,0,81,3,6,0,7,13,2,.256
+431,Dwight Smith Jr.,Blue Jays,13473,statsd.aspx?playerid=13473&position=OF&type=1&gds=&gde=&season=all,25,51,60,13,6,5,0,2,7,7,6,0,10,2,1,0,1,0,0,.255
+432,Randal Grichuk,Blue Jays,10243,statsd.aspx?playerid=10243&position=OF&type=1&gds=&gde=&season=all,99,336,367,83,40,24,0,19,47,47,23,0,87,6,2,0,5,3,2,.247
+433,Teoscar Hernandez,Blue Jays,13066,statsd.aspx?playerid=13066&position=OF&type=1&gds=&gde=&season=all,109,412,451,99,48,26,7,18,56,46,33,0,141,3,3,0,13,3,4,.240
+434,Yangervis Solarte,Blue Jays,5352,statsd.aspx?playerid=5352&position=2B/3B&type=1&gds=&gde=&season=all,111,433,471,101,64,20,0,17,50,53,31,1,68,3,3,1,21,1,3,.233
+435,Giovanny Urshela,Blue Jays,10681,statsd.aspx?playerid=10681&position=3B&type=1&gds=&gde=&season=all,19,43,46,10,8,1,0,1,7,3,2,0,10,1,0,0,1,0,0,.233
+436,Dalton Pompey,Blue Jays,12797,statsd.aspx?playerid=12797&position=OF&type=1&gds=&gde=&season=all,5,10,11,2,2,0,0,0,0,0,1,0,6,0,0,0,0,0,0,.200
+437,Brandon Drury,Blue Jays,11615,statsd.aspx?playerid=11615&position=2B/OF&type=1&gds=&gde=&season=all,8,26,29,4,2,2,0,0,3,3,2,0,8,1,0,0,1,0,0,.154
+438,Gift Ngoepe,Blue Jays,10340,statsd.aspx?playerid=10340&position=2B/SS&type=1&gds=&gde=&season=all,13,18,19,1,1,0,0,0,2,0,1,0,12,0,0,0,0,0,0,.056
+439,Billy McKinney,Blue Jays,15654,statsd.aspx?playerid=15654&position=OF&type=1&gds=&gde=&season=all,11,33,41,12,5,4,0,3,6,10,6,0,8,1,1,0,0,0,0,.364
+440,Danny Jansen,Blue Jays,16535,statsd.aspx?playerid=16535&position=C&type=1&gds=&gde=&season=all,11,33,39,11,5,5,0,1,5,3,3,0,4,2,1,0,0,0,0,.333
+441,Steve Pearce,Blue Jays,9957,statsd.aspx?playerid=9957&position=1B/OF&type=1&gds=&gde=&season=all,26,79,86,23,13,6,0,4,16,16,7,0,14,0,0,0,1,0,0,.291
+442,Kendrys Morales,Blue Jays,8610,statsd.aspx?playerid=8610&position=1B/DH&type=1&gds=&gde=&season=all,110,357,406,92,57,14,0,21,43,53,44,5,81,1,4,0,13,2,2,.258
+443,Aledmys Diaz,Blue Jays,15937,statsd.aspx?playerid=15937&position=SS&type=1&gds=&gde=&season=all,103,344,364,88,54,18,0,16,50,41,15,1,50,3,2,0,9,3,4,.256
+444,Justin Smoak,Blue Jays,9054,statsd.aspx?playerid=9054&position=1B&type=1&gds=&gde=&season=all,123,442,521,110,57,32,0,21,58,64,73,2,130,3,3,0,10,0,1,.249
+445,Curtis Granderson,Blue Jays,4747,statsd.aspx?playerid=4747&position=OF&type=1&gds=&gde=&season=all,103,301,348,73,40,21,1,11,47,35,42,1,96,3,1,1,3,2,1,.243
+446,Josh Donaldson,Blue Jays,5038,statsd.aspx?playerid=5038&position=3B&type=1&gds=&gde=&season=all,36,137,159,32,16,11,0,5,22,16,21,2,44,0,1,0,1,2,0,.234
+447,Devon Travis,Blue Jays,13862,statsd.aspx?playerid=13862&position=2B&type=1&gds=&gde=&season=all,89,305,325,71,48,9,3,11,36,42,15,1,59,5,0,0,6,2,2,.233
+448,Luke Maile,Blue Jays,13355,statsd.aspx?playerid=13355&position=C&type=1&gds=&gde=&season=all,60,185,211,43,29,10,1,3,21,27,23,0,64,1,2,0,3,2,0,.232
+449,Russell Martin,Blue Jays,4616,statsd.aspx?playerid=4616&position=C&type=1&gds=&gde=&season=all,88,284,346,56,38,8,0,10,37,25,55,0,81,7,0,0,6,0,3,.197
+450,Anthony Alford,Blue Jays,14329,statsd.aspx?playerid=14329&position=OF&type=1&gds=&gde=&season=all,7,14,16,2,2,0,0,0,2,1,2,0,6,0,0,0,0,1,0,.143
+451,Nolan Arenado,Rockies,9777,statsd.aspx?playerid=9777&position=3B&type=1&gds=&gde=&season=all,126,472,542,144,84,27,2,31,83,91,63,7,98,3,4,0,13,2,2,.305
+452,Trevor Story,Rockies,12564,statsd.aspx?playerid=12564&position=SS&type=1&gds=&gde=&season=all,131,502,551,146,79,36,5,26,68,85,40,2,141,5,4,0,9,21,6,.291
+453,Gerardo Parra,Rockies,8553,statsd.aspx?playerid=8553&position=OF&type=1&gds=&gde=&season=all,117,355,389,100,78,17,0,5,44,48,26,2,65,3,3,2,5,8,4,.282
+454,Charlie Blackmon,Rockies,7859,statsd.aspx?playerid=7859&position=OF&type=1&gds=&gde=&season=all,125,504,559,140,90,21,6,23,96,56,49,1,111,5,1,0,10,8,4,.278
+455,David Dahl,Rockies,13744,statsd.aspx?playerid=13744&position=OF&type=1&gds=&gde=&season=all,51,159,172,43,26,8,2,7,16,21,11,2,45,1,1,0,3,5,1,.270
+456,Ryan McMahon,Rockies,15112,statsd.aspx?playerid=15112&position=1B&type=1&gds=&gde=&season=all,73,155,175,37,23,9,1,4,15,18,17,2,54,2,1,0,0,1,0,.239
+457,Tom Murphy,Rockies,13499,statsd.aspx?playerid=13499&position=C&type=1&gds=&gde=&season=all,31,88,91,20,10,7,1,2,5,11,3,1,41,0,0,0,2,0,1,.227
+458,Chris Iannetta,Rockies,8267,statsd.aspx?playerid=8267&position=C&type=1&gds=&gde=&season=all,86,245,291,53,34,9,1,9,26,29,37,4,74,5,3,1,14,0,0,.216
+459,Daniel Castro,Rockies,15450,statsd.aspx?playerid=15450&position=2B/SS&type=1&gds=&gde=&season=all,18,46,47,8,6,1,0,1,2,6,1,1,7,0,0,0,2,0,0,.174
+460,Carlos Gonzalez,Rockies,7287,statsd.aspx?playerid=7287&position=OF&type=1&gds=&gde=&season=all,110,384,419,113,69,26,3,15,62,56,32,4,93,1,2,0,5,5,2,.294
+461,Matt Holliday,Rockies,1873,statsd.aspx?playerid=1873&position=OF&type=1&gds=&gde=&season=all,5,14,14,4,3,0,0,1,2,1,0,0,4,0,0,0,0,0,0,.286
+462,DJ LeMahieu,Rockies,9874,statsd.aspx?playerid=9874&position=2B&type=1&gds=&gde=&season=all,97,404,440,113,74,27,0,12,70,46,29,0,62,0,5,2,10,5,4,.280
+463,Garrett Hampson,Rockies,19262,statsd.aspx?playerid=19262&position=2B&type=1&gds=&gde=&season=all,10,22,27,6,4,1,1,0,1,2,5,0,5,0,0,0,0,1,0,.273
+464,Noel Cuevas,Rockies,11894,statsd.aspx?playerid=11894&position=OF&type=1&gds=&gde=&season=all,63,137,144,33,26,4,1,2,14,8,6,1,22,1,0,0,1,0,0,.241
+465,Ian Desmond,Rockies,6885,statsd.aspx?playerid=6885&position=SS&type=1&gds=&gde=&season=all,129,450,500,104,60,16,8,20,69,75,41,0,125,5,4,0,9,15,4,.231
+466,Raimel Tapia,Rockies,14350,statsd.aspx?playerid=14350&position=OF&type=1&gds=&gde=&season=all,14,18,20,4,1,2,0,1,4,5,2,0,5,0,0,0,0,0,0,.222
+467,Tony Wolters,Rockies,11470,statsd.aspx?playerid=11470&position=C&type=1&gds=&gde=&season=all,61,155,182,27,17,3,4,3,16,23,20,1,30,5,2,0,5,2,0,.174
+468,Pat Valaika,Rockies,14885,statsd.aspx?playerid=14885&position=2B/3B&type=1&gds=&gde=&season=all,57,113,124,17,11,4,0,2,7,4,9,0,30,0,0,2,4,0,0,.150
+469,Mike Tauchman,Rockies,15274,statsd.aspx?playerid=15274&position=OF&type=1&gds=&gde=&season=all,21,32,37,3,2,1,0,0,5,0,4,0,15,0,0,1,0,1,0,.094
+470,Austin Slater,Giants,16153,statsd.aspx?playerid=16153&position=OF&type=1&gds=&gde=&season=all,51,133,155,36,30,5,0,1,18,14,17,2,45,4,1,0,3,5,0,.271
+471,Miguel Gomez,Giants,17075,statsd.aspx?playerid=17075&position=2B&type=1&gds=&gde=&season=all,9,15,15,4,4,0,0,0,3,1,0,0,5,0,0,0,0,0,0,.267
+472,Brandon Crawford,Giants,5343,statsd.aspx?playerid=5343&position=SS&type=1&gds=&gde=&season=all,129,462,516,120,79,27,2,12,55,49,42,12,106,7,5,0,9,3,5,.260
+473,Andrew McCutchen,Giants,9847,statsd.aspx?playerid=9847&position=OF&type=1&gds=&gde=&season=all,130,482,568,123,78,28,2,15,65,55,73,1,123,7,6,0,11,13,6,.255
+474,Gorkys Hernandez,Giants,4146,statsd.aspx?playerid=4146&position=OF&type=1&gds=&gde=&season=all,117,341,373,85,57,14,1,13,46,36,23,1,94,3,4,2,9,5,3,.249
+475,Joe Panik,Giants,11936,statsd.aspx?playerid=11936&position=2B&type=1&gds=&gde=&season=all,76,271,299,67,50,12,1,4,31,19,21,2,22,3,3,1,8,2,2,.247
+476,Evan Longoria,Giants,9368,statsd.aspx?playerid=9368&position=3B&type=1&gds=&gde=&season=all,98,379,404,92,55,20,3,14,43,45,17,1,79,4,4,0,6,3,0,.243
+477,Gregor Blanco,Giants,3123,statsd.aspx?playerid=3123&position=OF&type=1&gds=&gde=&season=all,43,121,130,29,21,4,3,1,13,5,8,0,37,0,0,1,1,3,2,.240
+478,Kelby Tomlinson,Giants,13005,statsd.aspx?playerid=13005&position=2B&type=1&gds=&gde=&season=all,53,124,134,28,22,4,2,0,9,10,8,0,31,2,0,0,2,0,1,.226
+479,Mac Williamson,Giants,14158,statsd.aspx?playerid=14158&position=OF&type=1&gds=&gde=&season=all,28,94,105,20,12,4,0,4,14,11,11,0,27,0,0,0,1,1,1,.213
+480,Buster Posey,Giants,9166,statsd.aspx?playerid=9166&position=C&type=1&gds=&gde=&season=all,105,398,448,113,85,22,1,5,47,41,45,3,53,3,2,0,12,3,2,.284
+481,Alen Hanson,Giants,12926,statsd.aspx?playerid=12926&position=2B/OF&type=1&gds=&gde=&season=all,88,242,256,65,39,16,4,6,31,36,8,0,55,1,3,2,4,6,3,.269
+482,Brandon Belt,Giants,10264,statsd.aspx?playerid=10264&position=1B&type=1&gds=&gde=&season=all,99,363,416,95,63,17,1,14,47,44,45,6,90,6,2,0,2,2,0,.262
+483,Steven Duggar,Giants,17719,statsd.aspx?playerid=17719&position=OF&type=1&gds=&gde=&season=all,41,141,152,36,22,11,1,2,20,17,10,1,44,0,1,0,0,5,1,.255
+484,Ryder Jones,Giants,15982,statsd.aspx?playerid=15982&position=1B/3B&type=1&gds=&gde=&season=all,1,4,4,1,0,0,0,1,1,1,0,0,3,0,0,0,0,0,0,.250
+485,Pablo Sandoval,Giants,5409,statsd.aspx?playerid=5409&position=3B&type=1&gds=&gde=&season=all,92,230,252,57,37,10,1,9,22,40,19,2,52,2,1,0,9,0,0,.248
+486,Chase d'Arnaud,Giants,6652,statsd.aspx?playerid=6652&position=3B/SS&type=1&gds=&gde=&season=all,30,73,80,18,11,4,0,3,7,9,4,0,25,1,1,1,0,1,1,.247
+487,Austin Jackson,Giants,9848,statsd.aspx?playerid=9848&position=OF&type=1&gds=&gde=&season=all,59,149,165,36,28,8,0,0,12,13,14,2,59,1,1,0,4,2,1,.242
+488,Nick Hundley,Giants,3376,statsd.aspx?playerid=3376&position=C&type=1&gds=&gde=&season=all,74,207,225,49,31,7,2,9,27,30,17,1,61,1,0,0,6,2,1,.237
+489,Hunter Pence,Giants,8252,statsd.aspx?playerid=8252&position=OF&type=1&gds=&gde=&season=all,75,172,183,38,28,7,1,2,11,18,9,1,44,0,2,0,1,3,0,.221
+490,Dustin Garneau,White Sox,9433,statsd.aspx?playerid=9433&position=C&type=1&gds=&gde=&season=all,1,2,3,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,.500
+491,Omar Narvaez,White Sox,13338,statsd.aspx?playerid=13338&position=C&type=1&gds=&gde=&season=all,79,226,261,65,44,14,1,6,27,24,32,1,47,1,0,2,4,0,2,.288
+492,Leury Garcia,White Sox,5913,statsd.aspx?playerid=5913&position=OF&type=1&gds=&gde=&season=all,77,243,257,68,53,7,4,4,23,31,8,0,64,3,1,2,2,12,1,.280
+493,Jose Abreu,White Sox,15676,statsd.aspx?playerid=15676&position=1B&type=1&gds=&gde=&season=all,122,475,526,129,70,36,1,22,67,78,36,7,102,9,6,0,14,2,0,.272
+494,Charlie Tilson,White Sox,12983,statsd.aspx?playerid=12983&position=OF&type=1&gds=&gde=&season=all,41,106,121,28,26,1,1,0,7,11,10,0,20,1,1,2,2,2,3,.264
+495,Tyler Saladino,White Sox,10807,statsd.aspx?playerid=10807&position=2B/3B/SS&type=1&gds=&gde=&season=all,6,8,9,2,1,1,0,0,2,0,0,0,3,0,0,1,0,0,0,.250
+496,Yolmer Sanchez,White Sox,11602,statsd.aspx?playerid=11602&position=2B/3B&type=1&gds=&gde=&season=all,128,489,543,120,78,26,9,7,50,46,43,0,112,7,3,1,5,11,6,.245
+497,Daniel Palka,White Sox,14897,statsd.aspx?playerid=14897&position=DH/OF&type=1&gds=&gde=&season=all,97,329,350,78,42,14,3,19,43,53,20,2,118,1,0,0,7,2,1,.237
+498,Matt Davidson,White Sox,7226,statsd.aspx?playerid=7226&position=3B/DH&type=1&gds=&gde=&season=all,101,345,396,78,39,21,0,18,44,50,45,0,136,4,2,0,8,0,0,.226
+499,Yoan Moncada,White Sox,17232,statsd.aspx?playerid=17232&position=2B&type=1&gds=&gde=&season=all,123,478,539,105,60,23,6,16,62,53,56,1,184,1,2,2,2,11,6,.220
+500,Trayce Thompson,White Sox,9952,statsd.aspx?playerid=9952&position=OF&type=1&gds=&gde=&season=all,48,121,130,14,8,3,0,3,14,9,7,1,46,0,1,1,0,3,1,.116
+501,Ryan LaMarre,White Sox,10700,statsd.aspx?playerid=10700&position=OF&type=1&gds=&gde=&season=all,16,33,35,12,7,3,0,2,4,7,1,0,8,0,1,0,0,1,0,.364
+502,Kevan Smith,White Sox,12284,statsd.aspx?playerid=12284&position=C&type=1&gds=&gde=&season=all,35,128,138,36,32,3,0,1,16,14,4,0,11,5,1,0,2,1,0,.281
+503,Matt Skole,White Sox,12119,statsd.aspx?playerid=12119&position=1B/DH&type=1&gds=&gde=&season=all,4,11,13,3,2,0,0,1,2,1,2,0,3,0,0,0,0,0,0,.273
+504,Welington Castillo,White Sox,3256,statsd.aspx?playerid=3256&position=C&type=1&gds=&gde=&season=all,33,116,123,31,20,5,0,6,12,15,6,0,33,1,0,0,5,0,0,.267
+505,Jose Rondon,White Sox,14140,statsd.aspx?playerid=14140&position=SS/DH&type=1&gds=&gde=&season=all,26,61,65,16,7,5,0,4,9,9,4,0,18,0,0,0,1,2,0,.262
+506,Tim Anderson,White Sox,15172,statsd.aspx?playerid=15172&position=SS&type=1&gds=&gde=&season=all,128,474,510,117,73,24,3,17,69,58,27,2,122,4,3,2,13,25,7,.247
+507,Adam Engel,White Sox,15082,statsd.aspx?playerid=15082&position=OF&type=1&gds=&gde=&season=all,120,354,382,84,59,17,3,5,43,26,14,0,101,7,1,6,1,14,6,.237
+508,Avisail Garcia,White Sox,5760,statsd.aspx?playerid=5760&position=OF&type=1&gds=&gde=&season=all,72,282,299,65,40,9,2,14,36,34,10,0,79,3,4,0,7,3,1,.230
+509,Nick Delmonico,White Sox,13157,statsd.aspx?playerid=13157&position=OF&type=1&gds=&gde=&season=all,68,222,251,50,30,9,4,7,27,22,23,1,56,5,1,0,5,1,2,.225
+510,Alfredo Gonzalez,White Sox,14267,statsd.aspx?playerid=14267&position=C&type=1&gds=&gde=&season=all,3,9,9,1,1,0,0,0,0,1,0,0,4,0,0,0,0,0,0,.111
+511,Whit Merrifield,Royals,11281,statsd.aspx?playerid=11281&position=2B&type=1&gds=&gde=&season=all,129,508,570,156,110,35,1,10,64,47,50,2,92,6,4,2,10,28,8,.307
+512,Adalberto Mondesi,Royals,13769,statsd.aspx?playerid=13769&position=2B/SS&type=1&gds=&gde=&season=all,48,161,168,43,27,8,2,6,27,20,5,0,44,0,0,2,2,17,4,.267
+513,Mike Moustakas,Royals,4892,statsd.aspx?playerid=4892&position=3B&type=1&gds=&gde=&season=all,98,378,417,94,52,21,1,20,46,62,30,3,63,5,4,0,10,3,0,.249
+514,Alex Gordon,Royals,5209,statsd.aspx?playerid=5209&position=OF&type=1&gds=&gde=&season=all,114,400,449,96,70,16,0,10,43,35,41,2,96,7,1,0,7,8,2,.240
+515,Salvador Perez,Royals,7304,statsd.aspx?playerid=7304&position=C&type=1&gds=&gde=&season=all,110,434,464,102,60,19,0,23,44,65,14,0,99,11,5,0,18,1,1,.235
+516,Ryan O'Hearn,Royals,16442,statsd.aspx?playerid=16442&position=1B/DH&type=1&gds=&gde=&season=all,20,65,73,15,6,3,0,6,11,15,8,0,22,0,0,0,0,0,0,.231
+517,Hunter Dozier,Royals,15117,statsd.aspx?playerid=15117&position=1B/3B&type=1&gds=&gde=&season=all,77,264,285,59,38,12,2,7,25,21,20,0,85,1,0,0,8,1,2,.223
+518,Cam Gallagher,Royals,12981,statsd.aspx?playerid=12981&position=C&type=1&gds=&gde=&season=all,8,24,25,5,3,2,0,0,2,2,1,0,4,0,0,0,0,0,0,.208
+519,Drew Butera,Royals,3411,statsd.aspx?playerid=3411&position=C&type=1&gds=&gde=&season=all,52,149,166,28,17,9,0,2,11,18,13,0,37,2,2,0,4,0,0,.188
+520,Abraham Almonte,Royals,5486,statsd.aspx?playerid=5486&position=OF&type=1&gds=&gde=&season=all,50,134,151,24,18,1,2,3,15,9,15,0,36,0,1,1,6,2,2,.179
+521,Paulo Orlando,Royals,8628,statsd.aspx?playerid=8628&position=OF&type=1&gds=&gde=&season=all,25,90,93,15,12,3,0,0,6,5,3,0,25,0,0,0,3,0,0,.167
+522,Brian Goodwin,Royals,12858,statsd.aspx?playerid=12858&position=OF&type=1&gds=&gde=&season=all,5,17,17,8,6,1,0,1,2,4,0,0,4,0,0,0,0,0,1,.471
+523,Jon Jay,Royals,5227,statsd.aspx?playerid=5227&position=OF&type=1&gds=&gde=&season=all,59,238,266,73,61,9,2,1,28,18,19,0,39,3,2,4,4,3,2,.307
+524,Jorge Soler,Royals,14221,statsd.aspx?playerid=14221&position=OF&type=1&gds=&gde=&season=all,61,223,257,59,32,18,0,9,27,28,28,0,69,4,2,0,6,3,1,.265
+525,Lucas Duda,Royals,2502,statsd.aspx?playerid=2502&position=1B/OF&type=1&gds=&gde=&season=all,87,310,345,75,49,12,1,13,34,48,24,2,95,8,3,0,4,1,0,.242
+526,Rosell Herrera,Royals,11611,statsd.aspx?playerid=11611&position=OF&type=1&gds=&gde=&season=all,53,199,216,47,35,9,2,1,15,17,13,0,44,1,2,1,3,1,4,.236
+527,Jorge Bonifacio,Royals,12174,statsd.aspx?playerid=12174&position=OF&type=1&gds=&gde=&season=all,43,154,175,36,22,11,2,1,19,13,17,1,41,2,1,1,1,0,0,.234
+528,Ryan Goins,Royals,9807,statsd.aspx?playerid=9807&position=2B/SS&type=1&gds=&gde=&season=all,41,115,120,26,17,8,1,0,10,6,4,0,29,0,0,1,2,0,0,.226
+529,Alcides Escobar,Royals,6310,statsd.aspx?playerid=6310&position=SS&type=1&gds=&gde=&season=all,122,419,459,89,64,19,2,4,45,27,25,1,65,5,4,6,11,7,1,.212
+530,Cheslor Cuthbert,Royals,10473,statsd.aspx?playerid=10473&position=3B&type=1&gds=&gde=&season=all,30,103,117,20,15,2,0,3,11,7,11,0,23,2,1,0,5,0,1,.194
+531,Brett Phillips,Royals,14735,statsd.aspx?playerid=14735&position=OF&type=1&gds=&gde=&season=all,23,77,85,14,8,3,2,1,9,6,6,0,36,1,1,0,1,0,1,.182
+532,Ramon Torres,Royals,14113,statsd.aspx?playerid=14113&position=2B/3B&type=1&gds=&gde=&season=all,9,28,29,5,4,1,0,0,4,1,1,0,3,0,0,0,1,0,0,.179
+533,Chris Bostick,Marlins,13718,statsd.aspx?playerid=13718&position=2B/OF&type=1&gds=&gde=&season=all,2,1,2,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1.000
+534,Starlin Castro,Marlins,4579,statsd.aspx?playerid=4579&position=2B/SS&type=1&gds=&gde=&season=all,131,511,560,146,107,26,2,11,71,49,43,3,104,0,6,0,16,6,2,.286
+535,Brian Anderson,Marlins,18289,statsd.aspx?playerid=18289&position=3B/OF&type=1&gds=&gde=&season=all,133,511,578,141,100,28,3,10,73,56,52,2,100,14,1,0,18,2,4,.276
+536,Isaac Galloway,Marlins,5238,statsd.aspx?playerid=5238&position=OF&type=1&gds=&gde=&season=all,22,38,45,10,6,2,0,2,6,5,7,0,14,0,0,0,0,1,1,.263
+537,Cameron Maybin,Marlins,5223,statsd.aspx?playerid=5223&position=OF&type=1&gds=&gde=&season=all,99,251,287,63,47,12,1,3,20,20,32,1,55,2,2,0,3,8,5,.251
+538,Justin Bour,Marlins,9744,statsd.aspx?playerid=9744&position=1B&type=1&gds=&gde=&season=all,112,374,447,85,55,10,1,19,43,54,69,6,111,1,3,0,8,1,0,.227
+539,Austin Dean,Marlins,18288,statsd.aspx?playerid=18288&position=OF&type=1&gds=&gde=&season=all,12,45,48,10,5,2,0,3,7,6,3,0,10,0,0,0,0,0,0,.222
+540,Tomas Telis,Marlins,10067,statsd.aspx?playerid=10067&position=C/1B&type=1&gds=&gde=&season=all,23,29,31,6,5,1,0,0,2,1,2,0,8,0,0,0,1,0,0,.207
+541,J.B. Shuck,Marlins,6677,statsd.aspx?playerid=6677&position=OF&type=1&gds=&gde=&season=all,70,130,142,25,21,3,1,0,10,4,10,1,22,1,0,1,1,2,2,.192
+542,Lewis Brinson,Marlins,14352,statsd.aspx?playerid=14352&position=OF&type=1&gds=&gde=&season=all,84,290,311,54,34,6,4,10,22,30,14,2,94,4,2,0,5,1,1,.186
+543,Braxton Lee,Marlins,16839,statsd.aspx?playerid=16839&position=OF&type=1&gds=&gde=&season=all,8,17,18,3,3,0,0,0,0,2,1,0,8,0,0,0,0,0,0,.176
+544,Magneuris Sierra,Marlins,17023,statsd.aspx?playerid=17023&position=OF&type=1&gds=&gde=&season=all,28,88,91,15,13,2,0,0,8,3,0,0,26,0,0,3,0,1,1,.170
+545,J.T. Realmuto,Marlins,11739,statsd.aspx?playerid=11739&position=C&type=1&gds=&gde=&season=all,103,402,447,115,68,27,3,17,61,66,29,0,84,10,4,0,7,3,2,.286
+546,Rafael Ortega,Marlins,10323,statsd.aspx?playerid=10323&position=OF&type=1&gds=&gde=&season=all,18,75,82,21,18,2,1,0,8,5,7,0,11,0,0,0,2,4,2,.280
+547,Derek Dietrich,Marlins,10542,statsd.aspx?playerid=10542&position=2B/3B/OF&type=1&gds=&gde=&season=all,127,448,494,120,80,23,1,16,65,42,26,2,125,18,2,0,5,2,0,.268
+548,Miguel Rojas,Marlins,7802,statsd.aspx?playerid=7802&position=SS&type=1&gds=&gde=&season=all,129,411,445,104,83,11,0,10,37,48,21,2,57,8,3,2,21,6,2,.253
+549,Martin Prado,Marlins,3312,statsd.aspx?playerid=3312&position=3B&type=1&gds=&gde=&season=all,53,193,205,47,38,8,0,1,16,15,11,0,34,1,0,0,5,1,1,.244
+550,J.T. Riddle,Marlins,17642,statsd.aspx?playerid=17642&position=SS&type=1&gds=&gde=&season=all,81,244,263,55,36,7,4,8,22,30,15,1,52,0,1,3,4,0,2,.225
+551,Garrett Cooper,Marlins,15279,statsd.aspx?playerid=15279&position=1B/OF&type=1&gds=&gde=&season=all,14,33,38,7,6,1,0,0,2,2,4,0,12,1,0,0,1,0,0,.212
+552,Bryan Holaday,Marlins,11287,statsd.aspx?playerid=11287&position=C&type=1&gds=&gde=&season=all,54,134,148,27,23,3,0,1,7,15,9,2,26,2,2,1,3,0,0,.201
+553,Yadiel Rivera,Marlins,11863,statsd.aspx?playerid=11863&position=3B/SS&type=1&gds=&gde=&season=all,100,129,149,24,20,3,0,1,13,9,18,3,44,0,2,0,3,2,1,.186
+554,Chad Wallach,Marlins,17161,statsd.aspx?playerid=17161&position=C&type=1&gds=&gde=&season=all,9,31,34,4,3,1,0,0,1,2,2,0,17,0,0,1,0,0,0,.129
+555,Luis Urias,Padres,16622,statsd.aspx?playerid=16622&position=2B&type=1&gds=&gde=&season=all,2,8,9,3,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,.375
+556,A.J. Ellis,Padres,5677,statsd.aspx?playerid=5677&position=C&type=1&gds=&gde=&season=all,55,137,166,39,30,8,0,1,17,14,23,1,33,1,2,3,2,0,0,.285
+557,Travis Jankowski,Padres,13768,statsd.aspx?playerid=13768&position=OF&type=1&gds=&gde=&season=all,98,300,335,78,62,11,2,3,39,16,33,0,61,1,0,1,6,21,6,.260
+558,Hunter Renfroe,Padres,15464,statsd.aspx?playerid=15464&position=OF&type=1&gds=&gde=&season=all,90,296,327,75,37,20,1,17,38,53,23,1,83,3,5,0,7,1,0,.253
+559,Franmil Reyes,Padres,14566,statsd.aspx?playerid=14566&position=OF&type=1&gds=&gde=&season=all,60,164,178,40,23,6,0,11,24,15,14,0,58,0,0,0,3,0,0,.244
+560,Cory Spangenberg,Padres,12294,statsd.aspx?playerid=12294&position=2B/3B&type=1&gds=&gde=&season=all,94,254,278,61,42,8,4,7,31,24,18,0,86,2,0,4,6,6,1,.240
+561,Christian Villanueva,Padres,11738,statsd.aspx?playerid=11738&position=3B&type=1&gds=&gde=&season=all,110,351,384,83,48,15,0,20,42,46,23,0,104,9,1,0,12,3,0,.236
+562,Carlos Asuaje,Padres,15197,statsd.aspx?playerid=15197&position=2B&type=1&gds=&gde=&season=all,79,189,218,37,26,8,1,2,15,19,24,1,46,1,3,1,5,1,1,.196
+563,Raffy Lopez,Padres,12606,statsd.aspx?playerid=12606&position=C&type=1&gds=&gde=&season=all,37,102,117,18,13,2,0,3,11,13,13,3,43,0,2,0,1,1,0,.176
+564,Wil Myers,Padres,10047,statsd.aspx?playerid=10047&position=1B/OF&type=1&gds=&gde=&season=all,57,219,238,58,32,16,1,9,27,30,19,1,67,0,0,0,5,8,0,.265
+565,Eric Hosmer,Padres,3516,statsd.aspx?playerid=3516&position=1B&type=1&gds=&gde=&season=all,130,517,565,131,88,28,2,13,59,56,47,7,125,0,1,0,15,6,4,.253
+566,Manuel Margot,Padres,14712,statsd.aspx?playerid=14712&position=OF&type=1&gds=&gde=&season=all,116,403,438,102,66,24,5,7,45,43,26,3,76,2,6,1,7,10,9,.253
+567,Jose Pirela,Padres,5485,statsd.aspx?playerid=5485&position=2B/OF&type=1&gds=&gde=&season=all,125,398,432,99,72,22,2,3,52,30,29,1,79,3,2,0,9,5,3,.249
+568,Freddy Galvis,Padres,6609,statsd.aspx?playerid=6609&position=SS&type=1&gds=&gde=&season=all,135,495,541,119,81,23,4,11,49,56,38,2,123,2,5,1,7,6,5,.240
+569,Franchy Cordero,Padres,14567,statsd.aspx?playerid=14567&position=OF&type=1&gds=&gde=&season=all,40,139,154,33,20,5,1,7,19,19,14,0,55,0,0,1,1,5,2,.237
+570,Austin Hedges,Padres,12976,statsd.aspx?playerid=12976&position=C&type=1&gds=&gde=&season=all,70,235,254,55,35,9,0,11,23,28,17,3,75,1,1,0,7,3,0,.234
+571,Matt Szczur,Padres,11255,statsd.aspx?playerid=11255&position=OF&type=1&gds=&gde=&season=all,57,75,84,14,10,3,0,1,11,6,8,0,24,0,0,1,2,3,0,.187
+572,Chase Headley,Padres,4720,statsd.aspx?playerid=4720&position=3B&type=1&gds=&gde=&season=all,27,52,60,6,5,1,0,0,2,4,6,0,20,2,0,0,3,0,0,.115
+573,Miguel Cabrera,Tigers,1744,statsd.aspx?playerid=1744&position=1B/3B&type=1&gds=&gde=&season=all,38,134,157,40,26,11,0,3,17,22,22,4,27,0,1,0,6,0,0,.299
+574,Jim Adduci,Tigers,6448,statsd.aspx?playerid=6448&position=1B/OF&type=1&gds=&gde=&season=all,38,109,115,31,22,6,1,2,12,12,5,0,23,0,0,1,2,1,0,.284
+575,John Hicks,Tigers,12547,statsd.aspx?playerid=12547&position=C/1B&type=1&gds=&gde=&season=all,81,288,312,75,53,12,1,9,35,32,22,0,84,0,1,1,9,0,1,.260
+576,Victor Martinez,Tigers,393,statsd.aspx?playerid=393&position=C/DH&type=1&gds=&gde=&season=all,116,407,443,101,77,18,0,6,27,43,29,4,40,2,5,0,16,0,0,.248
+577,Niko Goodrum,Tigers,12092,statsd.aspx?playerid=12092&position=2B&type=1&gds=&gde=&season=all,111,369,410,83,42,26,2,13,43,41,35,1,113,4,2,0,8,9,3,.225
+578,Mikie Mahtook,Tigers,13130,statsd.aspx?playerid=13130&position=OF&type=1&gds=&gde=&season=all,45,150,168,33,23,4,1,5,15,16,13,1,47,3,2,0,2,2,1,.220
+579,Victor Reyes,Tigers,15487,statsd.aspx?playerid=15487&position=DH/OF&type=1&gds=&gde=&season=all,80,174,178,37,32,3,2,0,24,8,4,0,37,0,0,0,2,8,1,.213
+580,Ronny Rodriguez,Tigers,11875,statsd.aspx?playerid=11875&position=2B&type=1&gds=&gde=&season=all,39,117,126,24,18,4,0,2,11,11,7,0,27,0,1,1,5,0,0,.205
+581,Pete Kozma,Tigers,2539,statsd.aspx?playerid=2539&position=SS&type=1&gds=&gde=&season=all,15,40,41,7,4,2,0,1,4,6,1,0,7,0,0,0,0,0,1,.175
+582,Nicholas Castellanos,Tigers,11737,statsd.aspx?playerid=11737&position=3B&type=1&gds=&gde=&season=all,128,511,553,148,89,36,4,19,70,73,36,3,125,6,0,0,7,2,1,.290
+583,Jose Iglesias,Tigers,10231,statsd.aspx?playerid=10231&position=SS&type=1&gds=&gde=&season=all,125,432,464,116,77,31,3,5,43,48,19,0,47,8,2,3,11,15,6,.269
+584,Leonys Martin,Tigers,11846,statsd.aspx?playerid=11846&position=OF&type=1&gds=&gde=&season=all,78,303,336,76,49,15,3,9,45,29,29,1,75,3,1,0,1,7,3,.251
+585,Jeimer Candelario,Tigers,13621,statsd.aspx?playerid=13621&position=3B&type=1&gds=&gde=&season=all,117,437,501,99,56,25,3,15,63,46,52,1,125,7,5,0,4,2,2,.227
+586,James McCann,Tigers,12859,statsd.aspx?playerid=12859&position=C&type=1&gds=&gde=&season=all,98,353,379,78,58,13,0,7,26,33,22,0,92,2,2,0,9,0,3,.221
+587,Grayson Greiner,Tigers,17062,statsd.aspx?playerid=17062&position=C&type=1&gds=&gde=&season=all,20,64,76,14,10,4,0,0,7,7,10,0,20,0,2,0,0,0,1,.219
+588,Dixon Machado,Tigers,11472,statsd.aspx?playerid=11472&position=2B/SS&type=1&gds=&gde=&season=all,67,214,233,44,29,13,1,1,20,21,14,1,41,3,1,1,2,1,1,.206
+589,JaCoby Jones,Tigers,14818,statsd.aspx?playerid=14818&position=OF&type=1&gds=&gde=&season=all,106,350,380,71,38,19,5,9,41,27,19,0,115,8,2,1,7,9,5,.203
+590,Mike Gerber,Tigers,16115,statsd.aspx?playerid=16115&position=OF&type=1&gds=&gde=&season=all,18,42,47,4,3,1,0,0,2,2,4,0,21,0,1,0,1,0,0,.095
+591,Manny Machado,Orioles,11493,statsd.aspx?playerid=11493&position=3B&type=1&gds=&gde=&season=all,96,365,413,115,69,21,1,24,48,65,45,12,51,0,3,0,14,8,1,.315
+592,Adam Jones,Orioles,6368,statsd.aspx?playerid=6368&position=OF&type=1&gds=&gde=&season=all,123,495,522,141,96,31,0,14,50,55,22,1,80,3,2,0,18,5,0,.285
+593,Craig Gentry,Orioles,9571,statsd.aspx?playerid=9571&position=OF&type=1&gds=&gde=&season=all,68,156,169,42,34,5,2,1,13,11,11,0,31,1,0,1,2,12,3,.269
+594,Mark Trumbo,Orioles,6876,statsd.aspx?playerid=6876&position=1B/DH/OF&type=1&gds=&gde=&season=all,90,330,358,86,57,12,0,17,41,44,24,0,87,2,2,0,10,0,0,.261
+595,Austin Wynns,Orioles,15271,statsd.aspx?playerid=15271&position=C&type=1&gds=&gde=&season=all,27,71,76,18,13,2,0,3,15,9,3,0,19,0,0,2,5,0,0,.254
+596,Jonathan Schoop,Orioles,11265,statsd.aspx?playerid=11265&position=2B&type=1&gds=&gde=&season=all,85,349,367,85,49,18,1,17,45,40,12,1,74,3,2,1,8,0,1,.244
+597,Steve Wilkerson,Orioles,16041,statsd.aspx?playerid=16041&position=2B/3B&type=1&gds=&gde=&season=all,7,17,18,4,3,1,0,0,2,2,1,0,3,0,0,0,0,1,0,.235
+598,Joey Rickard,Orioles,13277,statsd.aspx?playerid=13277&position=OF&type=1&gds=&gde=&season=all,59,150,163,34,20,6,1,7,22,21,12,0,36,1,0,0,1,2,1,.227
+599,Caleb Joseph,Orioles,7087,statsd.aspx?playerid=7087&position=C&type=1&gds=&gde=&season=all,66,220,234,46,29,12,2,3,24,16,10,0,58,3,0,1,1,2,1,.209
+600,Chance Sisco,Orioles,15694,statsd.aspx?playerid=15694&position=C&type=1&gds=&gde=&season=all,58,149,173,29,19,8,0,2,13,16,13,0,62,11,0,0,1,1,0,.195
+601,Chris Davis,Orioles,9272,statsd.aspx?playerid=9272&position=1B&type=1&gds=&gde=&season=all,113,415,462,72,45,11,0,16,38,48,37,2,168,6,4,0,5,2,0,.173
+602,Engelb Vielma,Orioles,15481,statsd.aspx?playerid=15481&position=2B/SS&type=1&gds=&gde=&season=all,6,7,8,1,1,0,0,0,1,0,1,0,4,0,0,0,0,0,0,.143
+603,Andrew Susac,Orioles,13132,statsd.aspx?playerid=13132&position=C&type=1&gds=&gde=&season=all,9,26,26,3,2,1,0,0,1,0,0,0,12,0,0,0,0,0,0,.115
+604,Luis Sardinas,Orioles,13153,statsd.aspx?playerid=13153&position=2B/SS&type=1&gds=&gde=&season=all,8,18,20,2,1,0,0,1,2,1,2,0,5,0,0,0,1,0,0,.111
+605,Cedric Mullins II,Orioles,17929,statsd.aspx?playerid=17929&position=OF&type=1&gds=&gde=&season=all,17,59,68,18,11,5,0,2,10,5,7,0,11,0,0,2,0,0,1,.305
+606,Jonathan Villar,Orioles,10071,statsd.aspx?playerid=10071&position=2B/SS&type=1&gds=&gde=&season=all,26,102,117,28,22,2,0,4,15,13,10,0,26,3,1,1,0,8,1,.275
+607,Danny Valencia,Orioles,6364,statsd.aspx?playerid=6364&position=3B&type=1&gds=&gde=&season=all,79,255,282,67,49,8,1,9,28,28,22,2,53,0,5,0,8,1,1,.263
+608,Renato Nunez,Orioles,14503,statsd.aspx?playerid=14503&position=3B&type=1&gds=&gde=&season=all,34,117,132,30,19,9,0,2,13,9,13,0,34,2,0,0,1,0,0,.256
+609,Breyvic Valera,Orioles,12758,statsd.aspx?playerid=12758&position=2B&type=1&gds=&gde=&season=all,1,4,4,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,.250
+610,Trey Mancini,Orioles,15149,statsd.aspx?playerid=15149&position=OF&type=1&gds=&gde=&season=all,128,474,522,115,74,20,1,20,59,48,40,0,123,4,4,0,13,0,1,.243
+611,John Andreoli,Orioles,13012,statsd.aspx?playerid=13012&position=OF&type=1&gds=&gde=&season=all,7,26,27,6,5,1,0,0,4,0,1,0,5,0,0,0,1,2,0,.231
+612,Tim Beckham,Orioles,7949,statsd.aspx?playerid=7949&position=SS&type=1&gds=&gde=&season=all,77,301,329,66,43,14,0,9,33,27,22,0,84,3,2,1,8,1,2,.219
+613,Jace Peterson,Orioles,12325,statsd.aspx?playerid=12325&position=2B&type=1&gds=&gde=&season=all,77,185,218,37,21,12,1,3,18,25,28,0,50,3,1,1,8,11,2,.200
+614,Anthony Santander,Orioles,14551,statsd.aspx?playerid=14551&position=OF&type=1&gds=&gde=&season=all,33,101,108,20,13,5,1,1,8,6,6,0,21,1,0,0,1,1,0,.198
+615,Pedro Alvarez,Orioles,2495,statsd.aspx?playerid=2495&position=3B&type=1&gds=&gde=&season=all,45,111,127,20,10,2,0,8,18,18,16,0,36,0,0,0,2,0,0,.180
+616,Colby Rasmus,Orioles,9893,statsd.aspx?playerid=9893&position=OF&type=1&gds=&gde=&season=all,18,45,49,6,4,1,0,1,5,1,3,0,19,1,0,0,0,0,0,.133
+617,Corban Joseph,Orioles,5503,statsd.aspx?playerid=5503&position=1B/2B&type=1&gds=&gde=&season=all,4,9,10,1,1,0,0,0,0,1,1,0,2,0,0,0,0,0,0,.111

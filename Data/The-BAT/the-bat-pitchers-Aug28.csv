@@ -1,0 +1,30 @@
+PLAYERID,PLAYER,SALARY,OPP,POS,TEAM,SCHEDULE_ID,NAME,OL,2H,BPC,PPC,MPC,CATCHER,UMPIRE,PARK,ROOF,PLATOON,GVF,HFA,DH,DK,IP,ERA,W,L,QS,CG,CGSH,K,BB,HBP,H,HR,ER,FPTS,FPTS/$
+10934,Max Scherzer,12600,PHI,SP,WAS,46187,Max Scherzer,true,&nbsp,,104,110,125,Matt Wieters,Sam Holbrook (EH),PHI,&nbsp,,4,1-2,false,false,27.26,6.69,3.52,0.43,0.33,0.58,0.07,0.03,9.83,2.03,0.21,4.81,27.26,2.16
+10678,Carlos Carrasco,10300,MIN,SP,CLE,46189,Carlos Carrasco,true,&nbsp,,101,105,122,Yan Gomes,&nbsp,,CLE,&nbsp,,4,---,true,true,23.21,6.51,3.7,0.52,0.24,0.55,0.03,0.01,8.11,1.45,0.16,23.21,2.25
+10985,Charlie Morton,9500,OAK,SP,HOU,46191,Charlie Morton,true,&nbsp,,94,100,115,Martin Maldonado,Jordan Baker (H),HOU,Closed,6,0-3,true,true,20.13,5.9,3.51,0.47,0.24,0.44,0.01,0.01,7.06,2.36,0.52,4.79,0.74,20.13,2.12
+37542,Jack Flaherty,10400,PIT,SP,STL,46197,Jack Flaherty,true,&nbsp,,93,100,125,Yadier Molina,&nbsp,,STL,&nbsp,,4,---,true,false,19.4,6.23,3.46,0.44,0.29,0.5,0.02,0.01,6.38,1.74,0.24,19.4,1.87
+10932,Madison Bumgarner,9000,ARI,SP,SFG,46198,Madison Bumgarner,true,&nbsp,,97,102,125,Nick Hundley,Adrian Johnson (P),SFG,&nbsp,,2,---,true,false,19.31,6.43,3.55,0.39,0.35,0.53,0.03,0.01,6.36,1.82,0.23,5.48,19.31,2.15
+21538,Aaron Nola,10600,WAS,SP,PHI,46187,Aaron Nola,true,&nbsp,,96,100,117,Jorge Alfaro,Sam Holbrook (EH),PHI,&nbsp,,4,3-1,true,false,18.1,6.25,3.69,0.35,0.38,0.51,0.03,0.01,6.09,1.85,0.18,5.57,18.1,1.71
+17652,Jacob deGrom,12200,CHC,SP,NYM,46193,Jacob deGrom,true,&nbsp,,101,98,123,Kevin Plawecki,Ramon De Jesus (N),CHC,&nbsp,,3,---,false,false,17.91,5.99,4.45,0.36,0.35,0.48,0.05,0.02,6.68,1.49,0.19,6.08,17.91,1.47
+18952,Matt Boyd,7600,KCR,SP,DET,46185,Matt Boyd,true,&nbsp,,95,97,120,James McCann,&nbsp,,KCR,&nbsp,,2,3-1,false,true,17.41,6.02,4.01,0.37,0.34,0.48,0.05,0.02,5.96,1.68,0.22,17.41,2.29
+11292,Lance Lynn,7800,CHW,SP,NYY,46184,Lance Lynn,true,&nbsp,,100,97,125,Austin Romine,Pat Hoberg (H),NYY,&nbsp,,4,---,true,true,16.87,5.62,4.47,0.46,0.22,0.42,0.01,0,6.34,2.42,0.22,5.22,16.87,2.16
+36195,Jakob Junis,7100,DET,SP,KCR,46185,Jakob Junis,true,&nbsp,,96,96,120,Salvador Perez,&nbsp,,KCR,&nbsp,,5,---,true,true,16.04,6.09,4.13,0.35,0.37,0.49,0.02,0.01,5.46,1.24,0.35,16.04,2.26
+11191,Julio Teheran,8200,TBR,SP,ATL,46195,Julio Teheran,true,&nbsp,,89,91,116,Kurt Suzuki,&nbsp,,ATL,&nbsp,,4,---,true,false,15.5,5.64,3.92,0.39,0.3,0.41,0,0,5.17,1.82,0.21,15.5,1.89
+10954,Felix Hernandez,5500,SDP,SP,SEA,46190,Felix Hernandez,false,&nbsp,,91,94,111,Chris Herrmann,&nbsp,,SDP,&nbsp,,5,---,false,false,14.88,5.86,3.83,0.35,0.35,0.44,0.04,0.02,4.77,1.8,0.16,14.88,2.71
+36592,Kyle Freeland,9200,LAA,SP,COL,46188,Kyle Freeland,false,&nbsp,,99,101,125,Tony Wolters,Adam Hamari (EP),LAA,&nbsp,,1,---,false,true,14.43,6.21,3.93,0.36,0.36,0.51,0.05,0.02,4.61,2.35,0.19,5.72,14.43,1.57
+18879,Junior Guerra,5900,CIN,SP,MIL,46192,Junior Guerra,true,&nbsp,,87,87,119,Erik Kratz,&nbsp,,CIN,&nbsp,,5,---,false,false,14.08,5.22,4.18,0.35,0.31,0.34,0.02,0.01,4.94,2.07,0.22,14.08,2.39
+10927,Clay Buchholz,10000,SFG,SP,ARI,46198,Clay Buchholz,false,&nbsp,,91,94,114,Jeff Mathis,Adrian Johnson (P),SFG,&nbsp,,5,---,false,false,14.02,5.88,3.88,0.35,0.36,0.45,0.04,0.02,4.45,1.74,0.16,5.58,14.02,1.4
+37584,Walker Buehler,10200,TEX,SP,LAD,46194,Walker Buehler,true,&nbsp,,95,90,125,Yasmani Grandal,&nbsp,,TEX,&nbsp,,3,1-1,false,true,13.63,5.22,4.7,0.38,0.26,0.36,0.02,0.01,5.17,2.1,0.3,13.63,1.34
+17708,Anthony DeSclafani,6900,MIL,SP,CIN,46192,Anthony DeSclafani,true,&nbsp,,88,84,102,Tucker Barnhart,&nbsp,,CIN,&nbsp,,6,---,true,false,13.38,5.23,4.6,0.26,0.41,0.35,0,0,4.91,1.19,0.16,13.38,1.94
+10996,Cole Hamels,9800,NYM,SP,CHC,46193,Cole Hamels,false,&nbsp,,94,85,119,Victor Caratini,Ramon De Jesus (N),CHC,&nbsp,,2,---,true,false,13.17,5.04,5.08,0.29,0.36,0.33,0,0,5.29,1.75,0.33,4.89,13.17,1.34
+487877,Jacob Nix,4100,SEA,SP,SDP,46190,Jacob Nix,false,&nbsp,,83,87,111,Austin Hedges,&nbsp,,SDP,&nbsp,,3,---,true,false,12.01,5.6,3.76,0.33,0.36,0.4,0,0,3.48,1.36,0.18,12.01,2.93
+10981,Ivan Nova,5300,STL,SP,PIT,46197,Ivan Nova,false,&nbsp,,92,87,115,Francisco Cervelli,&nbsp,,STL,&nbsp,,6,---,false,false,11.71,5.47,4.7,0.26,0.42,0.4,0.03,0.01,4.14,1.11,0.26,11.71,2.21
+38035,Thomas Pannone,7300,BAL,SP,TOR,46186,Thomas Pannone,true,&nbsp,,92,79,108,Danny Jansen,Mark Ripperger (EP),BAL,&nbsp,,1,0-3,false,true,11.27,4.72,5.54,0.28,0.35,0.29,0.01,0,4.61,1.36,0.12,5.04,11.27,1.54
+36612,Brian Johnson,7000,MIA,SP,BOS,46196,Brian Johnson,true,&nbsp,,87,81,109,Blake Swihart,&nbsp,,BOS,&nbsp,,2,---,true,true,10.15,5,4.77,0.35,0.29,0.32,0,0,3.51,1.38,0.17,10.15,1.45
+38039,Yonny Chirinos,5300,ATL,SP,TBR,46195,Yonny Chirinos,true,&nbsp,,73,68,114,Michael Perez,&nbsp,,ATL,&nbsp,,4,---,false,false,8.55,4.31,4.61,0.29,0.41,0.2,0,0,2.8,0.99,0.14,8.55,1.61
+15867,Kyle Gibson,7200,CLE,SP,MIN,46189,Kyle Gibson,true,&nbsp,,99,86,120,Mitch Garver,&nbsp,,CLE,&nbsp,,2,0-1,false,true,8.15,5.01,5.48,0.19,0.47,0.34,0.02,0.01,3.48,2.14,0.18,8.15,1.13
+17472,Jose Urena,5000,BOS,SP,MIA,46196,Jose Urena,true,&nbsp,,99,85,124,Bryan Holaday,&nbsp,,BOS,&nbsp,,5,---,false,true,7.44,5.14,5.64,0.24,0.42,0.36,0.02,0.01,3.17,1.81,0.25,7.44,1.49
+17480,Noe Ramirez,4100,COL,SP,LAA,46188,Noe Ramirez,false,&nbsp,,37,37,49,Rene Rivera,Adam Hamari (EP),LAA,&nbsp,,5,---,true,true,6.5,2.23,4.12,0.13,0.35,0,0,0,2.38,0.74,0.1,2.01,6.5,1.59
+10662,Edwin Jackson,6700,HOU,SP,OAK,46191,Edwin Jackson,true,&nbsp,,88,71,118,Jonathan Lucroy,Jordan Baker (H),HOU,Closed,7,2-0,false,true,5.87,4.11,6.04,0.16,0.47,0.2,0,0,2.72,1.85,0.16,4.49,0.94,5.87,0.88
+10667,James Shields,5700,NYY,SP,CHW,46184,James Shields,true,&nbsp,,101,67,121,Omar Narvaez,Pat Hoberg (H),NYY,&nbsp,,6,---,false,true,4.49,3.66,7.72,0.12,0.5,0.16,0,0,3.01,1.82,0.16,4.67,4.49,0.79
+38011,Ariel Jurado,4200,LAD,SP,TEX,46194,Ariel Jurado,true,&nbsp,,83,56,106,Robinson Chirinos,&nbsp,,TEX,&nbsp,,5,0-3,true,true,2.72,3.26,7.06,0.13,0.45,0.08,0,0,1.68,1.14,0.16,2.72,0.65

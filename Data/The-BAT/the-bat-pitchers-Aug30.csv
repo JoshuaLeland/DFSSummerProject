@@ -1,0 +1,21 @@
+PLAYERID,PLAYER,SALARY,OPP,POS,TEAM,SCHEDULE_ID,NAME,OL,2H,BPC,PPC,MPC,CATCHER,UMPIRE,PARK,ROOF,PLATOON,GVF,HFA,DH,DK,IP,ERA,W,L,QS,CG,CGSH,K,BB,HBP,H,HR,ER,FPTS,FPTS/$
+10908,Justin Verlander,12000,LAA,SP,HOU,46216,Justin Verlander,true,&nbsp,,101,110,125,Martin Maldonado,&nbsp,,HOU,Closed,5,1-2,true,true,25.59,6.83,3.29,0.55,0.23,0.6,0.04,0.02,8.58,1.84,0.18,5.22,25.59,2.13
+34706,German Marquez,8500,SDP,SP,COL,46213,German Marquez,false,&nbsp,,98,106,120,Chris Iannetta,&nbsp,,SDP,&nbsp,,7,---,false,false,22.52,6.62,3.36,0.47,0.29,0.56,0.06,0.03,7.48,1.71,0.23,22.52,2.65
+10941,J.A. Happ,10000,DET,SP,NYY,46217,J.A. Happ,true,&nbsp,,100,106,117,Kyle Higashioka,&nbsp,,NYY,&nbsp,,0,---,true,true,22.2,6.54,3.61,0.55,0.21,0.56,0.04,0.01,7.46,1.63,0.14,22.2,2.22
+10980,Rick Porcello,9800,CHW,SP,BOS,46215,Rick Porcello,true,&nbsp,,99,105,124,Sandy Leon,&nbsp,,CHW,&nbsp,,5,---,false,true,22.16,6.69,3.49,0.52,0.25,0.58,0.07,0.03,7.29,1.38,0.33,22.16,2.26
+34646,Mike Clevinger,9900,MIN,SP,CLE,46220,Mike Clevinger,true,&nbsp,,100,105,123,Roberto Perez,Gabe Morales (EP),CLE,&nbsp,,4,---,true,true,21.01,6.21,3.6,0.46,0.27,0.5,0.02,0.01,7.44,2.42,0.2,5.28,21.01,2.12
+11187,Rich Hill,9400,ARI,SP,LAD,46218,Rich Hill,false,&nbsp,,91,95,114,Yasmani Grandal,&nbsp,,LAD,&nbsp,,2,---,true,false,18.71,5.71,3.66,0.39,0.31,0.41,0.01,0,6.61,2.09,0.35,18.71,1.99
+16142,Mike Foltynewicz,10400,CHC,SP,ATL,44552,Mike Foltynewicz,true,&nbsp,,98,100,121,Kurt Suzuki,&nbsp,,ATL,&nbsp,,3,---,true,false,17.94,6,3.96,0.39,0.32,0.47,0.02,0.01,6.36,2.15,0.33,17.94,1.73
+17457,Robbie Ray,8000,LAD,SP,ARI,46218,Robbie Ray,false,&nbsp,,96,94,125,Jeff Mathis,&nbsp,,LAD,&nbsp,,2,---,false,false,17.44,5.41,4.33,0.27,0.41,0.38,0.03,0.01,6.85,2.56,0.14,17.44,2.18
+34672,Joe Musgrove,7000,STL,SP,PIT,46221,Joe Musgrove,true,&nbsp,,88,87,110,Francisco Cervelli,Mike Winters (P),STL,&nbsp,,6,---,false,false,14.17,5.45,4.25,0.3,0.38,0.38,0.03,0.01,4.92,1.28,0.23,5.36,14.17,2.02
+34722,John Gant,6800,PIT,SP,STL,46221,John Gant,true,&nbsp,,87,90,112,Yadier Molina,Mike Winters (P),STL,&nbsp,,5,---,true,false,13.49,5.61,3.81,0.36,0.33,0.4,0,0,4.26,1.72,0.19,5.32,13.49,1.98
+13842,Jake Odorizzi,6900,CLE,SP,MIN,46220,Jake Odorizzi,true,&nbsp,,98,93,125,Mitch Garver,Gabe Morales (EP),CLE,&nbsp,,2,0-1,false,true,12.89,5.56,4.69,0.25,0.44,0.41,0.03,0.01,4.81,2.24,0.13,5.18,12.89,1.87
+11462,Wade Miley,7800,CIN,SP,MIL,46214,Wade Miley,true,&nbsp,,83,82,124,Erik Kratz,Nick Mahrley (EP),CIN,&nbsp,,4,---,false,false,12.35,4.81,4.32,0.32,0.31,0.28,0,0,4.45,2.1,0.21,4.44,12.35,1.58
+17566,Andrew Heaney,7400,HOU,SP,LAA,46216,Andrew Heaney,true,&nbsp,,97,88,118,Francisco Arcia,&nbsp,,HOU,Closed,1,---,false,true,11.46,5.2,5.04,0.2,0.48,0.36,0.02,0.01,4.65,2.01,0.23,5.34,11.46,1.55
+259699,Eric Lauer,5200,COL,SP,SDP,46213,Eric Lauer,false,&nbsp,,93,76,76,Austin Hedges,&nbsp,,SDP,&nbsp,,2,2-3,true,false,11.17,4.54,4.64,0.22,0.42,0.24,0,0,4.22,1.67,0.09,11.17,2.15
+18990,Frankie Montas,6000,SEA,SP,OAK,46219,Frankie Montas,false,&nbsp,,89,86,108,Josh Phegley,&nbsp,,OAK,&nbsp,,5,---,true,true,10.93,5.31,4.46,0.34,0.32,0.37,0,0,3.64,1.73,0.23,10.93,1.82
+11026,Wade LeBlanc,7200,OAK,SP,SEA,46219,Wade LeBlanc,false,&nbsp,,84,75,99,Mike Zunino,&nbsp,,OAK,&nbsp,,1,---,false,true,10.05,4.5,5.09,0.24,0.39,0.24,0,0,3.89,1.48,0.1,10.05,1.4
+35167,Cody Reed,4900,MIL,SP,CIN,46214,Cody Reed,true,&nbsp,,91,65,65,Curt Casali,Nick Mahrley (EP),CIN,&nbsp,,3,---,true,false,9.66,3.82,4.93,0.19,0.4,0.12,0,0,3.86,1.54,0.15,3.69,9.66,1.97
+35242,Lucas Giolito,5000,BOS,SP,CHW,46215,Lucas Giolito,true,&nbsp,,97,87,114,Kevan Smith,&nbsp,,CHW,&nbsp,,5,---,true,true,9.34,5.07,5.22,0.21,0.46,0.34,0,0,3.8,2.45,0.26,9.34,1.87
+14947,Mike Montgomery,6300,ATL,SP,CHC,44552,Mike Montgomery,true,&nbsp,,86,70,70,Willson Contreras,&nbsp,,ATL,&nbsp,,2,1-2,false,false,8.48,4.24,4.4,0.23,0.39,0.18,0,0,2.96,1.48,0.26,8.48,1.35
+10663,Francisco Liriano,4700,NYY,SP,DET,46217,Francisco Liriano,true,&nbsp,,87,62,109,James McCann,&nbsp,,NYY,&nbsp,,1,---,false,true,5.12,3.28,6.81,0.1,0.5,0.07,0,0,2.95,2.06,0.12,5.12,1.09

@@ -1,0 +1,164 @@
+,Date,Home/Away,Opp,Win Prob,Win/Loss,TeamRuns,Opp Runs,StarterID,StarterName,OppStarterID,OppStarterName
+0,"Mar 5, 2010",Away,LAA,-1,,-1.0,-1.0,,,,
+1,"Apr 5, 2010",Away,MIL,-1,W,5.0,3.0,,Ubaldo Jimenez,,Yovani Gallardo
+2,"Apr 6, 2010",Away,MIL,-1,L,5.0,7.0,,Greg Smith,,Randy Wolf
+3,"Apr 7, 2010",Away,MIL,-1,L,4.0,5.0,,Aaron Cook,,Doug Davis
+4,"Apr 9, 2010",Home,SDP,-1,W,7.0,0.0,,Jorge De La Rosa,,Clayton Richard
+5,"Apr 10, 2010",Home,SDP,-1,L,4.0,5.0,,Jason Hammel,,Mat Latos
+6,"Apr 11, 2010",Home,SDP,-1,W,4.0,2.0,,Ubaldo Jimenez,,Jon Garland
+7,"Apr 13, 2010",Home,NYM,-1,W,11.0,3.0,,Greg Smith,,John Maine
+8,"Apr 14, 2010",Home,NYM,-1,W,6.0,5.0,,Aaron Cook,,Jon Niese
+9,"Apr 15, 2010",Home,NYM,-1,L,0.0,5.0,,Jorge De La Rosa,,Mike Pelfrey
+10,"Apr 16, 2010",Away,ATL,-1,L,5.0,9.0,,Jason Hammel,,Derek Lowe
+11,"Apr 17, 2010",Away,ATL,-1,W,4.0,0.0,,Ubaldo Jimenez,,Kenshin Kawakami
+12,"Apr 18, 2010",Away,ATL,-1,L,3.0,4.0,,Greg Smith,,Jair Jurrjens
+13,"Apr 19, 2010",Away,WSN,-1,L,2.0,5.0,,Aaron Cook,,Craig Stammen
+14,"Apr 20, 2010",Away,WSN,-1,W,10.0,4.0,,Jorge De La Rosa,,Scott Olsen
+15,"Apr 21, 2010",Away,WSN,-1,L,4.0,6.0,,Jason Hammel,,John Lannan
+16,"Apr 22, 2010",Away,WSN,-1,W,2.0,0.0,,Ubaldo Jimenez,,Livan Hernandez
+17,"Apr 24, 2010",Home,MIA,-1,L,1.0,4.0,,Greg Smith,,Ricky Nolasco
+18,"Apr 24, 2010",Home,MIA,-1,W,8.0,1.0,,Aaron Cook,,Nate Robertson
+19,"Apr 25, 2010",Home,MIA,-1,W,8.0,4.0,,Jorge De La Rosa,,Chris Volstad
+20,"Apr 26, 2010",Home,ARI,-1,L,3.0,5.0,,Jason Hammel,,Dan Haren
+21,"Apr 27, 2010",Home,ARI,-1,W,12.0,1.0,,Ubaldo Jimenez,,Edwin Jackson
+22,"Apr 28, 2010",Home,ARI,-1,L,11.0,12.0,,Greg Smith,,Kris Benson
+23,"Apr 30, 2010",Away,SFG,-1,L,2.0,5.0,,Aaron Cook,,Barry Zito
+24,"May 1, 2010",Away,SFG,-1,L,1.0,6.0,,Esmil Rogers,,Matt Cain
+25,"May 2, 2010",Away,SFG,-1,W,4.0,1.0,,Jhoulys Chacin,,Jonathan Sanchez
+26,"May 3, 2010",Away,SDP,-1,W,5.0,2.0,,Ubaldo Jimenez,,Kevin Correia
+27,"May 4, 2010",Away,SDP,-1,L,2.0,3.0,,Greg Smith,,Wade LeBlanc
+28,"May 5, 2010",Away,SDP,-1,W,6.0,5.0,,Aaron Cook,,Clayton Richard
+29,"May 7, 2010",Away,LAD,-1,L,5.0,6.0,,Esmil Rogers,,Hiroki Kuroda
+30,"May 8, 2010",Away,LAD,-1,W,8.0,0.0,,Jhoulys Chacin,,Charlie Haeger
+31,"May 9, 2010",Away,LAD,-1,L,0.0,2.0,,Ubaldo Jimenez,,Clayton Kershaw
+32,"May 10, 2010",Home,PHI,-1,L,5.0,9.0,,Greg Smith,,Kyle Kendrick
+33,"May 12, 2010",Home,PHI,-1,W,4.0,3.0,,Aaron Cook,,Roy Halladay
+34,"May 13, 2010",Home,WSN,-1,L,6.0,14.0,,Jhoulys Chacin,,John Lannan
+35,"May 15, 2010",Home,WSN,-1,W,6.0,2.0,,Ubaldo Jimenez,,Livan Hernandez
+36,"May 15, 2010",Home,WSN,-1,W,4.0,3.0,,Jason Hammel,,Luis Atilano
+37,"May 16, 2010",Home,WSN,-1,W,2.0,1.0,,Jeff Francis,,Scott Olsen
+38,"May 17, 2010",Away,CHC,-1,L,2.0,4.0,,Aaron Cook,,Randy Wells
+39,"May 18, 2010",Away,CHC,-1,L,2.0,6.0,,Jhoulys Chacin,,Carlos Silva
+40,"May 19, 2010",Away,HOU,-1,L,3.0,7.0,,Greg Smith,,Felipe Paulino
+41,"May 20, 2010",Away,HOU,-1,W,4.0,0.0,,Ubaldo Jimenez,,Roy Oswalt
+42,"May 21, 2010",Away,KCR,-1,L,2.0,9.0,,Jason Hammel,,Brian Bannister
+43,"May 22, 2010",Away,KCR,-1,W,3.0,0.0,,Jeff Francis,,Kyle Davies
+44,"May 23, 2010",Away,KCR,-1,W,11.0,7.0,,Aaron Cook,,Zack Greinke
+45,"May 25, 2010",Home,ARI,-1,W,3.0,2.0,,Jhoulys Chacin,,Ian Kennedy
+46,"May 26, 2010",Home,ARI,-1,W,7.0,3.0,,Ubaldo Jimenez,,Rodrigo Lopez
+47,"May 27, 2010",Home,ARI,-1,W,8.0,2.0,,Jason Hammel,,Dan Haren
+48,"May 28, 2010",Home,LAD,-1,L,4.0,5.0,,Jeff Francis,,Carlos Monasterios
+49,"May 29, 2010",Home,LAD,-1,W,11.0,3.0,,Aaron Cook,,Hiroki Kuroda
+50,"May 30, 2010",Home,LAD,-1,L,3.0,4.0,,Jhoulys Chacin,,Clayton Kershaw
+51,"May 31, 2010",Away,SFG,-1,W,4.0,0.0,,Ubaldo Jimenez,,Tim Lincecum
+52,"Jun 1, 2010",Away,SFG,-1,W,2.0,1.0,,Jason Hammel,,Barry Zito
+53,"Jun 2, 2010",Away,SFG,-1,L,1.0,4.0,,Jeff Francis,,Matt Cain
+54,"Jun 4, 2010",Away,ARI,-1,L,6.0,7.0,,Aaron Cook,,Ian Kennedy
+55,"Jun 5, 2010",Away,ARI,-1,L,3.0,4.0,,Jhoulys Chacin,,Dontrelle Willis
+56,"Jun 6, 2010",Away,ARI,-1,W,3.0,2.0,,Ubaldo Jimenez,,Rodrigo Lopez
+57,"Jun 7, 2010",Home,HOU,-1,W,5.0,1.0,,Jason Hammel,,Wandy Rodriguez
+58,"Jun 8, 2010",Home,HOU,-1,L,3.0,4.0,,Jeff Francis,,Brian Moehler
+59,"Jun 9, 2010",Home,HOU,-1,L,2.0,6.0,,Aaron Cook,,Felipe Paulino
+60,"Jun 10, 2010",Home,HOU,-1,L,4.0,5.0,,Jhoulys Chacin,,Roy Oswalt
+61,"Jun 11, 2010",Home,TOR,-1,W,5.0,3.0,,Ubaldo Jimenez,,Ricky Romero
+62,"Jun 12, 2010",Home,TOR,-1,W,1.0,0.0,,Jason Hammel,,Brandon Morrow
+63,"Jun 13, 2010",Home,TOR,-1,W,10.0,3.0,,Jeff Francis,,Jesse Litsch
+64,"Jun 15, 2010",Away,MIN,-1,L,3.0,9.0,,Aaron Cook,,Carl Pavano
+65,"Jun 16, 2010",Away,MIN,-1,L,1.0,2.0,,Jhoulys Chacin,,Scott Baker
+66,"Jun 17, 2010",Away,MIN,-1,W,5.0,1.0,,Ubaldo Jimenez,,Francisco Liriano
+67,"Jun 18, 2010",Home,MIL,-1,W,2.0,0.0,,Jason Hammel,,Manny Parra
+68,"Jun 19, 2010",Home,MIL,-1,W,8.0,7.0,,Jeff Francis,,Yovani Gallardo
+69,"Jun 20, 2010",Home,MIL,-1,L,1.0,6.0,,Aaron Cook,,Randy Wolf
+70,"Jun 22, 2010",Home,BOS,-1,W,2.0,1.0,,Jhoulys Chacin,,Jon Lester
+71,"Jun 23, 2010",Home,BOS,-1,W,8.0,6.0,,Ubaldo Jimenez,,John Lackey
+72,"Jun 24, 2010",Home,BOS,-1,L,11.0,13.0,,Jason Hammel,,Daisuke Matsuzaka
+73,"Jun 25, 2010",Away,LAA,-1,W,4.0,3.0,,Jeff Francis,,Jered Weaver
+74,"Jun 26, 2010",Away,LAA,-1,L,2.0,4.0,,Aaron Cook,,Joe Saunders
+75,"Jun 27, 2010",Away,LAA,-1,L,3.0,10.0,,Jhoulys Chacin,,Ervin Santana
+76,"Jun 28, 2010",Away,SDP,-1,W,10.0,6.0,,Ubaldo Jimenez,,Kevin Correia
+77,"Jun 29, 2010",Away,SDP,-1,W,6.0,3.0,,Jason Hammel,,Wade LeBlanc
+78,"Jun 30, 2010",Away,SDP,-1,L,3.0,13.0,,Jeff Francis,,Clayton Richard
+79,"Jul 1, 2010",Home,SFG,-1,W,7.0,3.0,,Aaron Cook,,Madison Bumgarner
+80,"Jul 2, 2010",Home,SFG,-1,W,6.0,3.0,,Jhoulys Chacin,,Tim Lincecum
+81,"Jul 3, 2010",Home,SFG,-1,L,8.0,11.0,,Ubaldo Jimenez,,Barry Zito
+82,"Jul 4, 2010",Home,SFG,-1,W,4.0,3.0,,Jason Hammel,,Matt Cain
+83,"Jul 6, 2010",Home,STL,-1,W,12.0,9.0,,Jeff Francis,,Blake Hawksworth
+84,"Jul 7, 2010",Home,STL,-1,W,8.0,7.0,,Aaron Cook,,Jaime Garcia
+85,"Jul 8, 2010",Home,STL,-1,W,4.0,2.0,,Ubaldo Jimenez,,Chris Carpenter
+86,"Jul 9, 2010",Home,SDP,-1,W,10.0,8.0,,Jorge De La Rosa,,Kevin Correia
+87,"Jul 10, 2010",Home,SDP,-1,W,4.0,2.0,,Jason Hammel,,Wade LeBlanc
+88,"Jul 11, 2010",Home,SDP,-1,L,7.0,9.0,,Jeff Francis,,Clayton Richard
+89,"Jul 16, 2010",Away,CIN,-1,L,2.0,3.0,,Jason Hammel,,Bronson Arroyo
+90,"Jul 17, 2010",Away,CIN,-1,L,1.0,8.0,,Jorge De La Rosa,,Edinson Volquez
+91,"Jul 18, 2010",Away,CIN,-1,W,1.0,0.0,,Aaron Cook,,Travis Wood
+92,"Jul 19, 2010",Away,MIA,-1,L,8.0,9.0,,Ubaldo Jimenez,,Anibal Sanchez
+93,"Jul 20, 2010",Away,MIA,-1,W,10.0,0.0,,Jeff Francis,,Nate Robertson
+94,"Jul 21, 2010",Away,MIA,-1,L,2.0,5.0,,Jason Hammel,,Ricky Nolasco
+95,"Jul 22, 2010",Away,MIA,-1,L,2.0,3.0,,Jorge De La Rosa,,Josh Johnson
+96,"Jul 23, 2010",Away,PHI,-1,L,0.0,6.0,,Aaron Cook,,Roy Halladay
+97,"Jul 24, 2010",Away,PHI,-1,L,2.0,10.0,,Ubaldo Jimenez,,Kyle Kendrick
+98,"Jul 25, 2010",Away,PHI,-1,L,3.0,4.0,,Jeff Francis,,J.A. Happ
+99,"Jul 26, 2010",Away,PHI,-1,L,4.0,5.0,,Jason Hammel,,Joe Blanton
+100,"Jul 27, 2010",Home,PIT,-1,L,2.0,4.0,,Jorge De La Rosa,,Zach Duke
+101,"Jul 28, 2010",Home,PIT,-1,L,2.0,6.0,,Aaron Cook,,Ross Ohlendorf
+102,"Jul 29, 2010",Home,PIT,-1,W,9.0,3.0,,Ubaldo Jimenez,,Paul Maholm
+103,"Jul 30, 2010",Home,CHC,-1,W,17.0,2.0,,Jeff Francis,,Ryan Dempster
+104,"Jul 31, 2010",Home,CHC,-1,W,6.0,5.0,,Jason Hammel,,Tom Gorzelanny
+105,"Aug 1, 2010",Home,CHC,-1,W,8.0,7.0,,Jorge De La Rosa,,Carlos Silva
+106,"Aug 3, 2010",Home,SFG,-1,L,0.0,10.0,,Aaron Cook,,Jonathan Sanchez
+107,"Aug 4, 2010",Home,SFG,-1,W,6.0,1.0,,Ubaldo Jimenez,,Madison Bumgarner
+108,"Aug 5, 2010",Away,PIT,-1,L,1.0,5.0,,Jeff Francis,,James McDonald
+109,"Aug 6, 2010",Away,PIT,-1,W,6.0,3.0,,Jason Hammel,,Zach Duke
+110,"Aug 7, 2010",Away,PIT,-1,L,7.0,8.0,,Jorge De La Rosa,,Ross Ohlendorf
+111,"Aug 8, 2010",Away,PIT,-1,W,8.0,4.0,,Esmil Rogers,,Paul Maholm
+112,"Aug 10, 2010",Away,NYM,-1,L,0.0,1.0,,Ubaldo Jimenez,,Mike Pelfrey
+113,"Aug 11, 2010",Away,NYM,-1,W,6.0,2.0,,Jeff Francis,,Jon Niese
+114,"Aug 12, 2010",Away,NYM,-1,L,0.0,4.0,,Jason Hammel,,Johan Santana
+115,"Aug 13, 2010",Home,MIL,-1,W,5.0,4.0,,Jorge De La Rosa,,Yovani Gallardo
+116,"Aug 14, 2010",Home,MIL,-1,L,4.0,5.0,,Esmil Rogers,,Chris Narveson
+117,"Aug 15, 2010",Home,MIL,-1,W,6.0,5.0,,Ubaldo Jimenez,,Manny Parra
+118,"Aug 17, 2010",Away,LAD,-1,L,0.0,6.0,,Jhoulys Chacin,,Clayton Kershaw
+119,"Aug 18, 2010",Away,LAD,-1,W,3.0,2.0,,Jason Hammel,,Hiroki Kuroda
+120,"Aug 19, 2010",Away,LAD,-1,L,0.0,2.0,,Jorge De La Rosa,,Ted Lilly
+121,"Aug 20, 2010",Away,ARI,-1,L,3.0,4.0,,Esmil Rogers,,Ian Kennedy
+122,"Aug 21, 2010",Away,ARI,-1,L,1.0,3.0,,Ubaldo Jimenez,,Barry Enright
+123,"Aug 22, 2010",Away,ARI,-1,W,1.0,0.0,,Jhoulys Chacin,,Daniel Hudson
+124,"Aug 23, 2010",Home,ATL,-1,W,5.0,4.0,,Jason Hammel,,Tim Hudson
+125,"Aug 24, 2010",Home,ATL,-1,W,5.0,2.0,,Jorge De La Rosa,,Derek Lowe
+126,"Aug 25, 2010",Home,ATL,-1,W,12.0,10.0,,Esmil Rogers,,Jair Jurrjens
+127,"Aug 27, 2010",Home,LAD,-1,L,2.0,6.0,,Ubaldo Jimenez,,Clayton Kershaw
+128,"Aug 28, 2010",Home,LAD,-1,W,5.0,3.0,,Jhoulys Chacin,,Chad Billingsley
+129,"Aug 29, 2010",Home,LAD,-1,W,10.0,5.0,,Jason Hammel,,Ted Lilly
+130,"Aug 30, 2010",Away,SFG,-1,W,2.0,1.0,,Jorge De La Rosa,,Jonathan Sanchez
+131,"Aug 31, 2010",Away,SFG,-1,L,2.0,5.0,,Esmil Rogers,,Madison Bumgarner
+132,"Sep 1, 2010",Away,SFG,-1,L,1.0,2.0,,Ubaldo Jimenez,,Tim Lincecum
+133,"Sep 2, 2010",Home,PHI,-1,L,11.0,12.0,,Jhoulys Chacin,,Joe Blanton
+134,"Sep 3, 2010",Away,SDP,-1,W,4.0,3.0,,Aaron Cook,,Cory Luebke
+135,"Sep 4, 2010",Away,SDP,-1,W,6.0,2.0,,Jason Hammel,,Jon Garland
+136,"Sep 5, 2010",Away,SDP,-1,W,4.0,2.0,,Jorge De La Rosa,,Clayton Richard
+137,"Sep 6, 2010",Home,CIN,-1,W,10.0,5.0,,Ubaldo Jimenez,,Aaron Harang
+138,"Sep 7, 2010",Home,CIN,-1,W,4.0,3.0,,Jhoulys Chacin,,Johnny Cueto
+139,"Sep 8, 2010",Home,CIN,-1,W,9.0,2.0,,Aaron Cook,,Bronson Arroyo
+140,"Sep 9, 2010",Home,CIN,-1,W,6.0,5.0,,Jason Hammel,,Travis Wood
+141,"Sep 10, 2010",Home,ARI,-1,W,13.0,4.0,,Jorge De La Rosa,,Joe Saunders
+142,"Sep 11, 2010",Home,ARI,-1,W,2.0,1.0,,Ubaldo Jimenez,,Rodrigo Lopez
+143,"Sep 12, 2010",Home,ARI,-1,W,4.0,2.0,,Jhoulys Chacin,,Ian Kennedy
+144,"Sep 13, 2010",Home,SDP,-1,L,4.0,6.0,,Jeff Francis,,Cory Luebke
+145,"Sep 14, 2010",Home,SDP,-1,L,6.0,7.0,,Jason Hammel,,Jon Garland
+146,"Sep 15, 2010",Home,SDP,-1,W,9.0,6.0,,Jorge De La Rosa,,Clayton Richard
+147,"Sep 17, 2010",Away,LAD,-1,W,7.0,5.0,,Ubaldo Jimenez,,Hiroki Kuroda
+148,"Sep 18, 2010",Away,LAD,-1,W,12.0,2.0,,Jhoulys Chacin,,John Ely
+149,"Sep 19, 2010",Away,LAD,-1,L,6.0,7.0,,Jason Hammel,,Clayton Kershaw
+150,"Sep 21, 2010",Away,ARI,-1,L,1.0,3.0,,Jorge De La Rosa,,Joe Saunders
+151,"Sep 22, 2010",Away,ARI,-1,L,4.0,8.0,,Ubaldo Jimenez,,Rodrigo Lopez
+152,"Sep 23, 2010",Away,ARI,-1,L,9.0,10.0,,Jeff Francis,,Ian Kennedy
+153,"Sep 24, 2010",Home,SFG,-1,L,1.0,2.0,,Jhoulys Chacin,,Tim Lincecum
+154,"Sep 25, 2010",Home,SFG,-1,W,10.0,9.0,,Jason Hammel,,Barry Zito
+155,"Sep 26, 2010",Home,SFG,-1,L,2.0,4.0,,Jorge De La Rosa,,Matt Cain
+156,"Sep 27, 2010",Home,LAD,-1,L,1.0,3.0,,Ubaldo Jimenez,,Ted Lilly
+157,"Sep 28, 2010",Home,LAD,-1,L,7.0,9.0,,Jeff Francis,,Hiroki Kuroda
+158,"Sep 29, 2010",Home,LAD,-1,L,6.0,7.0,,Jhoulys Chacin,,Carlos Monasterios
+159,"Sep 30, 2010",Away,STL,-1,L,1.0,6.0,,Jason Hammel,,Chris Carpenter
+160,"Oct 1, 2010",Away,STL,-1,L,0.0,3.0,,Jorge De La Rosa,,Jake Westbrook
+161,"Oct 2, 2010",Away,STL,-1,L,0.0,1.0,,Ubaldo Jimenez,,Kyle Lohse
+162,"Oct 3, 2010",Away,STL,-1,L,1.0,6.0,,Esmil Rogers,,Jeff Suppan

@@ -1,0 +1,24 @@
+PLAYERID,PLAYER,SALARY,OPP,POS,TEAM,SCHEDULE_ID,NAME,OL,2H,BPC,PPC,MPC,CATCHER,UMPIRE,PARK,ROOF,PLATOON,GVF,HFA,DH,DK,IP,ERA,W,L,QS,CG,CGSH,K,BB,HBP,H,HR,ER,FPTS,FPTS/$
+11224,Danny Duffy,7700,DET,SP,KCR,46208,Danny Duffy,true,&nbsp,,101,106,116,Drew Butera,Angel Hernandez (P),KCR,&nbsp,,0,1-2,true,true,19.4,6.61,3.71,0.35,0.4,0.57,0.04,0.02,6.55,1.72,0.21,5.85,19.4,2.52
+42165,Freddy Peralta,9700,CIN,SP,MIL,46201,Freddy Peralta,true,&nbsp,,92,95,117,Manny Pina,Tony Randazzo (P),CIN,&nbsp,,4,---,false,false,18.27,5.6,3.84,0.42,0.27,0.4,0.03,0.01,6.47,2.45,0.24,4.4,18.27,1.88
+37113,Sean Newcomb,9200,TBR,SP,ATL,46200,Sean Newcomb,true,&nbsp,,98,104,125,Tyler Flowers,Kerwin Danley (N),ATL,&nbsp,,2,---,true,false,18.14,6.24,3.51,0.45,0.28,0.5,0.02,0.01,6.02,2.55,0.29,5.31,18.14,1.97
+34649,Michael Fulmer,7200,KCR,SP,DET,46208,Michael Fulmer,true,&nbsp,,97,92,92,Grayson Greiner,Angel Hernandez (P),KCR,&nbsp,,4,0-4,false,true,17.91,5.83,3.14,0.39,0.32,0.42,0.03,0.02,5.65,1.45,0.3,4.98,17.91,2.49
+10982,Jake Arrieta,8000,WAS,SP,PHI,46199,Jake Arrieta,true,&nbsp,,92,98,116,Wilson Ramos,Chris Segal (P),PHI,&nbsp,,5,---,true,false,17.69,6.17,3.55,0.45,0.28,0.49,0.02,0.01,5.57,1.71,0.17,5.37,17.69,2.21
+21539,Zack Godley,8600,SFG,SP,ARI,46204,Zack Godley,false,&nbsp,,95,99,117,Alex Avila,Cory Blaser (P),SFG,&nbsp,,5,2-2,false,false,16.85,5.96,3.72,0.37,0.34,0.46,0.04,0.02,5.75,2.25,0.27,5.5,16.85,1.96
+13490,Dallas Keuchel,9000,OAK,SP,HOU,46210,Dallas Keuchel,true,&nbsp,,101,103,123,Max Stassi,Mark Wegner (EH),HOU,Closed,1,0-4,true,true,16.64,6.31,3.92,0.44,0.3,0.52,0.03,0.01,5.51,2.17,0.19,5.85,0.96,2.62,1.85
+13737,Miles Mikolas,7800,PIT,SP,STL,46212,Miles Mikolas,false,&nbsp,,93,100,114,Yadier Molina,Alan Porter (H),STL,&nbsp,,4,---,true,false,16.44,6.7,3.32,0.47,0.3,0.58,0.04,0.02,4.47,1.07,0.27,6.25,16.44,2.11
+10965,David Price,10200,MIA,SP,BOS,46202,David Price,true,&nbsp,,95,97,114,Sandy Leon,Scott Barry (N),BOS,&nbsp,,3,---,true,true,15.98,6.1,4,0.46,0.27,0.49,0.02,0.01,5.25,1.3,0.25,6.16,15.98,1.57
+13847,CC Sabathia,8900,CHW,SP,NYY,46211,CC Sabathia,true,&nbsp,,90,89,109,Austin Romine,Brian Knight (H),NYY,&nbsp,,1,---,true,true,15.72,5.4,4.28,0.44,0.22,0.38,0,0,5.61,1.54,0.23,5.33,15.72,1.77
+347843,Dereck Rodriguez,9500,ARI,SP,SFG,46204,Dereck Rodriguez,false,&nbsp,,93,94,114,Nick Hundley,Cory Blaser (P),SFG,&nbsp,,4,---,true,false,15.61,5.74,4.04,0.33,0.37,0.43,0.01,0,5.44,1.87,0.22,5.23,15.61,1.64
+194888,Joey Lucchesi,7500,SEA,SP,SDP,46207,Joey Lucchesi,true,&nbsp,,83,84,110,Austin Hedges,Jerry Layne (H),SDP,&nbsp,,2,---,true,false,13.95,5.18,4.11,0.29,0.38,0.33,0,0,4.87,1.55,0.16,4.76,13.95,1.86
+15846,Alex Wood,8400,TEX,SP,LAD,46209,Alex Wood,true,&nbsp,,92,94,107,Austin Barnes,Sean Barber (N),TEX,&nbsp,,4,---,false,true,13.45,5.93,3.98,0.46,0.24,0.46,0.04,0.02,4.08,1.26,0.3,6.42,13.45,1.6
+34642,Alec Mills,5800,NYM,SP,CHC,46203,Alec Mills,true,&nbsp,,87,88,108,Willson Contreras,Stu Scheurwater (EH),CHC,&nbsp,,4,---,true,false,13.37,5.45,3.98,0.36,0.31,0.38,0,0,4.37,1.78,0.23,5.11,13.37,2.31
+10925,Gio Gonzalez,6700,PHI,SP,WAS,46199,Gio Gonzalez,true,&nbsp,,98,91,122,Matt Wieters,Chris Segal (P),PHI,&nbsp,,0,---,false,false,13.13,5.32,4.86,0.25,0.43,0.38,0.03,0.01,5.21,2.35,0.13,5.17,13.13,1.96
+11168,Alex Cobb,6400,TOR,SP,BAL,46206,Alex Cobb,true,&nbsp,,96,94,117,Austin Wynns,Doug Eddings (EP),BAL,&nbsp,,6,0-1,true,true,12.87,5.96,4.43,0.36,0.35,0.48,0.02,0.01,4.22,1.24,0.29,6.23,12.87,2.01
+13423,Erasmo Ramirez,6300,SDP,SP,SEA,46207,Erasmo Ramirez,true,&nbsp,,77,79,103,Mike Zunino,Jerry Layne (H),SDP,&nbsp,,6,---,false,false,12.56,5.03,3.98,0.31,0.34,0.31,0.01,0.01,4.01,1.08,0.16,4.84,12.56,1.99
+36175,Ryan Borucki,6200,BAL,SP,TOR,46206,Ryan Borucki,true,&nbsp,,97,91,111,Russell Martin,Doug Eddings (EP),BAL,&nbsp,,1,---,false,true,12.2,5.48,4.85,0.32,0.36,0.4,0.03,0.01,4.52,1.65,0.17,5.92,12.2,1.97
+35715,Trevor Williams,7300,STL,SP,PIT,46212,Trevor Williams,false,&nbsp,,87,85,120,Francisco Cervelli,Alan Porter (H),STL,&nbsp,,7,---,false,false,12.17,5.16,4.35,0.25,0.42,0.34,0.02,0.01,4.34,1.86,0.21,4.99,12.17,1.67
+10666,Jason Vargas,6100,CHC,SP,NYM,46203,Jason Vargas,true,&nbsp,,80,79,108,Kevin Plawecki,Stu Scheurwater (EH),CHC,&nbsp,,3,---,false,false,11.13,4.75,4.32,0.25,0.4,0.27,0,0,3.94,1.66,0.22,4.62,11.13,1.82
+13517,Matt Harvey,6900,MIL,SP,CIN,46201,Matt Harvey,true,&nbsp,,91,82,116,Tucker Barnhart,Tony Randazzo (P),CIN,&nbsp,,5,---,true,false,10.93,4.96,5.15,0.22,0.44,0.32,0,0,4.33,1.45,0.19,5.18,10.93,1.58
+35719,Adam Plutko,5000,MIN,SP,CLE,46205,Adam Plutko,true,&nbsp,,94,84,113,Yan Gomes,Ed Hickox (N),CLE,&nbsp,,4,1-1,true,true,10.93,5.03,5.26,0.33,0.3,0.34,0,0,4.17,1.62,0.09,5.29,10.93,2.19
+37991,Jalen Beeks,5600,ATL,SP,TBR,46200,Jalen Beeks,true,&nbsp,,72,68,108,Jesus Sucre,Kerwin Danley (N),ATL,&nbsp,,4,---,false,false,9.95,4.05,4.57,0.26,0.43,0.15,0,0,3.7,1.51,0.16,4.11,9.95,1.78

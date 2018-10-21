@@ -1,0 +1,3 @@
+YearTeamPitching=TeamPitchingStats[TeamPitchingStats['Year']==int(Year)]
+OppTeamPitchingStats=YearTeamPitching[YearTeamPitching['Team']==Abv2Name(Row1[2])]
+OppTeamPitchingStats

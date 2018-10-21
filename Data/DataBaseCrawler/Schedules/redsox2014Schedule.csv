@@ -1,0 +1,163 @@
+,Date,Home/Away,Opp,Win Prob,Win/Loss,TeamRuns,Opp Runs,StarterID,StarterName,OppStarterID,OppStarterName
+0,"Mar 31, 2014",Away,BAL,53.9,L,1.0,2.0,4930,Jon Lester,5279,Chris Tillman
+1,"Apr 2, 2014",Away,BAL,50.1,W,6.0,2.0,1507,John Lackey,3374,Ubaldo Jimenez
+2,"Apr 3, 2014",Away,BAL,51.4,W,4.0,3.0,1478,Felix Doubront,13071,Wei-Yin Chen
+3,"Apr 4, 2014",Home,MIL,57.5,L,2.0,6.0,1051,Jake Peavy,1118,Marco Estrada
+4,"Apr 5, 2014",Home,MIL,59.8,L,6.0,7.0,3543,Clay Buchholz,7738,Wily Peralta
+5,"Apr 6, 2014",Home,MIL,56.0,L,0.0,4.0,4930,Jon Lester,8173,Yovani Gallardo
+6,"Apr 7, 2014",Home,TEX,53.6,W,5.0,1.0,1507,John Lackey,10267,Tanner Scheppers
+7,"Apr 8, 2014",Home,TEX,60.7,L,7.0,10.0,1478,Felix Doubront,6902,Martin Perez
+8,"Apr 9, 2014",Home,TEX,55.7,W,4.0,2.0,1051,Jake Peavy,6819,Robbie Ross Jr.
+9,"Apr 10, 2014",Away,NYY,53.1,L,1.0,4.0,3543,Clay Buchholz,5372,Michael Pineda
+10,"Apr 11, 2014",Away,NYY,51.8,W,4.0,2.0,4930,Jon Lester,404,CC Sabathia
+11,"Apr 12, 2014",Away,NYY,49.4,L,4.0,7.0,1507,John Lackey,3283,Hiroki Kuroda
+12,"Apr 13, 2014",Away,NYY,47.6,L,2.0,3.0,1478,Felix Doubront,1994,Ivan Nova
+13,"Apr 15, 2014",Away,CHW,54.4,L,1.0,2.0,1051,Jake Peavy,12520,Erik Johnson
+14,"Apr 16, 2014",Away,CHW,57.4,W,6.0,4.0,3543,Clay Buchholz,6329,John Danks
+15,"Apr 17, 2014",Away,CHW,47.7,W,3.0,1.0,4930,Jon Lester,10603,Chris Sale
+16,"Apr 18, 2014",Home,BAL,58.5,L,4.0,8.0,1507,John Lackey,5279,Chris Tillman
+17,"Apr 19, 2014",Home,BAL,57.0,W,4.0,2.0,1478,Felix Doubront,9492,Bud Norris
+18,"Apr 20, 2014",Home,BAL,59.7,W,6.0,5.0,1051,Jake Peavy,3374,Ubaldo Jimenez
+19,"Apr 21, 2014",Home,BAL,61.4,L,6.0,7.0,3543,Clay Buchholz,13071,Wei-Yin Chen
+20,"Apr 22, 2014",Home,NYY,55.0,L,3.0,9.0,4930,Jon Lester,15764,Masahiro Tanaka
+21,"Apr 23, 2014",Home,NYY,58.5,W,5.0,1.0,1507,John Lackey,5372,Michael Pineda
+22,"Apr 24, 2014",Home,NYY,55.5,L,5.0,14.0,1478,Felix Doubront,404,CC Sabathia
+23,"Apr 25, 2014",Away,TOR,49.4,W,8.0,1.0,1051,Jake Peavy,225,Mark Buehrle
+24,"Apr 26, 2014",Away,TOR,47.3,W,7.0,6.0,3543,Clay Buchholz,9346,Brandon Morrow
+25,"Apr 27, 2014",Away,TOR,49.7,L,1.0,7.0,4930,Jon Lester,1245,R.A. Dickey
+26,"Apr 29, 2014",Home,TBR,60.4,W,7.0,4.0,1507,John Lackey,126,Erik Bedard
+27,"May 1, 2014",Home,TBR,59.7,L,1.0,2.0,1051,Jake Peavy,3357,Cesar Ramos
+28,"May 1, 2014",Home,TBR,57.7,L,5.0,6.0,1478,Felix Doubront,6345,Chris Archer
+29,"May 2, 2014",Home,OAK,56.7,W,7.0,1.0,3543,Clay Buchholz,9460,Dan Straily
+30,"May 3, 2014",Home,OAK,58.5,W,6.0,3.0,4930,Jon Lester,7608,Tommy Milone
+31,"May 4, 2014",Home,OAK,51.5,L,2.0,3.0,1507,John Lackey,12768,Sonny Gray
+32,"May 6, 2014",Home,CIN,54.2,W,4.0,3.0,1478,Felix Doubront,8362,Homer Bailey
+33,"May 7, 2014",Home,CIN,59.0,W,4.0,3.0,1051,Jake Peavy,10130,Mike Leake
+34,"May 9, 2014",Away,TEX,42.4,L,0.0,8.0,3543,Clay Buchholz,13074,Yu Darvish
+35,"May 10, 2014",Away,TEX,55.6,W,8.0,3.0,4930,Jon Lester,6902,Martin Perez
+36,"May 11, 2014",Away,TEX,47.4,W,5.0,2.0,1507,John Lackey,6819,Robbie Ross Jr.
+37,"May 13, 2014",Away,MIN,54.9,L,6.0,8.0,1051,Jake Peavy,3830,Ricky Nolasco
+38,"May 14, 2014",Away,MIN,58.8,W,9.0,4.0,1478,Felix Doubront,1767,Kevin Correia
+39,"May 15, 2014",Away,MIN,58.3,L,3.0,4.0,3543,Clay Buchholz,7450,Phil Hughes
+40,"May 16, 2014",Home,DET,53.8,L,0.0,1.0,4930,Jon Lester,3137,Max Scherzer
+41,"May 17, 2014",Home,DET,56.8,L,1.0,6.0,1507,John Lackey,2717,Rick Porcello
+42,"May 18, 2014",Home,DET,50.9,L,2.0,6.0,1051,Jake Peavy,3284,Anibal Sanchez
+43,"May 20, 2014",Home,TOR,58.5,L,4.0,7.0,1478,Felix Doubront,7410,J.A. Happ
+44,"May 21, 2014",Home,TOR,53.1,L,4.0,6.0,3543,Clay Buchholz,10732,Drew Hutchison
+45,"May 22, 2014",Home,TOR,60.8,L,2.0,7.0,4930,Jon Lester,225,Mark Buehrle
+46,"May 23, 2014",Away,TBR,49.7,L,0.0,1.0,1507,John Lackey,6345,Chris Archer
+47,"May 24, 2014",Away,TBR,40.9,L,5.0,6.0,1051,Jake Peavy,3184,David Price
+48,"May 25, 2014",Away,TBR,50.5,L,5.0,8.0,11428,Brandon Workman,6397,Jake Odorizzi
+49,"May 26, 2014",Away,ATL,42.9,W,8.0,6.0,3543,Clay Buchholz,3200,Ervin Santana
+50,"May 27, 2014",Away,ATL,47.1,W,6.0,3.0,4930,Jon Lester,1451,Aaron Harang
+51,"May 28, 2014",Home,ATL,50.5,W,4.0,0.0,1507,John Lackey,3886,Gavin Floyd
+52,"May 29, 2014",Home,ATL,49.2,W,4.0,3.0,1051,Jake Peavy,10021,Mike Minor
+53,"May 30, 2014",Home,TBR,48.2,W,3.0,2.0,11428,Brandon Workman,3184,David Price
+54,"May 31, 2014",Home,TBR,59.6,W,7.0,1.0,3862,Rubby de la Rosa,6397,Jake Odorizzi
+55,"Jun 1, 2014",Home,TBR,64.1,W,4.0,0.0,4930,Jon Lester,126,Erik Bedard
+56,"Jun 2, 2014",Away,CLE,47.3,L,2.0,3.0,1507,John Lackey,2038,Justin Masterson
+57,"Jun 3, 2014",Away,CLE,47.9,L,3.0,5.0,1051,Jake Peavy,9121,T.J. House
+58,"Jun 4, 2014",Away,CLE,41.9,L,4.0,7.0,11428,Brandon Workman,2429,Corey Kluber
+59,"Jun 6, 2014",Away,DET,40.3,L,2.0,6.0,3862,Rubby de la Rosa,11760,Drew Smyly
+60,"Jun 7, 2014",Away,DET,44.3,L,6.0,8.0,4930,Jon Lester,3137,Max Scherzer
+61,"Jun 8, 2014",Away,DET,43.5,W,5.0,3.0,1507,John Lackey,3284,Anibal Sanchez
+62,"Jun 9, 2014",Away,BAL,51.4,L,0.0,4.0,1051,Jake Peavy,9492,Bud Norris
+63,"Jun 10, 2014",Away,BAL,50.3,W,1.0,0.0,11428,Brandon Workman,5279,Chris Tillman
+64,"Jun 11, 2014",Away,BAL,43.1,L,0.0,6.0,3862,Rubby de la Rosa,13071,Wei-Yin Chen
+65,"Jun 12, 2014",Home,CLE,61.3,W,5.0,2.0,4930,Jon Lester,9388,Josh Tomlin
+66,"Jun 13, 2014",Home,CLE,53.5,W,10.0,3.0,1507,John Lackey,2038,Justin Masterson
+67,"Jun 14, 2014",Home,CLE,60.9,L,2.0,3.0,1051,Jake Peavy,9121,T.J. House
+68,"Jun 15, 2014",Home,CLE,50.0,L,2.0,3.0,11428,Brandon Workman,2429,Corey Kluber
+69,"Jun 16, 2014",Home,MIN,60.6,W,1.0,0.0,3862,Rubby de la Rosa,1767,Kevin Correia
+70,"Jun 17, 2014",Home,MIN,65.0,W,2.0,1.0,4930,Jon Lester,7450,Phil Hughes
+71,"Jun 18, 2014",Home,MIN,67.5,W,2.0,1.0,1507,John Lackey,10123,Kyle Gibson
+72,"Jun 19, 2014",Away,OAK,38.3,L,2.0,4.0,1051,Jake Peavy,4897,Scott Kazmir
+73,"Jun 20, 2014",Away,OAK,42.6,L,3.0,4.0,1478,Felix Doubront,4420,Brad Mills
+74,"Jun 21, 2014",Away,OAK,37.4,L,1.0,2.0,3862,Rubby de la Rosa,5448,Jesse Chavez
+75,"Jun 22, 2014",Away,OAK,50.9,W,7.0,6.0,4930,Jon Lester,7608,Tommy Milone
+76,"Jun 23, 2014",Away,SEA,42.6,L,3.0,12.0,1507,John Lackey,4772,Felix Hernandez
+77,"Jun 24, 2014",Away,SEA,55.3,L,2.0,8.0,1051,Jake Peavy,10314,Erasmo Ramirez
+78,"Jun 25, 2014",Away,SEA,45.9,W,5.0,4.0,3543,Clay Buchholz,13048,Hisashi Iwakuma
+79,"Jun 27, 2014",Away,NYY,56.0,L,0.0,6.0,11428,Brandon Workman,9674,Vidal Nuno
+80,"Jun 28, 2014",Away,NYY,44.9,W,2.0,1.0,4930,Jon Lester,15764,Masahiro Tanaka
+81,"Jun 29, 2014",Away,NYY,55.2,W,8.0,5.0,1507,John Lackey,10982,Chase Whitley
+82,"Jun 30, 2014",Home,CHC,56.9,L,0.0,2.0,1051,Jake Peavy,4153,Jake Arrieta
+83,"Jul 1, 2014",Home,CHC,58.0,L,1.0,2.0,3543,Clay Buchholz,1841,Edwin Jackson
+84,"Jul 2, 2014",Home,CHC,59.5,L,9.0,16.0,11428,Brandon Workman,9884,Travis Wood
+85,"Jul 5, 2014",Home,BAL,63.4,W,3.0,2.0,4930,Jon Lester,7024,Miguel Gonzalez
+86,"Jul 5, 2014",Home,BAL,59.4,L,4.0,7.0,1507,John Lackey,3374,Ubaldo Jimenez
+87,"Jul 6, 2014",Home,BAL,56.5,L,6.0,7.0,1051,Jake Peavy,14107,Kevin Gausman
+88,"Jul 7, 2014",Home,CHW,69.6,L,0.0,4.0,3543,Clay Buchholz,888,Scott Carroll
+89,"Jul 8, 2014",Home,CHW,63.8,L,3.0,8.0,11428,Brandon Workman,6329,John Danks
+90,"Jul 9, 2014",Home,CHW,47.7,W,5.0,4.0,3862,Rubby de la Rosa,10603,Chris Sale
+91,"Jul 10, 2014",Home,CHW,63.4,W,4.0,3.0,4930,Jon Lester,11423,Jose Quintana
+92,"Jul 11, 2014",Away,HOU,57.8,W,8.0,3.0,1507,John Lackey,6283,Scott Feldman
+93,"Jul 12, 2014",Away,HOU,56.2,L,2.0,3.0,1051,Jake Peavy,7531,Brett Oberholtzer
+94,"Jul 13, 2014",Away,HOU,55.4,W,11.0,0.0,3543,Clay Buchholz,10304,Brad Peacock
+95,"Jul 18, 2014",Home,KCR,53.4,W,5.0,4.0,3543,Clay Buchholz,7059,James Shields
+96,"Jul 19, 2014",Home,KCR,52.8,W,2.0,1.0,3862,Rubby de la Rosa,3542,Danny Duffy
+97,"Jul 20, 2014",Home,KCR,61.3,W,6.0,0.0,4930,Jon Lester,11855,Yordano Ventura
+98,"Jul 21, 2014",Away,TOR,51.5,W,14.0,1.0,1507,John Lackey,10732,Drew Hutchison
+99,"Jul 22, 2014",Away,TOR,52.8,L,3.0,7.0,1051,Jake Peavy,7410,J.A. Happ
+100,"Jul 23, 2014",Away,TOR,51.8,L,4.0,6.0,3543,Clay Buchholz,1245,R.A. Dickey
+101,"Jul 24, 2014",Away,TOR,40.7,L,0.0,8.0,3862,Rubby de la Rosa,13431,Marcus Stroman
+102,"Jul 25, 2014",Away,TBR,49.1,L,4.0,6.0,4930,Jon Lester,3184,David Price
+103,"Jul 26, 2014",Away,TBR,55.5,L,0.0,3.0,1507,John Lackey,4371,Jeremy Hellickson
+104,"Jul 27, 2014",Away,TBR,48.7,W,3.0,2.0,3993,Allen Webster,6345,Chris Archer
+105,"Jul 28, 2014",Home,TOR,58.2,L,1.0,14.0,3543,Clay Buchholz,1245,R.A. Dickey
+106,"Jul 29, 2014",Home,TOR,45.5,L,2.0,4.0,3862,Rubby de la Rosa,13431,Marcus Stroman
+107,"Jul 30, 2014",Home,TOR,63.7,L,1.0,6.0,11428,Brandon Workman,225,Mark Buehrle
+108,"Aug 1, 2014",Home,NYY,63.6,W,4.0,3.0,11424,Anthony Ranaudo,1701,Chris Capuano
+109,"Aug 2, 2014",Home,NYY,61.1,L,4.0,6.0,3993,Allen Webster,10756,Shane Greene
+110,"Aug 3, 2014",Home,NYY,59.3,L,7.0,8.0,3543,Clay Buchholz,6316,David Phelps
+111,"Aug 5, 2014",Away,STL,34.9,L,2.0,3.0,3862,Rubby de la Rosa,2520,Lance Lynn
+112,"Aug 6, 2014",Away,STL,46.2,W,2.0,1.0,9761,Joe Kelly,10197,Shelby Miller
+113,"Aug 7, 2014",Away,STL,34.5,L,2.0,5.0,11428,Brandon Workman,2233,Adam Wainwright
+114,"Aug 8, 2014",Away,LAA,38.8,W,4.0,2.0,3993,Allen Webster,4235,Jered Weaver
+115,"Aug 9, 2014",Away,LAA,40.7,L,4.0,5.0,3543,Clay Buchholz,9784,Garrett Richards
+116,"Aug 10, 2014",Away,LAA,37.5,W,3.0,1.0,3862,Rubby de la Rosa,4026,Hector Santiago
+117,"Aug 12, 2014",Away,CIN,40.9,W,3.0,2.0,9761,Joe Kelly,3815,Mat Latos
+118,"Aug 13, 2014",Away,CIN,41.1,W,5.0,4.0,11424,Anthony Ranaudo,10130,Mike Leake
+119,"Aug 14, 2014",Home,HOU,58.8,W,9.0,4.0,3993,Allen Webster,6283,Scott Feldman
+120,"Aug 15, 2014",Home,HOU,61.5,L,3.0,5.0,3543,Clay Buchholz,9434,Dallas Keuchel
+121,"Aug 16, 2014",Home,HOU,64.1,W,10.0,7.0,3862,Rubby de la Rosa,5401,Brad Peacock
+122,"Aug 17, 2014",Home,HOU,58.8,L,1.0,8.0,9761,Joe Kelly,7531,Collin McHugh
+123,"Aug 18, 2014",Home,LAA,45.9,L,2.0,4.0,11428,Brandon Workman,3580,C.J. Wilson
+124,"Aug 19, 2014",Home,LAA,44.4,L,3.0,4.0,3993,Allen Webster,4235,Jered Weaver
+125,"Aug 20, 2014",Home,LAA,46.3,L,3.0,8.0,3543,Clay Buchholz,9784,Garrett Richards
+126,"Aug 21, 2014",Home,LAA,46.3,L,0.0,2.0,3862,Rubby de la Rosa,4776,Matt Shoemaker
+127,"Aug 22, 2014",Home,SEA,36.6,L,3.0,5.0,9761,Joe Kelly,4772,Felix Hernandez
+128,"Aug 23, 2014",Home,SEA,69.2,L,3.0,7.0,11428,Brandon Workman,3196,Chris Young
+129,"Aug 24, 2014",Home,SEA,41.6,L,6.0,8.0,3993,Allen Webster,13048,Hisashi Iwakuma
+130,"Aug 25, 2014",Away,TOR,50.1,W,4.0,3.0,3543,Clay Buchholz,7410,J.A. Happ
+131,"Aug 26, 2014",Away,TOR,37.6,W,11.0,7.0,3862,Rubby de la Rosa,1245,R.A. Dickey
+132,"Aug 27, 2014",Away,TOR,37.8,L,2.0,5.0,9761,Joe Kelly,13431,Marcus Stroman
+133,"Aug 29, 2014",Away,TBR,33.3,W,8.0,4.0,11424,Anthony Ranaudo,6345,Chris Archer
+134,"Aug 30, 2014",Away,TBR,43.6,L,0.0,7.0,3993,Allen Webster,6397,Jake Odorizzi
+135,"Aug 31, 2014",Away,TBR,42.7,W,3.0,0.0,3543,Clay Buchholz,6562,Alex Cobb
+136,"Sep 1, 2014",Away,TBR,34.8,L,3.0,4.0,3862,Rubby de la Rosa,11760,Drew Smyly
+137,"Sep 2, 2014",Away,NYY,53.1,W,9.0,4.0,9761,Joe Kelly,10756,Shane Greene
+138,"Sep 3, 2014",Away,NYY,35.7,L,1.0,5.0,11424,Anthony Ranaudo,3283,Hiroki Kuroda
+139,"Sep 4, 2014",Away,NYY,49.5,L,4.0,5.0,11428,Brandon Workman,1701,Chris Capuano
+140,"Sep 5, 2014",Home,TOR,58.1,W,9.0,8.0,3543,Allen Webster,10732,Drew Hutchison
+141,"Sep 6, 2014",Home,TOR,53.0,W,4.0,3.0,3543,Clay Buchholz,7410,J.A. Happ
+142,"Sep 7, 2014",Home,TOR,46.4,L,1.0,3.0,3862,Rubby de la Rosa,1245,R.A. Dickey
+143,"Sep 8, 2014",Home,BAL,58.0,L,0.0,4.0,9761,Joe Kelly,7024,Miguel Gonzalez
+144,"Sep 9, 2014",Home,BAL,47.3,L,1.0,4.0,11424,Anthony Ranaudo,5279,Chris Tillman
+145,"Sep 10, 2014",Home,BAL,52.4,L,6.0,10.0,11428,Brandon Workman,13071,Wei-Yin Chen
+146,"Sep 11, 2014",Away,KCR,45.3,W,6.0,3.0,3993,Clay Buchholz,3548,Liam Hendriks
+147,"Sep 12, 2014",Away,KCR,46.6,W,4.0,2.0,3543,Allen Webster,11855,Yordano Ventura
+148,"Sep 13, 2014",Away,KCR,47.1,L,1.0,7.0,3862,Rubby de la Rosa,2072,Jeremy Guthrie
+149,"Sep 14, 2014",Away,KCR,46.3,W,8.0,4.0,9761,Joe Kelly,8044,Jason Vargas
+150,"Sep 16, 2014",Away,PIT,19.3,L,0.0,4.0,11424,Anthony Ranaudo,4676,Charlie Morton
+151,"Sep 17, 2014",Away,PIT,38.4,L,1.0,9.0,3543,Clay Buchholz,3201,Francisco Liriano
+152,"Sep 18, 2014",Away,PIT,35.6,L,2.0,3.0,11428,Brandon Workman,13125,Gerrit Cole
+153,"Sep 19, 2014",Away,BAL,44.1,W,5.0,3.0,3993,Allen Webster,14107,Kevin Gausman
+154,"Sep 20, 2014",Away,BAL,42.9,L,2.0,7.0,3862,Rubby de la Rosa,5279,Chris Tillman
+155,"Sep 21, 2014",Away,BAL,48.5,W,3.0,2.0,9761,Joe Kelly,7024,Miguel Gonzalez
+156,"Sep 23, 2014",Home,TBR,48.3,L,2.0,6.0,3543,Clay Buchholz,6562,Alex Cobb
+157,"Sep 24, 2014",Home,TBR,48.5,W,11.0,3.0,11424,Anthony Ranaudo,6397,Jake Odorizzi
+158,"Sep 25, 2014",Home,TBR,51.9,W,11.0,1.0,3993,Allen Webster,4371,Jeremy Hellickson
+159,"Sep 26, 2014",Home,NYY,61.9,L,2.0,3.0,8185,Steven Wright,1701,Chris Capuano
+160,"Sep 27, 2014",Home,NYY,58.2,W,10.0,4.0,9761,Joe Kelly,15764,Masahiro Tanaka
+161,"Sep 28, 2014",Home,NYY,61.8,L,5.0,9.0,3543,Clay Buchholz,5372,Michael Pineda

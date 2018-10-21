@@ -1,0 +1,163 @@
+,Date,Home/Away,Opp,Win Prob,Win/Loss,TeamRuns,Opp Runs,StarterID,StarterName,OppStarterID,OppStarterName
+0,"Apr 6, 2015",Away,MIL,43.2,W,10.0,0.0,6230,Kyle Kendrick,739,Kyle Lohse
+1,"Apr 7, 2015",Away,MIL,43.8,W,5.0,2.0,7593,Jordan Lyles,3340,Matt Garza
+2,"Apr 8, 2015",Away,MIL,42.6,W,5.0,4.0,13453,Eddie Butler,7738,Wily Peralta
+3,"Apr 10, 2015",Home,CHC,57.0,W,5.0,1.0,10058,Tyler Matzek,9884,Travis Wood
+4,"Apr 11, 2015",Home,CHC,49.6,L,5.0,9.0,6230,Kyle Kendrick,4538,Jason Hammel
+5,"Apr 12, 2015",Home,CHC,49.7,L,5.0,6.0,7593,Jordan Lyles,12049,Kyle Hendricks
+6,"Apr 13, 2015",Away,SFG,42.2,W,2.0,0.0,13453,Eddie Butler,10302,Chris Heston
+7,"Apr 14, 2015",Away,SFG,42.2,W,4.0,1.0,10925,Christian Bergman,921,Tim Hudson
+8,"Apr 15, 2015",Away,SFG,51.7,W,4.0,2.0,10058,Tyler Matzek,5705,Tim Lincecum
+9,"Apr 17, 2015",Away,LAD,28.2,L,3.0,7.0,6230,Kyle Kendrick,2036,Clayton Kershaw
+10,"Apr 18, 2015",Away,LAD,36.7,L,3.0,6.0,7593,Jordan Lyles,1943,Zack Greinke
+11,"Apr 19, 2015",Away,LAD,37.9,L,0.0,7.0,13453,Eddie Butler,4662,Brandon McCarthy
+12,"Apr 20, 2015",Home,SDP,54.4,L,3.0,14.0,2047,Jorge De La Rosa,16017,Odrisamer Despaigne
+13,"Apr 21, 2015",Home,SDP,50.5,L,6.0,7.0,10058,Tyler Matzek,9346,Brandon Morrow
+14,"Apr 22, 2015",Home,SDP,45.5,W,5.0,4.0,6230,Kyle Kendrick,7059,James Shields
+15,"Apr 23, 2015",Home,SDP,49.0,W,2.0,1.0,7593,Jordan Lyles,7872,Tyson Ross
+16,"Apr 24, 2015",Home,SFG,48.7,W,6.0,4.0,13453,Eddie Butler,10302,Chris Heston
+17,"Apr 25, 2015",Home,SFG,56.6,L,4.0,5.0,2047,Jorge De La Rosa,921,Tim Hudson
+18,"Apr 27, 2015",Away,ARI,45.8,W,5.0,4.0,10058,Tyler Matzek,6895,Chase Anderson
+19,"Apr 28, 2015",Away,ARI,47.4,L,5.0,12.0,6230,Kyle Kendrick,12918,Archie Bradley
+20,"Apr 29, 2015",Away,ARI,49.7,L,1.0,9.0,7593,Jordan Lyles,7312,Josh Collmenter
+21,"May 1, 2015",Away,SDP,41.3,L,3.0,14.0,13453,Eddie Butler,6986,Ian Kennedy
+22,"May 2, 2015",Away,SDP,45.9,L,2.0,4.0,2047,Jorge De La Rosa,9346,Brandon Morrow
+23,"May 3, 2015",Away,SDP,35.3,L,6.0,8.0,6230,Kyle Kendrick,7059,James Shields
+24,"May 6, 2015",Home,ARI,56.0,L,7.0,13.0,10058,Tyler Matzek,7312,Josh Collmenter
+25,"May 6, 2015",Home,ARI,54.1,L,1.0,5.0,7593,Jordan Lyles,11486,Robbie Ray
+26,"May 8, 2015",Home,LAD,42.8,L,1.0,2.0,13453,Eddie Butler,8223,Brett Anderson
+27,"May 10, 2015",Home,LAD,39.3,L,5.0,9.0,2047,Jorge De La Rosa,2036,Clayton Kershaw
+28,"May 12, 2015",Away,LAA,42.4,L,2.0,5.0,6230,Kyle Kendrick,3580,C.J. Wilson
+29,"May 13, 2015",Away,LAA,47.3,L,1.0,2.0,7593,Jordan Lyles,4026,Hector Santiago
+30,"May 14, 2015",Away,LAD,38.7,W,5.0,4.0,10587,Chad Bettis,8223,Brett Anderson
+31,"May 15, 2015",Away,LAD,24.6,L,4.0,6.0,13453,Eddie Butler,2036,Clayton Kershaw
+32,"May 16, 2015",Away,LAD,38.6,W,7.0,1.0,2047,Jorge De La Rosa,1943,Zack Greinke
+33,"May 17, 2015",Away,LAD,35.1,L,0.0,1.0,6230,Kyle Kendrick,11137,Mike Bolsinger
+34,"May 18, 2015",Home,PHI,53.7,L,3.0,4.0,7593,Jordan Lyles,4972,Cole Hamels
+35,"May 19, 2015",Home,PHI,58.3,W,6.0,5.0,10587,Chad Bettis,1451,Aaron Harang
+36,"May 20, 2015",Home,PHI,58.5,L,2.0,4.0,13453,Eddie Butler,14697,Severino Gonzalez
+37,"May 21, 2015",Home,PHI,63.6,W,7.0,3.0,2047,Jorge De La Rosa,1137,Jerome Williams
+38,"May 22, 2015",Home,SFG,51.4,L,8.0,11.0,6230,Kyle Kendrick,1011,Ryan Vogelsong
+39,"May 23, 2015",Home,SFG,50.7,L,8.0,10.0,7593,Jordan Lyles,10302,Chris Heston
+40,"May 23, 2015",Home,SFG,48.8,W,5.0,3.0,9756,David Hale,4020,Yusmeiro Petit
+41,"May 24, 2015",Home,SFG,50.3,W,11.0,2.0,10587,Chad Bettis,921,Tim Hudson
+42,"May 25, 2015",Away,CIN,45.6,W,5.0,4.0,13453,Eddie Butler,105,Jason Marquis
+43,"May 26, 2015",Away,CIN,53.0,L,1.0,2.0,9895,Chris Rusin,14843,Michael Lorenzen
+44,"May 27, 2015",Away,CIN,43.5,W,6.0,4.0,6230,Kyle Kendrick,10130,Mike Leake
+45,"May 29, 2015",Away,PHI,44.7,W,4.0,1.0,10587,Chad Bettis,4972,Cole Hamels
+46,"May 30, 2015",Away,PHI,53.5,W,5.0,2.0,13453,Eddie Butler,1451,Aaron Harang
+47,"May 31, 2015",Away,PHI,54.3,W,4.0,1.0,7593,Jordan Lyles,1137,Jerome Williams
+48,"Jun 1, 2015",Home,LAD,32.4,L,4.0,11.0,6230,Kyle Kendrick,2036,Clayton Kershaw
+49,"Jun 2, 2015",Home,LAD,47.2,W,6.0,3.0,2047,Jorge De La Rosa,7731,Juan Nicasio
+50,"Jun 2, 2015",Home,LAD,39.6,L,8.0,9.0,9756,David Hale,1943,Zack Greinke
+51,"Jun 3, 2015",Home,LAD,48.0,W,7.0,6.0,10587,Chad Bettis,11137,Mike Bolsinger
+52,"Jun 5, 2015",Home,MIA,50.7,L,2.0,6.0,13453,Eddie Butler,6570,Tom Koehler
+53,"Jun 6, 2015",Home,MIA,57.7,W,10.0,5.0,9895,Chris Rusin,6316,David Phelps
+54,"Jun 7, 2015",Home,MIA,45.8,L,2.0,3.0,6230,Kyle Kendrick,11589,Jose Urena
+55,"Jun 8, 2015",Home,STL,43.3,W,11.0,3.0,9756,David Hale,1507,John Lackey
+56,"Jun 9, 2015",Home,STL,50.1,W,4.0,3.0,2047,Jorge De La Rosa,14078,Michael Wacha
+57,"Jun 10, 2015",Home,STL,47.7,L,2.0,4.0,10587,Chad Bettis,11682,Carlos Martinez
+58,"Jun 11, 2015",Away,MIA,52.7,L,0.0,6.0,9895,Chris Rusin,6316,David Phelps
+59,"Jun 12, 2015",Away,MIA,38.2,L,1.0,5.0,6230,Kyle Kendrick,11589,Jose Urena
+60,"Jun 13, 2015",Away,MIA,37.9,L,1.0,4.0,9756,David Hale,3815,Mat Latos
+61,"Jun 14, 2015",Away,MIA,47.9,W,4.0,1.0,2047,Jorge De La Rosa,1757,Dan Haren
+62,"Jun 15, 2015",Away,HOU,42.1,L,3.0,6.0,10587,Chad Bettis,9434,Dallas Keuchel
+63,"Jun 16, 2015",Away,HOU,56.5,L,5.0,8.0,9895,Chris Rusin,11189,Vince Velasquez
+64,"Jun 17, 2015",Home,HOU,51.9,L,4.0,8.0,6230,Kyle Kendrick,3855,Brett Oberholtzer
+65,"Jun 18, 2015",Home,HOU,48.0,L,4.0,8.0,9756,David Hale,7531,Collin McHugh
+66,"Jun 19, 2015",Home,MIL,60.4,L,5.0,9.0,2047,Jorge De La Rosa,13119,Taylor Jungmann
+67,"Jun 20, 2015",Home,MIL,56.9,W,5.0,1.0,10587,Chad Bettis,739,Kyle Lohse
+68,"Jun 21, 2015",Home,MIL,60.3,W,10.0,4.0,9895,Chris Rusin,3340,Matt Garza
+69,"Jun 23, 2015",Home,ARI,46.7,W,10.0,5.0,6230,Kyle Kendrick,6895,Chase Anderson
+70,"Jun 24, 2015",Home,ARI,51.3,L,7.0,8.0,9756,David Hale,3993,Allen Webster
+71,"Jun 25, 2015",Home,ARI,53.7,W,6.0,4.0,2047,Jorge De La Rosa,3862,Rubby de la Rosa
+72,"Jun 26, 2015",Away,SFG,45.8,W,8.0,6.0,10587,Chad Bettis,921,Tim Hudson
+73,"Jun 27, 2015",Away,SFG,55.3,L,5.0,7.0,9895,Chris Rusin,5705,Tim Lincecum
+74,"Jun 28, 2015",Away,SFG,32.1,L,3.0,6.0,6230,Kyle Kendrick,5524,Madison Bumgarner
+75,"Jun 29, 2015",Away,OAK,44.7,L,1.0,7.0,9756,David Hale,15514,Kendall Graveman
+76,"Jun 30, 2015",Away,OAK,44.1,W,2.0,1.0,2047,Jorge De La Rosa,12304,Chris Bassitt
+77,"Jul 1, 2015",Away,OAK,43.4,L,1.0,4.0,10587,Chad Bettis,13287,Jesse Hahn
+78,"Jul 2, 2015",Away,ARI,54.3,L,1.0,8.0,9895,Chris Rusin,4371,Jeremy Hellickson
+79,"Jul 3, 2015",Away,ARI,40.7,L,3.0,4.0,6230,Kyle Kendrick,6895,Chase Anderson
+80,"Jul 4, 2015",Away,ARI,36.3,L,3.0,7.0,9756,David Hale,9323,Patrick Corbin
+81,"Jul 5, 2015",Away,ARI,46.8,W,6.0,4.0,2047,Jorge De La Rosa,3862,Rubby de la Rosa
+82,"Jul 7, 2015",Home,LAA,52.5,L,2.0,10.0,10587,Chad Bettis,15423,Andrew Heaney
+83,"Jul 8, 2015",Home,LAA,49.0,L,2.0,3.0,9895,Chris Rusin,4776,Matt Shoemaker
+84,"Jul 9, 2015",Home,ATL,49.0,W,5.0,3.0,6230,Kyle Kendrick,13781,Jacob Brigham
+85,"Jul 10, 2015",Home,ATL,48.7,W,5.0,3.0,5876,Gonzalez Germen,10197,Shelby Miller
+86,"Jul 11, 2015",Home,ATL,61.1,W,3.0,2.0,2047,Jorge De La Rosa,12804,Matt Wisler
+87,"Jul 12, 2015",Home,ATL,53.9,W,11.0,3.0,10587,Chad Bettis,13781,Alex Wood
+88,"Jul 17, 2015",Away,SDP,44.5,L,2.0,4.0,2047,Jorge De La Rosa,7059,James Shields
+89,"Jul 18, 2015",Away,SDP,40.2,L,4.0,5.0,10587,Chad Bettis,7872,Tyson Ross
+90,"Jul 20, 2015",Home,TEX,59.0,W,8.0,7.0,9895,Chris Rusin,12730,Nick Martinez
+91,"Jul 21, 2015",Home,TEX,55.5,L,0.0,9.0,6230,Kyle Kendrick,5551,Matt Harrison
+92,"Jul 22, 2015",Home,TEX,57.4,L,8.0,10.0,2047,Jorge De La Rosa,6902,Martin Perez
+93,"Jul 24, 2015",Home,CIN,52.3,W,6.0,5.0,13453,Eddie Butler,13050,Anthony DeSclafani
+94,"Jul 25, 2015",Home,CIN,44.7,L,2.0,5.0,9895,Chris Rusin,6893,Johnny Cueto
+95,"Jul 26, 2015",Home,CIN,54.1,W,17.0,7.0,6230,Kyle Kendrick,14843,Michael Lorenzen
+96,"Jul 27, 2015",Away,CHC,42.7,L,8.0,9.0,2047,Jorge De La Rosa,12049,Kyle Hendricks
+97,"Jul 28, 2015",Away,CHC,46.7,W,7.0,2.0,5057,Yohan Flande,11471,Dallas Beeler
+98,"Jul 29, 2015",Away,CHC,34.3,L,2.0,3.0,13453,Eddie Butler,4930,Jon Lester
+99,"Jul 30, 2015",Away,STL,36.9,L,8.0,9.0,9895,Chris Rusin,11682,Carlos Martinez
+100,"Jul 31, 2015",Away,STL,33.8,L,0.0,7.0,6230,Kyle Kendrick,14078,Michael Wacha
+101,"Aug 1, 2015",Away,STL,38.6,W,6.0,2.0,2047,Jorge De La Rosa,2520,Lance Lynn
+102,"Aug 2, 2015",Away,STL,46.7,L,2.0,3.0,5057,Yohan Flande,8137,Jaime Garcia
+103,"Aug 3, 2015",Home,SEA,42.4,L,7.0,8.0,13453,Eddie Butler,4772,Felix Hernandez
+104,"Aug 4, 2015",Home,SEA,62.6,L,4.0,10.0,14916,Jon Gray,9674,Vidal Nuno
+105,"Aug 5, 2015",Home,SEA,52.6,W,7.0,5.0,9895,Chris Rusin,11836,Taijuan Walker
+106,"Aug 7, 2015",Away,WSN,39.2,W,5.0,4.0,2047,Jorge De La Rosa,4505,Jordan Zimmermann
+107,"Aug 8, 2015",Away,WSN,30.5,L,1.0,6.0,13453,Eddie Butler,10131,Stephen Strasburg
+108,"Aug 9, 2015",Away,WSN,37.1,W,6.0,4.0,5057,Yohan Flande,3137,Max Scherzer
+109,"Aug 10, 2015",Away,NYM,47.2,L,2.0,4.0,14916,Jon Gray,4424,Jon Niese
+110,"Aug 11, 2015",Away,NYM,37.1,L,0.0,4.0,9895,Chris Rusin,11713,Matt Harvey
+111,"Aug 12, 2015",Away,NYM,41.2,L,0.0,3.0,2047,Jorge De La Rosa,10954,Jacob deGrom
+112,"Aug 13, 2015",Away,NYM,33.9,L,3.0,12.0,13453,Eddie Butler,11762,Noah Syndergaard
+113,"Aug 14, 2015",Home,SDP,54.6,L,5.0,9.0,5057,Yohan Flande,7872,Tyson Ross
+114,"Aug 15, 2015",Home,SDP,52.5,L,5.0,7.0,14916,Jon Gray,8782,Andrew Cashner
+115,"Aug 16, 2015",Home,SDP,54.2,W,5.0,0.0,9895,Chris Rusin,6986,Ian Kennedy
+116,"Aug 18, 2015",Home,WSN,39.5,L,6.0,15.0,9756,David Hale,4505,Jordan Zimmermann
+117,"Aug 19, 2015",Home,WSN,43.9,L,1.0,4.0,2047,Jorge De La Rosa,10131,Stephen Strasburg
+118,"Aug 20, 2015",Home,WSN,45.3,W,3.0,2.0,5057,Yohan Flande,3137,Max Scherzer
+119,"Aug 21, 2015",Home,NYM,54.3,L,9.0,14.0,14916,Jon Gray,375,Bartolo Colon
+120,"Aug 22, 2015",Home,NYM,50.7,L,9.0,14.0,9895,Chris Rusin,4424,Jon Niese
+121,"Aug 23, 2015",Home,NYM,46.7,L,1.0,5.0,9756,David Hale,12905,Logan Verrett
+122,"Aug 24, 2015",Away,ATL,49.5,L,3.0,5.0,2047,Jorge De La Rosa,6797,Julio Teheran
+123,"Aug 25, 2015",Away,ATL,51.3,W,5.0,1.0,10587,Chad Bettis,10811,Mike Foltynewicz
+124,"Aug 26, 2015",Away,ATL,42.7,W,6.0,3.0,5057,Yohan Flande,10197,Shelby Miller
+125,"Aug 28, 2015",Away,PIT,33.9,L,3.0,5.0,14916,Jon Gray,3201,Francisco Liriano
+126,"Aug 29, 2015",Away,PIT,35.0,L,3.0,4.0,9895,Chris Rusin,7410,J.A. Happ
+127,"Aug 30, 2015",Away,PIT,38.2,W,5.0,0.0,2047,Jorge De La Rosa,4676,Charlie Morton
+128,"Aug 31, 2015",Home,ARI,52.3,W,5.0,4.0,10587,Chad Bettis,11486,Robbie Ray
+129,"Sep 1, 2015",Home,ARI,44.6,L,4.0,6.0,5057,Yohan Flande,9323,Patrick Corbin
+130,"Sep 1, 2015",Home,ARI,47.6,L,3.0,5.0,6230,Kyle Kendrick,3862,Rubby de la Rosa
+131,"Sep 2, 2015",Home,ARI,54.9,W,9.0,4.0,14916,Jon Gray,6895,Chase Anderson
+132,"Sep 3, 2015",Home,SFG,54.8,W,11.0,3.0,9895,Chris Rusin,1011,Ryan Vogelsong
+133,"Sep 4, 2015",Home,SFG,52.2,W,2.0,1.0,2047,Jorge De La Rosa,10302,Chris Heston
+134,"Sep 5, 2015",Home,SFG,52.8,L,3.0,7.0,10587,Chad Bettis,1051,Jake Peavy
+135,"Sep 6, 2015",Home,SFG,39.4,L,4.0,7.0,5057,Yohan Flande,5524,Madison Bumgarner
+136,"Sep 7, 2015",Away,SDP,37.0,W,6.0,4.0,6230,Kyle Kendrick,6986,Ian Kennedy
+137,"Sep 8, 2015",Away,SDP,46.3,L,1.0,2.0,14916,Jon Gray,12317,Colin Rea
+138,"Sep 9, 2015",Away,SDP,38.6,L,4.0,11.0,9895,Chris Rusin,7059,James Shields
+139,"Sep 10, 2015",Away,SDP,38.8,W,4.0,3.0,2047,Jorge De La Rosa,7872,Tyson Ross
+140,"Sep 11, 2015",Away,SEA,43.4,W,4.0,2.0,10587,Chad Bettis,13048,Hisashi Iwakuma
+141,"Sep 12, 2015",Away,SEA,44.5,L,2.0,7.0,5057,Yohan Flande,12673,Roenis Elias
+142,"Sep 13, 2015",Away,SEA,41.2,W,3.0,2.0,6230,Kyle Kendrick,11828,James Paxton
+143,"Sep 14, 2015",Away,LAD,31.8,L,1.0,4.0,14916,Jon Gray,2036,Clayton Kershaw
+144,"Sep 15, 2015",Away,LAD,37.8,W,5.0,4.0,9895,Chris Rusin,8223,Brett Anderson
+145,"Sep 16, 2015",Away,LAD,41.8,L,0.0,2.0,2047,Jorge De La Rosa,13781,Alex Wood
+146,"Sep 18, 2015",Home,SDP,52.4,W,7.0,4.0,10587,Chad Bettis,6986,Ian Kennedy
+147,"Sep 19, 2015",Home,SDP,42.7,W,10.0,2.0,5057,Yohan Flande,10354,Robbie Erlin
+148,"Sep 20, 2015",Home,SDP,43.6,L,4.0,10.0,6230,Kyle Kendrick,7059,James Shields
+149,"Sep 21, 2015",Home,PIT,48.5,L,3.0,9.0,14916,Jon Gray,512,A.J. Burnett
+150,"Sep 22, 2015",Home,PIT,41.6,L,3.0,6.0,9895,Chris Rusin,7410,J.A. Happ
+151,"Sep 23, 2015",Home,PIT,43.7,L,7.0,13.0,10925,Christian Bergman,4676,Charlie Morton
+152,"Sep 24, 2015",Home,PIT,46.2,L,4.0,5.0,10587,Chad Bettis,2929,Jeff Locke
+153,"Sep 25, 2015",Home,LAD,42.3,W,7.0,4.0,9756,David Hale,11137,Mike Bolsinger
+154,"Sep 26, 2015",Home,LAD,41.2,W,8.0,6.0,6230,Kyle Kendrick,8223,Brett Anderson
+155,"Sep 27, 2015",Home,LAD,45.5,W,12.0,5.0,9895,Chris Rusin,13781,Alex Wood
+156,"Sep 29, 2015",Away,ARI,42.5,L,3.0,4.0,10925,Christian Bergman,11486,Robbie Ray
+157,"Sep 30, 2015",Away,ARI,45.4,L,1.0,3.0,10587,Chad Bettis,6895,Chase Anderson
+158,"Oct 1, 2015",Away,ARI,34.3,L,6.0,8.0,9756,David Hale,9323,Patrick Corbin
+159,"Oct 2, 2015",Away,SFG,37.3,W,9.0,3.0,6230,Kyle Kendrick,10302,Chris Heston
+160,"Oct 3, 2015",Away,SFG,40.2,L,2.0,3.0,9895,Chris Rusin,1051,Jake Peavy
+161,"Oct 4, 2015",Away,SFG,45.7,W,7.0,3.0,10925,Christian Bergman,4732,Matt Cain
