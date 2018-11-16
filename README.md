@@ -1,6 +1,8 @@
 # DFSSummerProject
 This project was done in the summer of 2018. I have since taken a class in Software Engineering and will need to refactor the code base.  I made some silly mistakes that would need to be corrected.
 
+**UPDATE** As I learn more in Machine Learning / Deep Learning this project needs to be redone.  I can do much better on predictions and software engineering.  I am going to be working on prediction code for NBA DFS.
+
 If you are wanting to play with my code you need Gurobi Optimzation package.
 The webscraper I wrote grabs the current date for line ups, since there is no game data past September 5th I recommend to see it run you pick Sept5 for the date, and set the know flag to false. I switched the predictions I was using near the end, so this will stop any conflicts.
 
